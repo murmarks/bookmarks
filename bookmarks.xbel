@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :25606: for Floccus bookmark sync browser extension -->
+<!--- highestId :25608: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.tr/?gws_rd=ssl" id="1">
   <title></title>
@@ -1193,7 +1193,7 @@
       <title>VN Domain Control Panel</title>
     </bookmark>
     <bookmark href="https://ifttt.com/recipes" id="2022">
-      <title> IFTTT Recipes</title>
+      <title>IFTTT Recipes</title>
     </bookmark>
     <bookmark href="https://www.hurpass.com/user/" id="2023">
       <title>Hürriyet Üyelik</title>
@@ -1292,7 +1292,7 @@
       <title>Speechelo</title>
     </bookmark>
     <bookmark href="https://account.xiaomi.com/" id="2139">
-      <title>Mi Account </title>
+      <title>Mi Account</title>
     </bookmark>
     <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="2140">
       <title>Xiaomi Cloud</title>
@@ -1406,6 +1406,12 @@
   <bookmark href="https://saucenao.com/" id="1828">
     <title>SauceNAO Reverse Image Search</title>
   </bookmark>
+</folder>
+<folder id="25607">
+  <title>Account</title>
+  <folder id="25608">
+    <title>murvietnam@gmail.com</title>
+  </folder>
 </folder>
 <folder id="7">
   <title>€</title>
@@ -1610,7 +1616,7 @@
   <folder id="45">
     <title>No-Cache</title>
     <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="113">
-      <title>MuratVural.com – </title>
+      <title>MuratVural.com –</title>
     </bookmark>
     <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="114">
       <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
@@ -2047,7 +2053,7 @@
         <title>USB GELMİYOR DROPSHIPci .ort to 2.0*0.6mm 2.5*0.7mm 3.5*1.35mm 4.0*1.7mm 5.5*2.1mm 5V DC Barrel Jack Power Cable Connector-in Computer Cables &amp; Connectors from Computer &amp; Office on Aliexpress.com | Alibaba Group</title>
       </bookmark>
       <bookmark href="https://www.aliexpress.com/store/top-rated-products/2180007.html?spm=a2g1y.12024536.pcShopHead_1766281.3" id="1623">
-        <title>SİTTİN SENE GÖNDEREMİYOR - BEKLE DE BEKLE Diy Box Electronics Mall - </title>
+        <title>SİTTİN SENE GÖNDEREMİYOR - BEKLE DE BEKLE Diy Box Electronics Mall -</title>
       </bookmark>
       <bookmark href="https://www.aliexpress.com/store/4395012/search?spm=2114.12010615.8148362.8.14161e26lVyBJ5&amp;origin=n&amp;SortType=price_asc" id="1820">
         <title>CANCEL ETMEDİ YANLIŞ ORDERI Find All China Products On Sale from Smart-Home. Store on Aliexpress.com - Led strip wireless remote control RGBW LED light strip controller Compatible Alexa Google Assistant 16 Million Colorful,ANYSANE Universal Wireless Gate Door Remote Control RF 433mhz Gate Curtain Transmitter Receiver For External Motor Controller,ANYSANE Rolling Shutter Tubular Motor Controller Wireless Garage Door Electric Door Remote Control Kit RF433mhz Receiver Emitter and more</title>
@@ -2127,7 +2133,7 @@
           <title>Lungfish Lungfish Store - Small Orders Online Store, Hot Selling and more on Aliexpress.com | Alibaba Group</title>
         </bookmark>
         <bookmark href="https://www.aliexpress.com/store/all-wholesale-products/2819096.html?shop_ab=itm2home-3" id="1150">
-          <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket </title>
+          <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket</title>
         </bookmark>
         <bookmark href="https://www.aliexpress.com/store/product/Ugreen-Cable-Winder-Earphone-Cable-Organizer-Silicon-Wire-Holder-For-Charger-Data-Cable-Holder-Clips-for/301635_32812972841.html" id="1151">
           <title>Aliexpress.com : Buy Ugreen Cable Organizer Silicone USB Cable Winder Flexible Cable Management Clips Cable Holder For Mouse Headphone Earphone from Reliable cable holder suppliers on Ugreen Official Store</title>
@@ -7882,7 +7888,7 @@
         <title>EveryCircuit</title>
       </bookmark>
       <bookmark href="https://www.systemvision.com/" id="659">
-        <title>SystemVision® Cloud </title>
+        <title>SystemVision® Cloud</title>
       </bookmark>
     </folder>
   </folder>
@@ -10700,7 +10706,7 @@
                   <title>Lungfish Lungfish Store - Small Orders Online Store, Hot Selling and more on Aliexpress.com | Alibaba Group</title>
                 </bookmark>
                 <bookmark href="https://www.aliexpress.com/store/all-wholesale-products/2819096.html?shop_ab=itm2home-3" id="6355">
-                  <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket </title>
+                  <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket</title>
                 </bookmark>
                 <bookmark href="https://www.aliexpress.com/store/product/Ugreen-Cable-Winder-Earphone-Cable-Organizer-Silicon-Wire-Holder-For-Charger-Data-Cable-Holder-Clips-for/301635_32812972841.html" id="6356">
                   <title>Aliexpress.com : Buy Ugreen Cable Organizer Silicone USB Cable Winder Flexible Cable Management Clips Cable Holder For Mouse Headphone Earphone from Reliable cable holder suppliers on Ugreen Official Store</title>
@@ -12036,7 +12042,7 @@
                 <title>EveryCircuit</title>
               </bookmark>
               <bookmark href="https://www.systemvision.com/" id="4077">
-                <title>SystemVision® Cloud </title>
+                <title>SystemVision® Cloud</title>
               </bookmark>
             </folder>
           </folder>
@@ -13983,7 +13989,7 @@
                 <title>VN Domain Control Panel</title>
               </bookmark>
               <bookmark href="https://ifttt.com/recipes" id="8832">
-                <title> IFTTT Recipes</title>
+                <title>IFTTT Recipes</title>
               </bookmark>
               <bookmark href="https://www.hurpass.com/user/" id="8833">
                 <title>Hürriyet Üyelik</title>
@@ -14320,7 +14326,7 @@
                     <title>Rescue Disks</title>
                   </bookmark>
                   <bookmark href="http://livecdlist.com/" id="5554">
-                    <title> LiveCD List</title>
+                    <title>LiveCD List</title>
                   </bookmark>
                 </folder>
                 <folder id="4717">
@@ -14412,7 +14418,7 @@
                       <title>Team R2R</title>
                     </bookmark>
                     <bookmark href="http://8037xl.com/" id="6552">
-                      <title>AllCanDL.org All Warez </title>
+                      <title>AllCanDL.org All Warez</title>
                     </bookmark>
                     <bookmark href="https://www.teamos-hkrg.com/index.php" id="6553">
                       <title>Team OS : Your Only Destination To Custom OS !!</title>
@@ -29423,7 +29429,7 @@
                         <title>CaptureManiac®Blog</title>
                       </bookmark>
                       <bookmark href="http://femdom.katzhot.com/" id="17968">
-                        <title>Femdom Download Blog </title>
+                        <title>Femdom Download Blog</title>
                       </bookmark>
                       <bookmark href="http://www.ct123456.com/" id="17969">
                         <title>论坛 - 终点站 踩踏 - Powered by Discuz!</title>
@@ -30739,7 +30745,7 @@
                 <folder id="15311">
                   <title>Search</title>
                   <bookmark href="http://pron.tv/" id="15744">
-                    <title> Porn Search Engine</title>
+                    <title>Porn Search Engine</title>
                   </bookmark>
                   <bookmark href="http://fetish-planet.org/" id="15745">
                     <title>Extreme fetish forum</title>
@@ -31584,7 +31590,7 @@
                       <title>F Galaxy</title>
                     </bookmark>
                     <bookmark href="https://chaturbate.com/" id="18394">
-                      <title>Chaturbate </title>
+                      <title>Chaturbate</title>
                     </bookmark>
                     <bookmark href="http://camquickie.com/" id="18395">
                       <title>Cam Quickie</title>
@@ -32296,7 +32302,7 @@
                     <title>Lungfish Lungfish Store - Small Orders Online Store, Hot Selling and more on Aliexpress.com | Alibaba Group</title>
                   </bookmark>
                   <bookmark href="https://www.aliexpress.com/store/all-wholesale-products/2819096.html?shop_ab=itm2home-3" id="7381">
-                    <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket </title>
+                    <title>Find All China Products On Sale from XC Keep Moving Keep Fit Store on Aliexpress.com - Huieson 10pcs/bag Professional Table Tennis Ball 40mm Diameter 2.9g 3 Star Ping Pong Balls for Competition Training Low Pirce ,Huieson Carbon Fiber Table Tennis Racket</title>
                   </bookmark>
                   <bookmark href="https://www.aliexpress.com/store/product/Ugreen-Cable-Winder-Earphone-Cable-Organizer-Silicon-Wire-Holder-For-Charger-Data-Cable-Holder-Clips-for/301635_32812972841.html" id="7382">
                     <title>Aliexpress.com : Buy Ugreen Cable Organizer Silicone USB Cable Winder Flexible Cable Management Clips Cable Holder For Mouse Headphone Earphone from Reliable cable holder suppliers on Ugreen Official Store</title>
@@ -33632,7 +33638,7 @@
                   <title>EveryCircuit</title>
                 </bookmark>
                 <bookmark href="https://www.systemvision.com/" id="4918">
-                  <title>SystemVision® Cloud </title>
+                  <title>SystemVision® Cloud</title>
                 </bookmark>
               </folder>
             </folder>
@@ -35579,7 +35585,7 @@
                   <title>VN Domain Control Panel</title>
                 </bookmark>
                 <bookmark href="https://ifttt.com/recipes" id="9152">
-                  <title> IFTTT Recipes</title>
+                  <title>IFTTT Recipes</title>
                 </bookmark>
                 <bookmark href="https://www.hurpass.com/user/" id="9153">
                   <title>Hürriyet Üyelik</title>
@@ -35916,7 +35922,7 @@
                       <title>Rescue Disks</title>
                     </bookmark>
                     <bookmark href="http://livecdlist.com/" id="6833">
-                      <title> LiveCD List</title>
+                      <title>LiveCD List</title>
                     </bookmark>
                   </folder>
                   <folder id="5829">
@@ -36008,7 +36014,7 @@
                         <title>Team R2R</title>
                       </bookmark>
                       <bookmark href="http://8037xl.com/" id="7578">
-                        <title>AllCanDL.org All Warez </title>
+                        <title>AllCanDL.org All Warez</title>
                       </bookmark>
                       <bookmark href="https://www.teamos-hkrg.com/index.php" id="7579">
                         <title>Team OS : Your Only Destination To Custom OS !!</title>
@@ -51019,7 +51025,7 @@
                           <title>CaptureManiac®Blog</title>
                         </bookmark>
                         <bookmark href="http://femdom.katzhot.com/" id="18671">
-                          <title>Femdom Download Blog </title>
+                          <title>Femdom Download Blog</title>
                         </bookmark>
                         <bookmark href="http://www.ct123456.com/" id="18672">
                           <title>论坛 - 终点站 踩踏 - Powered by Discuz!</title>
@@ -52335,7 +52341,7 @@
                   <folder id="15847">
                     <title>Search</title>
                     <bookmark href="http://pron.tv/" id="16592">
-                      <title> Porn Search Engine</title>
+                      <title>Porn Search Engine</title>
                     </bookmark>
                     <bookmark href="http://fetish-planet.org/" id="16593">
                       <title>Extreme fetish forum</title>
@@ -53180,7 +53186,7 @@
                         <title>F Galaxy</title>
                       </bookmark>
                       <bookmark href="https://chaturbate.com/" id="18875">
-                        <title>Chaturbate </title>
+                        <title>Chaturbate</title>
                       </bookmark>
                       <bookmark href="http://camquickie.com/" id="18876">
                         <title>Cam Quickie</title>
@@ -54147,7 +54153,7 @@
                 <title>Rescue Disks</title>
               </bookmark>
               <bookmark href="http://livecdlist.com/" id="4317">
-                <title> LiveCD List</title>
+                <title>LiveCD List</title>
               </bookmark>
             </folder>
             <folder id="3860">
@@ -54170,7 +54176,7 @@
                   <title>Team R2R</title>
                 </bookmark>
                 <bookmark href="http://8037xl.com/" id="5078">
-                  <title>AllCanDL.org All Warez </title>
+                  <title>AllCanDL.org All Warez</title>
                 </bookmark>
                 <bookmark href="https://www.teamos-hkrg.com/index.php" id="5079">
                   <title>Team OS : Your Only Destination To Custom OS !!</title>
@@ -57556,7 +57562,7 @@
               <title>VN Domain Control Panel</title>
             </bookmark>
             <bookmark href="https://ifttt.com/recipes" id="8768">
-              <title> IFTTT Recipes</title>
+              <title>IFTTT Recipes</title>
             </bookmark>
             <bookmark href="https://www.hurpass.com/user/" id="8769">
               <title>Hürriyet Üyelik</title>
@@ -57893,7 +57899,7 @@
                   <title>Rescue Disks</title>
                 </bookmark>
                 <bookmark href="http://livecdlist.com/" id="5208">
-                  <title> LiveCD List</title>
+                  <title>LiveCD List</title>
                 </bookmark>
               </folder>
               <folder id="4457">
@@ -57985,7 +57991,7 @@
                     <title>Team R2R</title>
                   </bookmark>
                   <bookmark href="http://8037xl.com/" id="6206">
-                    <title>AllCanDL.org All Warez </title>
+                    <title>AllCanDL.org All Warez</title>
                   </bookmark>
                   <bookmark href="https://www.teamos-hkrg.com/index.php" id="6207">
                     <title>Team OS : Your Only Destination To Custom OS !!</title>
@@ -72996,7 +73002,7 @@
                       <title>CaptureManiac®Blog</title>
                     </bookmark>
                     <bookmark href="http://femdom.katzhot.com/" id="17806">
-                      <title>Femdom Download Blog </title>
+                      <title>Femdom Download Blog</title>
                     </bookmark>
                     <bookmark href="http://www.ct123456.com/" id="17807">
                       <title>论坛 - 终点站 踩踏 - Powered by Discuz!</title>
@@ -74312,7 +74318,7 @@
               <folder id="15112">
                 <title>Search</title>
                 <bookmark href="http://pron.tv/" id="15606">
-                  <title> Porn Search Engine</title>
+                  <title>Porn Search Engine</title>
                 </bookmark>
                 <bookmark href="http://fetish-planet.org/" id="15607">
                   <title>Extreme fetish forum</title>
@@ -75157,7 +75163,7 @@
                     <title>F Galaxy</title>
                   </bookmark>
                   <bookmark href="https://chaturbate.com/" id="17916">
-                    <title>Chaturbate </title>
+                    <title>Chaturbate</title>
                   </bookmark>
                   <bookmark href="http://camquickie.com/" id="17917">
                     <title>Cam Quickie</title>
