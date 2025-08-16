@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :152: for Floccus bookmark sync browser extension -->
+<!--- highestId :167: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -202,35 +202,35 @@
   <title>€</title>
   <folder id="25">
     <title>WEBMUSTER</title>
-    <bookmark href="http://localhost/site/" id="55">
-      <title>Deneme</title>
-    </bookmark>
-    <bookmark href="http://localhost/site/wp-admin/index.php" id="56">
-      <title>Dashboard ‹ Deneme — WordPress</title>
-    </bookmark>
-    <bookmark href="https://docs.thimpress.com/eduma/introduction/" id="57">
-      <title>Introduction - Eduma - ThimPress Docs</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=SJEfYoQU1fc&amp;t=1s" id="58">
-      <title>[Eduma]: How to use Thim-Elementor-Kit to import/customize Pages and Blocks - YouTube</title>
-    </bookmark>
-    <bookmark href="https://docs.thimpress.com/thim-elementor-kit/" id="59">
-      <title>Thim Elementor Kit - ThimPress Docs</title>
-    </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/doktorvural.com/databases/php-my-admin?redirectLocation=side_menu" id="60">
-      <title>PHP My Admin | Hostinger</title>
-    </bookmark>
-    <bookmark href="http://localhost/site/wp-admin/options.php" id="61">
-      <title>Settings ‹ Deneme — WordPress</title>
-    </bookmark>
-    <bookmark href="https://downforeveryoneorjustme.com/doktorvural.com" id="62">
-      <title>Is Doktorvural.com down? Live status and problems past 24 hours</title>
+    <bookmark href="https://codepen.io/pen/" id="64">
+      <title>CodePen - Create a New Pen</title>
     </bookmark>
     <bookmark href="https://www.isitdownrightnow.com/doktorvural.com.html" id="63">
       <title>Doktorvural.com - Is Doktorvural Down Right Now?</title>
     </bookmark>
-    <bookmark href="https://codepen.io/pen/" id="64">
-      <title>CodePen - Create a New Pen</title>
+    <bookmark href="https://downforeveryoneorjustme.com/doktorvural.com" id="62">
+      <title>Is Doktorvural.com down? Live status and problems past 24 hours</title>
+    </bookmark>
+    <bookmark href="http://localhost/site/wp-admin/options.php" id="61">
+      <title>Settings ‹ Deneme — WordPress</title>
+    </bookmark>
+    <bookmark href="https://hpanel.hostinger.com/websites/doktorvural.com/databases/php-my-admin?redirectLocation=side_menu" id="60">
+      <title>PHP My Admin | Hostinger</title>
+    </bookmark>
+    <bookmark href="https://docs.thimpress.com/thim-elementor-kit/" id="59">
+      <title>Thim Elementor Kit - ThimPress Docs</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=SJEfYoQU1fc&amp;t=1s" id="58">
+      <title>[Eduma]: How to use Thim-Elementor-Kit to import/customize Pages and Blocks - YouTube</title>
+    </bookmark>
+    <bookmark href="https://docs.thimpress.com/eduma/introduction/" id="57">
+      <title>Introduction - Eduma - ThimPress Docs</title>
+    </bookmark>
+    <bookmark href="http://localhost/site/wp-admin/index.php" id="56">
+      <title>Dashboard ‹ Deneme — WordPress</title>
+    </bookmark>
+    <bookmark href="http://localhost/site/" id="55">
+      <title>Deneme</title>
     </bookmark>
     <bookmark href="https://doktorvural.com/tr/wp-admin/plugins.php" id="108">
       <title>Eklentiler ‹ Dr.Murat Vural Online Eğitim — WordPress</title>
@@ -413,49 +413,49 @@
       <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
     </bookmark>
   </folder>
-  <bookmark href="https://hpanel.hostinger.com/" id="28">
+  <bookmark href="https://hpanel.hostinger.com/" id="153">
     <title>Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites" id="29">
+  <bookmark href="https://hpanel.hostinger.com/websites" id="154">
     <title>Websites | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="30">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="155">
     <title>WEBSITE DETAILS &amp; INSTALL</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="31">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="156">
     <title>Website Backups</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="32">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="157">
     <title>Dashboard</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="33">
+  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="158">
     <title>DNS / Nameservers | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="34">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="159">
     <title>Resources Usage | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="98">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="160">
     <title>PHP My Admin</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="99">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="161">
     <title>File Manager</title>
   </bookmark>
-  <bookmark href="https://mail.hostinger.com/" id="100">
+  <bookmark href="https://mail.hostinger.com/" id="162">
     <title>Webmail</title>
   </bookmark>
-  <bookmark href="http://localhost/phpmyadmin/" id="101">
+  <bookmark href="http://localhost/phpmyadmin/" id="163">
     <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="102">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="164">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
-  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="103">
+  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="165">
     <title>Analytics | Home</title>
   </bookmark>
-  <bookmark href="https://search.google.com/search-console/welcome" id="104">
+  <bookmark href="https://search.google.com/search-console/welcome" id="166">
     <title>Welcome to Google Search Console</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="132">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="167">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
 </folder>
