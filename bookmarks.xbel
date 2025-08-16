@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :182: for Floccus bookmark sync browser extension -->
+<!--- highestId :197: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -246,11 +246,11 @@
     <title>$$</title>
     <folder id="65">
       <title>Shopeefood</title>
-      <bookmark href="https://merchant.shopeefood.vn/account/login" id="86">
-        <title>ShopeeFood Merchant</title>
-      </bookmark>
       <bookmark href="https://partner.shopee.vn/dashboard" id="87">
         <title>Shopee Partner</title>
+      </bookmark>
+      <bookmark href="https://merchant.shopeefood.vn/account/login" id="86">
+        <title>ShopeeFood Merchant</title>
       </bookmark>
     </folder>
     <folder id="66">
@@ -357,15 +357,6 @@
       <bookmark href="https://www.oberlo.com/blog/how-to-make-money-online" id="92">
         <title>28 Realistic Ways to Make Money Online in 2021 | Oberlo</title>
       </bookmark>
-      <bookmark href="https://economictimes.indiatimes.com/wealth/earn/how-to-earn-money-online/articleshow/65290096.cms?from=mdr" id="93">
-        <title>Earn Money Online: How to Earn Money Online | Ways to make money online</title>
-      </bookmark>
-      <bookmark href="https://mumsmoney.com/make-100-a-day/" id="94">
-        <title>29 Genuine Ways to Make $100 a Day Online + Offline (2021)</title>
-      </bookmark>
-      <bookmark href="https://toloka.yandex.com.tr/" id="95">
-        <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
-      </bookmark>
       <folder id="96">
         <title>Other</title>
         <bookmark href="https://www.weebly.com/" id="121">
@@ -381,8 +372,14 @@
           <title>WordPress.com: Create a Free Website or Blog</title>
         </bookmark>
       </folder>
+      <bookmark href="https://economictimes.indiatimes.com/wealth/earn/how-to-earn-money-online/articleshow/65290096.cms?from=mdr" id="93">
+        <title>Earn Money Online: How to Earn Money Online | Ways to make money online</title>
+      </bookmark>
       <bookmark href="https://www.youtube.com/c/TechLead/videos" id="97">
         <title>TechLead - YouTube</title>
+      </bookmark>
+      <bookmark href="https://mumsmoney.com/make-100-a-day/" id="94">
+        <title>29 Genuine Ways to Make $100 a Day Online + Offline (2021)</title>
       </bookmark>
       <folder id="131">
         <title>google ad e bastırma tekniği</title>
@@ -390,6 +387,9 @@
           <title>FREE DOWNLOAD Blaze - Portfolio Theme - Free Themes</title>
         </bookmark>
       </folder>
+      <bookmark href="https://toloka.yandex.com.tr/" id="95">
+        <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
+      </bookmark>
     </folder>
     <bookmark href="https://www.vietnam-visa.com/5-job-trends-in-vietnam-for-foreigners/" id="67">
       <title>5 job trends preferred by foreigners seeking permanent job in Vietnam</title>
@@ -413,49 +413,49 @@
       <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
     </bookmark>
   </folder>
-  <bookmark href="https://hpanel.hostinger.com/" id="168">
+  <bookmark href="https://hpanel.hostinger.com/" id="183">
     <title>Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites" id="169">
+  <bookmark href="https://hpanel.hostinger.com/websites" id="184">
     <title>Websites | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="170">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="185">
     <title>WEBSITE DETAILS &amp; INSTALL</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="171">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="186">
     <title>Website Backups</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="172">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="187">
     <title>Dashboard</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="173">
+  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="188">
     <title>DNS / Nameservers | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="174">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="189">
     <title>Resources Usage | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="175">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="190">
     <title>PHP My Admin</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="176">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="191">
     <title>File Manager</title>
   </bookmark>
-  <bookmark href="https://mail.hostinger.com/" id="177">
+  <bookmark href="https://mail.hostinger.com/" id="192">
     <title>Webmail</title>
   </bookmark>
-  <bookmark href="http://localhost/phpmyadmin/" id="178">
+  <bookmark href="http://localhost/phpmyadmin/" id="193">
     <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="179">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="194">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
-  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="180">
+  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="195">
     <title>Analytics | Home</title>
   </bookmark>
-  <bookmark href="https://search.google.com/search-console/welcome" id="181">
+  <bookmark href="https://search.google.com/search-console/welcome" id="196">
     <title>Welcome to Google Search Console</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="182">
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="197">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
 </folder>
