@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :197: for Floccus bookmark sync browser extension -->
+<!--- highestId :198: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -459,4 +459,7 @@
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
 </folder>
+<bookmark href="https://www.speedtest.net/" id="198">
+  <title>Speedtest by Ookla - The Global Broadband Speed Test</title>
+</bookmark>
 </xbel>
