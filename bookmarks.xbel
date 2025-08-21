@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :589: for Floccus bookmark sync browser extension -->
+<!--- highestId :634: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -199,6 +199,18 @@
         <title>IP Cam</title>
         <folder id="362">
           <title>OLD</title>
+          <bookmark href="http://192.168.1.200/" id="406">
+            <title>CAM-DLink0 (192.168.1.200-admin)</title>
+          </bookmark>
+          <bookmark href="http://192.168.1.201/" id="590">
+            <title>CAM-DLink1 (192.168.1.201-admin)</title>
+          </bookmark>
+          <bookmark href="http://192.168.1.202/" id="591">
+            <title>CAM-DLink2 (192.168.1.202-admin)</title>
+          </bookmark>
+          <bookmark href="http://192.168.1.203/" id="592">
+            <title>CAM-DLink3 (192.168.1.203-admin)</title>
+          </bookmark>
           <folder id="405">
             <title>Live</title>
             <bookmark href="http://192.168.1.200/video/mjpg.cgi" id="447">
@@ -214,18 +226,6 @@
               <title>CAM-DLink3</title>
             </bookmark>
           </folder>
-          <bookmark href="http://192.168.1.200/" id="406">
-            <title>CAM-DLink0 (192.168.1.200-admin)</title>
-          </bookmark>
-          <bookmark href="http://192.168.1.201/" id="407">
-            <title>CAM-DLink1 (192.168.1.201-admin)</title>
-          </bookmark>
-          <bookmark href="http://192.168.1.202/" id="408">
-            <title>CAM-DLink2 (192.168.1.202-admin)</title>
-          </bookmark>
-          <bookmark href="http://192.168.1.203/" id="409">
-            <title>CAM-DLink3 (192.168.1.203-admin)</title>
-          </bookmark>
         </folder>
       </folder>
       <folder id="328">
@@ -806,52 +806,34 @@
         <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="398">
           <title>E-Sehir.com</title>
         </bookmark>
-        <bookmark href="https://streetview-tr.com/" id="399">
-          <title>Google Street View Turkey</title>
-        </bookmark>
-        <bookmark href="https://www.google.com/maps/d/?page=explore" id="453">
-          <title>Google My Maps</title>
-        </bookmark>
         <bookmark href="https://www.nereyebagli.com/" id="454">
           <title>Nereye Bağlı</title>
         </bookmark>
         <bookmark href="http://www.haritamap.com/" id="455">
           <title>HaritaMap.com</title>
         </bookmark>
-        <bookmark href="http://www.trharita.com/" id="456">
-          <title>Türkiye Haritası</title>
+        <bookmark href="https://streetview-tr.com/" id="593">
+          <title>Google Street View Turkey</title>
         </bookmark>
-        <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="457">
-          <title>E-Sehir.com</title>
+        <bookmark href="https://www.google.com/maps/d/?page=explore" id="594">
+          <title>Google My Maps</title>
         </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="458">
+        <bookmark href="http://www.haritalar.web.tr/" id="595">
           <title>Tematik Haritaları</title>
         </bookmark>
-        <bookmark href="https://www.nereyebagli.com/" id="459">
-          <title>Nereye Bağlı</title>
-        </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="460">
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="596">
           <title>Ankara Büyükşehir Belediyesi</title>
         </bookmark>
-        <bookmark href="http://www.trharita.com/" id="493">
-          <title>Türkiye Haritası</title>
-        </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="494">
+        <bookmark href="http://www.haritalar.web.tr/" id="597">
           <title>Tematik Haritaları</title>
         </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="495">
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="598">
           <title>Ankara Büyükşehir Belediyesi</title>
         </bookmark>
-        <bookmark href="https://dinosaurpictures.org/ancient-earth#240" id="496">
-          <title>Ancient Earth globe</title>
-        </bookmark>
-        <bookmark href="https://www.instantstreetview.com/" id="497">
-          <title>Instant Google Street View</title>
-        </bookmark>
-        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="498">
+        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="599">
           <title>Harita İstanbul</title>
         </bookmark>
-        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="499">
+        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="600">
           <title>OpenStreetMap</title>
         </bookmark>
       </folder>
@@ -1112,12 +1094,6 @@
 </folder>
 <folder id="2">
   <title>AI</title>
-  <bookmark href="chrome://settings/content/microphone" id="5">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="6">
-    <title>Settings - Extensions</title>
-  </bookmark>
   <folder id="7">
     <title>Speed-to-Text</title>
     <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="35">
@@ -1199,17 +1175,11 @@
   <bookmark href="https://x.com/i/grok" id="10">
     <title>Grok-Twitter</title>
   </bookmark>
-  <bookmark href="https://manus.im/app" id="11">
-    <title>Manus</title>
-  </bookmark>
   <bookmark href="https://grok.com/" id="12">
     <title>Grok</title>
   </bookmark>
   <bookmark href="https://chat.mistral.ai/chat" id="218">
     <title>Le Chat</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="13">
-    <title>Claude</title>
   </bookmark>
   <bookmark href="https://cursor.com/" id="219">
     <title>Cursor - The AI Code Editor</title>
@@ -1226,20 +1196,11 @@
   <bookmark href="https://sourcegraph.com/" id="223">
     <title>Sourcegraph AI agents</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="73">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="74">
-    <title>Perplexity</title>
-  </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="75">
     <title>DeepSeek</title>
   </bookmark>
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="76">
     <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="77">
-    <title>Google Gemini</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="224">
     <title>Gemini Code Assist | AI coding assistant</title>
@@ -1250,31 +1211,55 @@
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="14">
     <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="78">
+  <bookmark href="chrome://settings/content/microphone" id="601">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="602">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="603">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="604">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="605">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="606">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="607">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="608">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="609">
     <title>Scribble Diffusion</title>
   </bookmark>
-  <bookmark href="https://www.krea.ai/" id="79">
+  <bookmark href="https://www.krea.ai/" id="610">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="80">
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="611">
     <title>ImagineArt Image Studio</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="125">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="612">
     <title>Microsoft Designer - Stunning designs in a flash</title>
   </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="126">
+  <bookmark href="https://pollo.ai/ai-image-generator" id="613">
     <title>Pollo AI</title>
   </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="127">
+  <bookmark href="https://www.midjourney.com/home" id="614">
     <title>Midjourney</title>
   </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="128">
+  <bookmark href="https://www.seaart.ai/create/image" id="615">
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="129">
+  <bookmark href="https://openart.ai/" id="616">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="130">
+  <bookmark href="https://creator.nightcafe.studio/studio" id="617">
     <title>NightCafe</title>
   </bookmark>
 </folder>
@@ -1370,6 +1355,66 @@
       <title>Dashboard ‹ Deneme — WordPress</title>
     </bookmark>
   </folder>
+  <folder id="27">
+    <title>No-Cache</title>
+    <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="69">
+      <title>MuratVural.com –</title>
+    </bookmark>
+    <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="70">
+      <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+    </bookmark>
+    <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="71">
+      <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+    </bookmark>
+    <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="72">
+      <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://hpanel.hostinger.com/" id="618">
+    <title>Hostinger</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites" id="619">
+    <title>Websites | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="620">
+    <title>WEBSITE DETAILS &amp; INSTALL</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="621">
+    <title>Website Backups</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="622">
+    <title>Dashboard</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="623">
+    <title>DNS / Nameservers | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="624">
+    <title>Resources Usage | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="625">
+    <title>PHP My Admin</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="626">
+    <title>File Manager</title>
+  </bookmark>
+  <bookmark href="https://mail.hostinger.com/" id="627">
+    <title>Webmail</title>
+  </bookmark>
+  <bookmark href="http://localhost/phpmyadmin/" id="628">
+    <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="629">
+    <title>PHP Configuration | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="630">
+    <title>Analytics | Home</title>
+  </bookmark>
+  <bookmark href="https://search.google.com/search-console/welcome" id="631">
+    <title>Welcome to Google Search Console</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="632">
+    <title>PHP Configuration | Hostinger</title>
+  </bookmark>
   <folder id="26">
     <title>$$</title>
     <folder id="65">
@@ -1519,73 +1564,13 @@
         <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.vietnam-visa.com/5-job-trends-in-vietnam-for-foreigners/" id="67">
+    <bookmark href="https://www.vietnam-visa.com/5-job-trends-in-vietnam-for-foreigners/" id="633">
       <title>5 job trends preferred by foreigners seeking permanent job in Vietnam</title>
     </bookmark>
-    <bookmark href="https://www.worldtesolacademy.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuEXqZDoOklnAFJ2NOS3kuZy8qrS_hl4YlTcz8cSlJla3xlSAJ6GlJhoCvy8QAvD_BwE" id="68">
+    <bookmark href="https://www.worldtesolacademy.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuEXqZDoOklnAFJ2NOS3kuZy8qrS_hl4YlTcz8cSlJla3xlSAJ6GlJhoCvy8QAvD_BwE" id="634">
       <title>World TESOL Academy - Accredited TESOL/TEFL Certificate - World TESOL Academy</title>
     </bookmark>
   </folder>
-  <folder id="27">
-    <title>No-Cache</title>
-    <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="69">
-      <title>MuratVural.com –</title>
-    </bookmark>
-    <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="70">
-      <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-    </bookmark>
-    <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="71">
-      <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-    </bookmark>
-    <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="72">
-      <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://hpanel.hostinger.com/" id="183">
-    <title>Hostinger</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites" id="184">
-    <title>Websites | Hostinger</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="185">
-    <title>WEBSITE DETAILS &amp; INSTALL</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="186">
-    <title>Website Backups</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="187">
-    <title>Dashboard</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="188">
-    <title>DNS / Nameservers | Hostinger</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="189">
-    <title>Resources Usage | Hostinger</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="190">
-    <title>PHP My Admin</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="191">
-    <title>File Manager</title>
-  </bookmark>
-  <bookmark href="https://mail.hostinger.com/" id="192">
-    <title>Webmail</title>
-  </bookmark>
-  <bookmark href="http://localhost/phpmyadmin/" id="193">
-    <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="194">
-    <title>PHP Configuration | Hostinger</title>
-  </bookmark>
-  <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="195">
-    <title>Analytics | Home</title>
-  </bookmark>
-  <bookmark href="https://search.google.com/search-console/welcome" id="196">
-    <title>Welcome to Google Search Console</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="197">
-    <title>PHP Configuration | Hostinger</title>
-  </bookmark>
 </folder>
 <folder id="201">
   <title>Online</title>
