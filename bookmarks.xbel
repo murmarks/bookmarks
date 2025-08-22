@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :193: for Floccus bookmark sync browser extension -->
+<!--- highestId :208: for Floccus bookmark sync browser extension -->
 
 <folder id="5">
   <title>€</title>
@@ -343,6 +343,51 @@
   </bookmark>
   <bookmark href="https://openart.ai/" id="178">
     <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="194">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="195">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="196">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="197">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="198">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="199">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="200">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="201">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="203">
+    <title>Microsoft Designer - Stunning designs in a flash</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="204">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="205">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="206">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="207">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="208">
+    <title>NightCafe</title>
   </bookmark>
 </folder>
 <folder id="3">
