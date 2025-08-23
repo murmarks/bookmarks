@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :238: for Floccus bookmark sync browser extension -->
+<!--- highestId :244: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -284,9 +284,6 @@
 </folder>
 <folder id="2">
   <title>MAIN</title>
-  <folder id="7">
-    <title>@</title>
-  </folder>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="157">
     <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
@@ -386,6 +383,24 @@
   <bookmark href="https://openart.ai/" id="178">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
+  <folder id="7">
+    <title>@</title>
+  </folder>
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="215">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="216">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="217">
+    <title>DeepSeek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
+    <title>Nomi</title>
+  </bookmark>
 </folder>
 <folder id="3">
   <title>AI</title>
@@ -470,19 +485,10 @@
       <title>Azure AI Speech | Microsoft Azure</title>
     </bookmark>
   </folder>
-  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
-    <title></title>
-  </bookmark>
   <bookmark href="https://chatgpt.com/?model=gpt-4o" id="214">
     <title></title>
   </bookmark>
-  <bookmark href="https://x.com/i/grok" id="215">
-    <title></title>
-  </bookmark>
   <bookmark href="https://x.com/i/grok" id="13">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="216">
     <title></title>
   </bookmark>
   <bookmark href="https://chatgpt.com/?model=gpt-4o" id="226">
@@ -535,12 +541,6 @@
   </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="78">
     <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="217">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
-    <title></title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="79">
     <title></title>
@@ -632,26 +632,8 @@
   <bookmark href="https://keep.google.com/" id="24">
     <title></title>
   </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="25">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="26">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="27">
-    <title></title>
-  </bookmark>
   <bookmark href="https://calendar.google.com/calendar/" id="85">
     <title></title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="86">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="87">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="88">
-    <title>Street View Studio</title>
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="89">
     <title>Third-party apps &amp; services</title>
@@ -662,20 +644,20 @@
   <bookmark href="https://hpanel.hostinger.com/websites" id="180">
     <title>Websites | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="181">
-    <title>WEBSITE DETAILS &amp; INSTALL</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="182">
-    <title>Website Backups</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="183">
-    <title>Dashboard</title>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="239">
+    <title></title>
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="184">
     <title>DNS / Nameservers | Hostinger</title>
   </bookmark>
+  <bookmark href="https://photos.google.com/" id="240">
+    <title></title>
+  </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="185">
     <title>Resources Usage | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="241">
+    <title></title>
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="186">
     <title>PHP My Admin</title>
@@ -700,6 +682,24 @@
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="193">
     <title>PHP Configuration | Hostinger</title>
+  </bookmark>
+  <bookmark href="https://takeout.google.com/" id="242">
+    <title>Google Takeout</title>
+  </bookmark>
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="243">
+    <title>Google Earth</title>
+  </bookmark>
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="244">
+    <title>Street View Studio</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="181">
+    <title>WEBSITE DETAILS &amp; INSTALL</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="182">
+    <title>Website Backups</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="183">
+    <title>Dashboard</title>
   </bookmark>
 </folder>
 </xbel>
