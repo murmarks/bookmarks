@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :244: for Floccus bookmark sync browser extension -->
+<!--- highestId :248: for Floccus bookmark sync browser extension -->
 
 <folder id="223">
   <title>Follow</title>
@@ -284,26 +284,11 @@
 </folder>
 <folder id="2">
   <title>MAIN</title>
-  <folder id="7">
-    <title>@</title>
-  </folder>
-  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="215">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="216">
-    <title>Grok</title>
-  </bookmark>
   <bookmark href="https://chat.mistral.ai/chat" id="159">
     <title>Le Chat</title>
   </bookmark>
   <bookmark href="https://cursor.com/" id="160">
     <title>Cursor - The AI Code Editor</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
-    <title>ImagineArt Image Studio</title>
   </bookmark>
   <bookmark href="https://shell.cloud.google.com/" id="161">
     <title>Cloud Shell</title>
@@ -314,53 +299,14 @@
   <bookmark href="https://sourcegraph.com/cody" id="163">
     <title>Cody</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="194">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="195">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="196">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="171">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="173">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="174">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="175">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="176">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="177">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="178">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
   <bookmark href="https://sourcegraph.com/" id="164">
     <title>Sourcegraph AI agents</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="217">
-    <title>DeepSeek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
-    <title>Nomi</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="165">
     <title>Gemini Code Assist | AI coding assistant</title>
   </bookmark>
   <bookmark href="https://mistral.ai/news/mistral-large" id="166">
     <title>Au Large | Mistral AI</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="157">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
   <bookmark href="chrome://settings/content/microphone" id="168">
     <title>Settings - Microphone</title>
@@ -373,9 +319,6 @@
   </bookmark>
   <bookmark href="https://claude.ai/" id="197">
     <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="172">
-    <title>Replit – Build apps and sites with AI</title>
   </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="198">
     <title>Perplexity</title>
@@ -399,6 +342,69 @@
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="207">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="194">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="195">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <folder id="7">
+    <title>@</title>
+  </folder>
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="215">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="196">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="216">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="171">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="173">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://cursor.com/agents" id="245">
+    <title>Cursor - The AI Code Editor</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="172">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.ninjachat.ai/" id="246">
+    <title>Ninjachat | All-in-One AI Assistant</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="157">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="217">
+    <title>DeepSeek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="174">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="175">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="176">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="177">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="178">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
 </folder>
@@ -700,6 +706,12 @@
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="193">
     <title>PHP Configuration | Hostinger</title>
+  </bookmark>
+</folder>
+<folder id="247">
+  <title>Temp</title>
+  <bookmark href="https://www.youtube.com/watch?v=krsR6hCNFro" id="248">
+    <title>sen kendi dünyanın toprağında büyüyorsun | sezen aksu playlist - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
