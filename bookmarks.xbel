@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :222: for Floccus bookmark sync browser extension -->
+<!--- highestId :223: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -653,5 +653,8 @@
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="183">
     <title>Dashboard</title>
   </bookmark>
+</folder>
+<folder id="223">
+  <title>Follow</title>
 </folder>
 </xbel>
