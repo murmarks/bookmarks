@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :731: for Floccus bookmark sync browser extension -->
+<!--- highestId :758: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -10,6 +10,9 @@
   <title>MAIN</title>
   <folder id="169">
     <title>@</title>
+    <bookmark href="https://www.fullprogramlarindir.net/kategori/full-programlar-indirr" id="172">
+      <title>Full Program indir</title>
+    </bookmark>
     <bookmark href="https://sandalca.com/" id="173">
       <title>Sandalca.com | Ekitap | Dergi | Dizi | Film | Oyun | Program</title>
     </bookmark>
@@ -437,6 +440,84 @@
               <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="495">
                 <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
               </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.931234,32.825853,-87h,-3.96p,0z" id="732">
+                <title>TR.Ankara.Bahcelievler_CamlikApt</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.93139,32.825271,22.93h,-10.5p,0.66z" id="733">
+                <title>TR.Ankara.Bahçelievler_OyunSokağı</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="734">
+                <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.909678,32.815789,57.34h,0.79p,0.33z" id="735">
+                <title>TR.Ankara.Balgat_KuklaKebap</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.920828,32.863407,-262.65h,-9.92p,0z" id="736">
+                <title>TR.Ankara..Kızılay_96lar.Ön</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="737">
+                <title>TR.Ankara..Kızılay_96lar.Arka</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.921475,32.863964,193.02h,41.63p,1.65z" id="738">
+                <title>TR.Ankara..Kızılay_96lar.Yan</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.919322,32.862907,124.33h,4.57p,0.66z" id="739">
+                <title>TR.Ankara..Kızılay_96lar.Merdivenler</title>
+              </bookmark>
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.836780%2C39.906978&amp;sspn=0.203934%2C0.086856&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.861726%2C39.920872&amp;panorama%5Bdirection%5D=63.041362%2C2.015920&amp;panorama%5Bspan%5D=119.942216%2C80.000000" id="740">
+                <title>TR.Ankara..Kızılay_96lar.Merdivenler</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="741">
+                <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="742">
+                <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="743">
+                <title>TR.Ankara.Ayrancı_ManolyaApt.Pencere</title>
+              </bookmark>
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.836780%2C39.906978&amp;sspn=0.203934%2C0.086856&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.848913%2C39.898137&amp;panorama%5Bdirection%5D=83.246893%2C13.703842&amp;panorama%5Bspan%5D=97.567736%2C57.961740" id="744">
+                <title>TR.Ankara.Ayrancı_ManolyaApt</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.902611,32.860934,-70.91h,-5.05p,0z" id="745">
+                <title>TR.Ankara.Kugulu_Pasaj.ArkaKapı</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.902861,32.860421,73.92h,-3.86p,2.31z" id="746">
+                <title>TR.Ankara.Kugulu_Pasaj.ÖnKapı</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.910469,32.862034,133.39h,4.83p,0z" id="747">
+                <title>TR.Ankara.Esat_İngilizceciEv</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.932197,32.877436,-110.68h,0.36p,0z" id="748">
+                <title>TR.Ankara.Cebeci_CemalGürselCad</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.893701,32.878245,338.91h,-0.61p,0z" id="749">
+                <title>TR.Ankara..GOP_MahatmaGandiSokak</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.888741,32.873013,-131.3h,9.96p,0z" id="750">
+                <title>TR.Ankara..GOP_KehribarSokak</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.939287,32.796194,-43.67h,-10.4p,0z" id="751">
+                <title>TR.Ankara..Söğütözü_AOÇ.Dondurma</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.946301,32.793335,-45.32h,-9.27p,0z" id="752">
+                <title>TR.Ankara..Söğütözü_AOÇ.HayvanatBahçesi</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.928236,32.859303,259.06h,-3.6p,0z" id="753">
+                <title>TR.Ankara..Sıhhıye_AnkaraTıp..Fotokopi</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="754">
+                <title>TR.Ankara..Kızılay_Dershane</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="755">
+                <title>TR.Ankara..Kızılay_96lar.UlaşEv</title>
+              </bookmark>
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="756">
+                <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="757">
+                <title>TR.Ankara..Kızılay_YenişehirPTT</title>
+              </bookmark>
             </folder>
             <folder id="331">
               <title>Istanbul</title>
@@ -642,14 +723,32 @@
           <title>OpenStreetMap</title>
         </bookmark>
       </folder>
+      <bookmark href="https://appleid.apple.com/" id="699">
+        <title>Apple ID</title>
+      </bookmark>
       <bookmark href="http://www.grab8.com/" id="236">
         <title>Leech Premium Link Generator</title>
+      </bookmark>
+      <bookmark href="https://my.splashtop.com/" id="700">
+        <title>Splashtop</title>
+      </bookmark>
+      <bookmark href="https://web.whatsapp.com/" id="701">
+        <title>WhatsApp</title>
       </bookmark>
       <bookmark href="https://online.roboform.com/login" id="286">
         <title>RoboForm</title>
       </bookmark>
       <bookmark href="https://www.evernote.com/Home.action#n=ad16e3b0-6218-4476-b1c1-0bfa7fef00f1&amp;ses=4&amp;sh=2&amp;sds=5&amp;" id="287">
         <title>Evernote</title>
+      </bookmark>
+      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess6622192880/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=266809303183" id="702">
+        <title>Bleuhost cPanel - Main (Diğeri Düzgü,n Çalışmadığında)</title>
+      </bookmark>
+      <bookmark href="https://my.bluehost.com/hosting/token" id="703">
+        <title>Bluehost TOKEN</title>
+      </bookmark>
+      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess8385547246/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=35321534604028" id="704">
+        <title>Bluehost cPanel - From Domain Manager</title>
       </bookmark>
       <bookmark href="https://www.altuspharma.com:2083/" id="366">
         <title>Bluehost cPanel Login by Domain</title>
@@ -659,6 +758,12 @@
       </bookmark>
       <bookmark href="https://my.bluehost.com/cgi/dm" id="368">
         <title>Bluehost Domain Manager - altuspharma.com</title>
+      </bookmark>
+      <bookmark href="https://my.justhost.com/cgi-bin/cplogin" id="705">
+        <title>JustHost cPanel</title>
+      </bookmark>
+      <bookmark href="https://momento360.com/" id="706">
+        <title>Momento360</title>
       </bookmark>
       <bookmark href="https://app.mysms.com/" id="398">
         <title>mySMS</title>
@@ -687,8 +792,29 @@
       <bookmark href="https://www.cutestat.com/" id="442">
         <title>CuteStat.com - Website Stats and Website Valuation</title>
       </bookmark>
+      <bookmark href="http://everycircuit.com/app/" id="707">
+        <title>EveryCircuit</title>
+      </bookmark>
+      <bookmark href="https://www.tripadvisor.com/members/180randalls" id="708">
+        <title>TripAdvisor</title>
+      </bookmark>
+      <bookmark href="http://www.poipocket.com/" id="709">
+        <title>POI pocket</title>
+      </bookmark>
       <bookmark href="https://www.endomondo.com/home" id="457">
         <title>Endomondo</title>
+      </bookmark>
+      <bookmark href="http://www.sports-tracker.com/dashboard" id="710">
+        <title>Sports Tracker</title>
+      </bookmark>
+      <bookmark href="https://www.playstation.com/" id="711">
+        <title>PlayStation®</title>
+      </bookmark>
+      <bookmark href="https://www.facebook.com/" id="712">
+        <title>Facebook</title>
+      </bookmark>
+      <bookmark href="http://trendsmap.com/" id="713">
+        <title>Twitter Trendsmap</title>
       </bookmark>
       <bookmark href="http://www.instapaper.com/u" id="473">
         <title>Instapaper</title>
@@ -840,55 +966,7 @@
       <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="512">
         <title>Xiaomi Cloud</title>
       </bookmark>
-      <bookmark href="https://appleid.apple.com/" id="699">
-        <title>Apple ID</title>
-      </bookmark>
-      <bookmark href="https://my.splashtop.com/" id="700">
-        <title>Splashtop</title>
-      </bookmark>
-      <bookmark href="https://web.whatsapp.com/" id="701">
-        <title>WhatsApp</title>
-      </bookmark>
-      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess6622192880/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=266809303183" id="702">
-        <title>Bleuhost cPanel - Main (Diğeri Düzgü,n Çalışmadığında)</title>
-      </bookmark>
-      <bookmark href="https://my.bluehost.com/hosting/token" id="703">
-        <title>Bluehost TOKEN</title>
-      </bookmark>
-      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess8385547246/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=35321534604028" id="704">
-        <title>Bluehost cPanel - From Domain Manager</title>
-      </bookmark>
-      <bookmark href="https://my.justhost.com/cgi-bin/cplogin" id="705">
-        <title>JustHost cPanel</title>
-      </bookmark>
-      <bookmark href="https://momento360.com/" id="706">
-        <title>Momento360</title>
-      </bookmark>
-      <bookmark href="http://everycircuit.com/app/" id="707">
-        <title>EveryCircuit</title>
-      </bookmark>
-      <bookmark href="https://www.tripadvisor.com/members/180randalls" id="708">
-        <title>TripAdvisor</title>
-      </bookmark>
-      <bookmark href="http://www.poipocket.com/" id="709">
-        <title>POI pocket</title>
-      </bookmark>
-      <bookmark href="http://www.sports-tracker.com/dashboard" id="710">
-        <title>Sports Tracker</title>
-      </bookmark>
-      <bookmark href="https://www.playstation.com/" id="711">
-        <title>PlayStation®</title>
-      </bookmark>
-      <bookmark href="https://www.facebook.com/" id="712">
-        <title>Facebook</title>
-      </bookmark>
-      <bookmark href="http://trendsmap.com/" id="713">
-        <title>Twitter Trendsmap</title>
-      </bookmark>
     </folder>
-    <bookmark href="https://www.fullprogramlarindir.net/kategori/full-programlar-indirr" id="172">
-      <title>Full Program indir</title>
-    </bookmark>
   </folder>
 </folder>
 <folder id="5">
@@ -901,36 +979,6 @@
   </folder>
   <folder id="22">
     <title>Text-to-Speech</title>
-    <bookmark href="https://elevenlabs.io/" id="67">
-      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
-    </bookmark>
-    <bookmark href="https://www.resemble.ai/" id="68">
-      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
-    </bookmark>
-    <bookmark href="https://www.wellsaid.io/" id="69">
-      <title>WellSaid Home</title>
-    </bookmark>
-    <bookmark href="https://murf.ai/" id="70">
-      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
-    </bookmark>
-    <bookmark href="https://play.ht/" id="71">
-      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
-    </bookmark>
-    <bookmark href="https://www.descript.com/regenerate" id="72">
-      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
-    </bookmark>
-    <bookmark href="https://www.synthesia.io/" id="73">
-      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
-    </bookmark>
-    <bookmark href="https://aws.amazon.com/polly/" id="74">
-      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
-    </bookmark>
-    <bookmark href="https://cloud.google.com/text-to-speech" id="75">
-      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
-    </bookmark>
-    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="76">
-      <title>Azure AI Speech | Microsoft Azure</title>
-    </bookmark>
   </folder>
   <bookmark href="https://manus.im/app" id="25">
     <title>Manus</title>
@@ -974,12 +1022,6 @@
 </folder>
 <folder id="6">
   <title>G</title>
-  <bookmark href="chrome://extensions/" id="29">
-    <title>Extensions</title>
-  </bookmark>
-  <bookmark href="https://keep.google.com/" id="35">
-    <title></title>
-  </bookmark>
   <bookmark href="https://drive.google.com/drive/my-drive" id="725">
     <title></title>
   </bookmark>
@@ -1006,21 +1048,6 @@
   <title>€</title>
   <folder id="557">
     <title>WEBMUSTER</title>
-    <bookmark href="https://codepen.io/pen/" id="560">
-      <title>CodePen - Create a New Pen</title>
-    </bookmark>
-    <bookmark href="https://www.isitdownrightnow.com/doktorvural.com.html" id="561">
-      <title>Doktorvural.com - Is Doktorvural Down Right Now?</title>
-    </bookmark>
-    <bookmark href="https://downforeveryoneorjustme.com/doktorvural.com" id="562">
-      <title>Is Doktorvural.com down? Live status and problems past 24 hours</title>
-    </bookmark>
-    <bookmark href="http://localhost/site/wp-admin/options.php" id="563">
-      <title>Settings ‹ Deneme — WordPress</title>
-    </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/doktorvural.com/databases/php-my-admin?redirectLocation=side_menu" id="564">
-      <title>PHP My Admin | Hostinger</title>
-    </bookmark>
     <bookmark href="http://localhost/site/" id="565">
       <title>Deneme</title>
     </bookmark>
@@ -1215,27 +1242,6 @@
     </bookmark>
     <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="577">
       <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="168">
-  <title>Online</title>
-  <bookmark href="https://app.blasteronline.com/speechelo/" id="170">
-    <title>Speechelo</title>
-  </bookmark>
-  <folder id="171">
-    <title>Webcams</title>
-    <bookmark href="https://www.earthcam.com/" id="182">
-      <title>EarthCam - Webcam Network</title>
-    </bookmark>
-    <bookmark href="https://www.skylinewebcams.com/" id="183">
-      <title>SkylineWebcams</title>
-    </bookmark>
-    <bookmark href="https://www.webcamtaxi.com/en/" id="184">
-      <title>WebCamTaxi</title>
-    </bookmark>
-    <bookmark href="http://www.insecam.org/" id="185">
-      <title>Insecam</title>
     </bookmark>
   </folder>
 </folder>
@@ -1727,5 +1733,26 @@
   <bookmark href="https://streetviewstudio.maps.google.com/" id="543">
     <title>Street View Studio</title>
   </bookmark>
+</folder>
+<folder id="168">
+  <title>Online</title>
+  <bookmark href="https://app.blasteronline.com/speechelo/" id="758">
+    <title>Speechelo</title>
+  </bookmark>
+  <folder id="171">
+    <title>Webcams</title>
+    <bookmark href="https://www.earthcam.com/" id="182">
+      <title>EarthCam - Webcam Network</title>
+    </bookmark>
+    <bookmark href="https://www.skylinewebcams.com/" id="183">
+      <title>SkylineWebcams</title>
+    </bookmark>
+    <bookmark href="https://www.webcamtaxi.com/en/" id="184">
+      <title>WebCamTaxi</title>
+    </bookmark>
+    <bookmark href="http://www.insecam.org/" id="185">
+      <title>Insecam</title>
+    </bookmark>
+  </folder>
 </folder>
 </xbel>
