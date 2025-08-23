@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :213: for Floccus bookmark sync browser extension -->
+<!--- highestId :222: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>ACCOUNTS</title>
@@ -281,10 +281,10 @@
   <bookmark href="chrome://extensions/" id="195">
     <title>Settings - Extensions</title>
   </bookmark>
-  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="209">
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="214">
     <title>ChatGPT</title>
   </bookmark>
-  <bookmark href="https://x.com/i/grok" id="210">
+  <bookmark href="https://x.com/i/grok" id="215">
     <title>Grok-Twitter</title>
   </bookmark>
   <bookmark href="https://manus.im/app" id="196">
@@ -323,7 +323,7 @@
   <bookmark href="https://openart.ai/" id="178">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="https://grok.com/" id="211">
+  <bookmark href="https://grok.com/" id="216">
     <title>Grok</title>
   </bookmark>
   <bookmark href="https://chat.mistral.ai/chat" id="159">
@@ -353,10 +353,10 @@
   <bookmark href="https://www.perplexity.ai/" id="198">
     <title>Perplexity</title>
   </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="212">
+  <bookmark href="https://chat.deepseek.com/" id="217">
     <title>DeepSeek</title>
   </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="213">
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
     <title>Nomi</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="199">
@@ -380,13 +380,13 @@
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
     <title>ImagineArt Image Studio</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="203">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="219">
     <title>Microsoft Designer - Stunning designs in a flash</title>
   </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="204">
+  <bookmark href="https://pollo.ai/ai-image-generator" id="220">
     <title>Pollo AI</title>
   </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="205">
+  <bookmark href="https://www.midjourney.com/home" id="221">
     <title>Midjourney</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="206">
@@ -395,7 +395,7 @@
   <bookmark href="https://openart.ai/" id="207">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="208">
+  <bookmark href="https://creator.nightcafe.studio/studio" id="222">
     <title>NightCafe</title>
   </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="167">
@@ -527,9 +527,6 @@
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="80">
     <title></title>
   </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="81">
-    <title>Google Gemini</title>
-  </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="130">
     <title>Microsoft Designer - Stunning designs in a flash</title>
   </bookmark>
@@ -539,13 +536,28 @@
   <bookmark href="https://www.midjourney.com/home" id="132">
     <title>Midjourney</title>
   </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="81">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="203">
+    <title>Microsoft Designer - Stunning designs in a flash</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="135">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="204">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="205">
+    <title>Midjourney</title>
+  </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="133">
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="134">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="135">
+  <bookmark href="https://creator.nightcafe.studio/studio" id="208">
     <title>NightCafe</title>
   </bookmark>
 </folder>
