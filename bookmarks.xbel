@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :627: for Floccus bookmark sync browser extension -->
+<!--- highestId :645: for Floccus bookmark sync browser extension -->
 
 <folder id="167">
   <title>MAIN</title>
@@ -155,9 +155,6 @@
       </bookmark>
       <bookmark href="https://mail.google.com/mail/?shva=1#inbox" id="229">
         <title>Gmail</title>
-      </bookmark>
-      <bookmark href="https://keep.google.com/" id="230">
-        <title>Google Keep</title>
       </bookmark>
       <bookmark href="https://teams.live.com/" id="231">
         <title>Microsoft Teams</title>
@@ -900,27 +897,6 @@
     </folder>
   </folder>
 </folder>
-<folder id="168">
-  <title>Online</title>
-  <bookmark href="https://app.blasteronline.com/speechelo/" id="170">
-    <title>Speechelo</title>
-  </bookmark>
-  <folder id="171">
-    <title>Webcams</title>
-    <bookmark href="https://www.earthcam.com/" id="182">
-      <title>EarthCam - Webcam Network</title>
-    </bookmark>
-    <bookmark href="https://www.skylinewebcams.com/" id="183">
-      <title>SkylineWebcams</title>
-    </bookmark>
-    <bookmark href="https://www.webcamtaxi.com/en/" id="184">
-      <title>WebCamTaxi</title>
-    </bookmark>
-    <bookmark href="http://www.insecam.org/" id="185">
-      <title>Insecam</title>
-    </bookmark>
-  </folder>
-</folder>
 <folder id="1">
   <title>ACCOUNTS</title>
 </folder>
@@ -928,42 +904,6 @@
   <title>AI</title>
   <folder id="21">
     <title>Speed-to-Text</title>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="57">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="58">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="59">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="60">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="61">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="62">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.speechtexter.com/" id="63">
-      <title>SpeechTexter</title>
-    </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="64">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="65">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="66">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="127">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
-    </bookmark>
-    <bookmark href="https://www.speechmatics.com/" id="128">
-      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="129">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
@@ -1043,21 +983,6 @@
   <bookmark href="chrome://extensions/" id="29">
     <title>Extensions</title>
   </bookmark>
-  <bookmark href="chrome://settings/manageProfile" id="30">
-    <title>Settings - Customize profile</title>
-  </bookmark>
-  <bookmark href="chrome://settings/appearance" id="31">
-    <title>Settings - Appearance</title>
-  </bookmark>
-  <bookmark href="chrome://settings/downloads" id="32">
-    <title>Settings - Downloads</title>
-  </bookmark>
-  <bookmark href="chrome://password-manager/passwords" id="33">
-    <title>Google Password Manager</title>
-  </bookmark>
-  <bookmark href="chrome://flags/#customize-chrome-color-extraction" id="34">
-    <title>chrome://flags/#customize-chrome-color-extraction</title>
-  </bookmark>
   <bookmark href="https://keep.google.com/" id="35">
     <title></title>
   </bookmark>
@@ -1068,9 +993,6 @@
     <title></title>
   </bookmark>
   <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="38">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://calendar.google.com/calendar/" id="104">
     <title></title>
   </bookmark>
   <bookmark href="https://takeout.google.com/" id="105">
@@ -1302,6 +1224,27 @@
     </bookmark>
   </folder>
 </folder>
+<folder id="168">
+  <title>Online</title>
+  <bookmark href="https://app.blasteronline.com/speechelo/" id="170">
+    <title>Speechelo</title>
+  </bookmark>
+  <folder id="171">
+    <title>Webcams</title>
+    <bookmark href="https://www.earthcam.com/" id="182">
+      <title>EarthCam - Webcam Network</title>
+    </bookmark>
+    <bookmark href="https://www.skylinewebcams.com/" id="183">
+      <title>SkylineWebcams</title>
+    </bookmark>
+    <bookmark href="https://www.webcamtaxi.com/en/" id="184">
+      <title>WebCamTaxi</title>
+    </bookmark>
+    <bookmark href="http://www.insecam.org/" id="185">
+      <title>Insecam</title>
+    </bookmark>
+  </folder>
+</folder>
 <folder id="2">
   <title>MAIN</title>
   <folder id="9">
@@ -1444,6 +1387,42 @@
   </bookmark>
   <folder id="536">
     <title>Speed-to-Text</title>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="57">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="58">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="59">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="60">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="61">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="62">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.speechtexter.com/" id="63">
+      <title>SpeechTexter</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="64">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="65">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="66">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="127">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.speechmatics.com/" id="128">
+      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
+    </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="546">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
@@ -1496,6 +1475,57 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="137">
     <title>NightCafe</title>
   </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="628">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="629">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="630">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="631">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="632">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="633">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="634">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="635">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="636">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="637">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="638">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="639">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="641">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="642">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="643">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="644">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="645">
+    <title></title>
+  </bookmark>
 </folder>
 <folder id="4">
   <title>G</title>
@@ -1522,6 +1552,30 @@
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="544">
     <title>Third-party apps &amp; services</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="640">
+    <title>Extensions</title>
+  </bookmark>
+  <bookmark href="chrome://settings/manageProfile" id="30">
+    <title>Settings - Customize profile</title>
+  </bookmark>
+  <bookmark href="chrome://settings/appearance" id="31">
+    <title>Settings - Appearance</title>
+  </bookmark>
+  <bookmark href="chrome://settings/downloads" id="32">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="chrome://password-manager/passwords" id="33">
+    <title>Google Password Manager</title>
+  </bookmark>
+  <bookmark href="chrome://flags/#customize-chrome-color-extraction" id="34">
+    <title>chrome://flags/#customize-chrome-color-extraction</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="230">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://calendar.google.com/calendar/" id="104">
+    <title></title>
   </bookmark>
 </folder>
 </xbel>
