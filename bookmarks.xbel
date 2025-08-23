@@ -3,9 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :697: for Floccus bookmark sync browser extension -->
 
-<folder id="1">
-  <title>ACCOUNTS</title>
-</folder>
 <folder id="167">
   <title>MAIN</title>
   <folder id="169">
@@ -1008,6 +1005,9 @@
     <title>Third-party apps &amp; services</title>
   </bookmark>
 </folder>
+<folder id="1">
+  <title>ACCOUNTS</title>
+</folder>
 <folder id="545">
   <title>€</title>
   <folder id="557">
@@ -1304,6 +1304,9 @@
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="95">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="131">
+    <title>PHP Configuration | Hostinger</title>
+  </bookmark>
   <folder id="7">
     <title>@</title>
     <bookmark href="https://codepen.io/pen/" id="39">
@@ -1346,9 +1349,6 @@
       <title>Dashboard ‹ Deneme — WordPress</title>
     </bookmark>
   </folder>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="131">
-    <title>PHP Configuration | Hostinger</title>
-  </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="166">
     <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
@@ -1388,22 +1388,10 @@
   <bookmark href="chrome://extensions/" id="661">
     <title>Settings - Extensions</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="680">
-    <title>Settings - Microphone</title>
-  </bookmark>
   <bookmark href="https://manus.im/app" id="662">
     <title>Manus</title>
   </bookmark>
-  <bookmark href="chrome://extensions/" id="681">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="682">
-    <title>Manus</title>
-  </bookmark>
   <bookmark href="https://claude.ai/" id="664">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="684">
     <title>Claude</title>
   </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="665">
@@ -1421,14 +1409,26 @@
   <bookmark href="https://www.seaart.ai/create/image" id="675">
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
+  <bookmark href="https://openart.ai/" id="676">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="680">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="681">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="682">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="684">
+    <title>Claude</title>
+  </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="685">
     <title>Perplexity</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="688">
     <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="676">
-    <title>Create Art or Modify Images with AI</title>
   </bookmark>
   <bookmark href="https://scribblediffusion.com/" id="689">
     <title>Scribble Diffusion</title>
