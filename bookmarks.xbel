@@ -3,6 +3,105 @@
 <xbel version="1.0">
 <!--- highestId :811: for Floccus bookmark sync browser extension -->
 
+<folder id="5">
+  <title>AI</title>
+  <folder id="21">
+    <title>Speed-to-Text</title>
+    <bookmark href="https://www.nuance.com/index.html" id="714">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+  </folder>
+  <bookmark href="chrome://settings/content/microphone" id="777">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="778">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="779">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="780">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="781">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="782">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="783">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="784">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="785">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="786">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="787">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <folder id="22">
+    <title>Text-to-Speech</title>
+    <bookmark href="https://elevenlabs.io/" id="800">
+      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
+    </bookmark>
+    <bookmark href="https://www.resemble.ai/" id="801">
+      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
+    </bookmark>
+    <bookmark href="https://www.wellsaid.io/" id="802">
+      <title>WellSaid Home</title>
+    </bookmark>
+    <bookmark href="https://murf.ai/" id="803">
+      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
+    </bookmark>
+    <bookmark href="https://play.ht/" id="804">
+      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
+    </bookmark>
+    <bookmark href="https://www.descript.com/regenerate" id="805">
+      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
+    </bookmark>
+    <bookmark href="https://www.synthesia.io/" id="806">
+      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
+    </bookmark>
+    <bookmark href="https://aws.amazon.com/polly/" id="807">
+      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
+    </bookmark>
+    <bookmark href="https://cloud.google.com/text-to-speech" id="808">
+      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
+    </bookmark>
+    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="809">
+      <title>Azure AI Speech | Microsoft Azure</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="6">
+  <title>G</title>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="725">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/" id="726">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="727">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://takeout.google.com/" id="728">
+    <title>Google Takeout</title>
+  </bookmark>
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="729">
+    <title>Google Earth</title>
+  </bookmark>
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="730">
+    <title>Street View Studio</title>
+  </bookmark>
+  <bookmark href="https://myaccount.google.com/connections" id="731">
+    <title>Third-party apps &amp; services</title>
+  </bookmark>
+</folder>
 <folder id="545">
   <title>€</title>
   <folder id="557">
@@ -1196,104 +1295,5 @@
       </bookmark>
     </folder>
   </folder>
-</folder>
-<folder id="5">
-  <title>AI</title>
-  <folder id="21">
-    <title>Speed-to-Text</title>
-    <bookmark href="https://www.nuance.com/index.html" id="714">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-  </folder>
-  <bookmark href="chrome://settings/content/microphone" id="777">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="778">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="779">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="780">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="781">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="782">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="783">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="784">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="785">
-    <title>ImagineArt Image Studio</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="786">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="787">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
-  <folder id="22">
-    <title>Text-to-Speech</title>
-    <bookmark href="https://elevenlabs.io/" id="800">
-      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
-    </bookmark>
-    <bookmark href="https://www.resemble.ai/" id="801">
-      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
-    </bookmark>
-    <bookmark href="https://www.wellsaid.io/" id="802">
-      <title>WellSaid Home</title>
-    </bookmark>
-    <bookmark href="https://murf.ai/" id="803">
-      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
-    </bookmark>
-    <bookmark href="https://play.ht/" id="804">
-      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
-    </bookmark>
-    <bookmark href="https://www.descript.com/regenerate" id="805">
-      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
-    </bookmark>
-    <bookmark href="https://www.synthesia.io/" id="806">
-      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
-    </bookmark>
-    <bookmark href="https://aws.amazon.com/polly/" id="807">
-      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
-    </bookmark>
-    <bookmark href="https://cloud.google.com/text-to-speech" id="808">
-      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
-    </bookmark>
-    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="809">
-      <title>Azure AI Speech | Microsoft Azure</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="6">
-  <title>G</title>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="725">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="726">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="727">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="728">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="729">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="730">
-    <title>Street View Studio</title>
-  </bookmark>
-  <bookmark href="https://myaccount.google.com/connections" id="731">
-    <title>Third-party apps &amp; services</title>
-  </bookmark>
 </folder>
 </xbel>
