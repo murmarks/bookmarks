@@ -3,6 +3,18 @@
 <xbel version="1.0">
 <!--- highestId :238: for Floccus bookmark sync browser extension -->
 
+<folder id="1">
+  <title>ACCOUNTS</title>
+</folder>
+<folder id="223">
+  <title>Follow</title>
+  <folder id="224">
+    <title>Temp</title>
+    <bookmark href="https://developer.paddle.com/build/onboarding/go-live-checklist" id="225">
+      <title>Go-live checklist - Paddle Developer</title>
+    </bookmark>
+  </folder>
+</folder>
 <folder id="5">
   <title>€</title>
   <folder id="28">
@@ -264,23 +276,11 @@
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
 </folder>
-<folder id="223">
-  <title>Follow</title>
-  <folder id="224">
-    <title>Temp</title>
-    <bookmark href="https://developer.paddle.com/build/onboarding/go-live-checklist" id="225">
-      <title>Go-live checklist - Paddle Developer</title>
-    </bookmark>
-  </folder>
-</folder>
 <folder id="6">
   <title>Online</title>
   <bookmark href="https://app.blasteronline.com/speechelo/" id="38">
     <title>Speechelo</title>
   </bookmark>
-</folder>
-<folder id="1">
-  <title>ACCOUNTS</title>
 </folder>
 <folder id="2">
   <title>MAIN</title>
@@ -310,6 +310,39 @@
   </bookmark>
   <bookmark href="https://sourcegraph.com/" id="164">
     <title>Sourcegraph AI agents</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="168">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="169">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="170">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="197">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="198">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="199">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="200">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="201">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="206">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="207">
+    <title>Create Art or Modify Images with AI</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="165">
     <title>Gemini Code Assist | AI coding assistant</title>
@@ -353,51 +386,6 @@
   <bookmark href="https://openart.ai/" id="178">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="168">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="169">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="170">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="197">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="198">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="199">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="200">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="201">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="202">
-    <title>ImagineArt Image Studio</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="235">
-    <title>Microsoft Designer - Stunning designs in a flash</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="236">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="237">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="206">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="207">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="238">
-    <title>NightCafe</title>
-  </bookmark>
 </folder>
 <folder id="3">
   <title>AI</title>
@@ -406,12 +394,6 @@
   </bookmark>
   <bookmark href="chrome://extensions/" id="9">
     <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="13">
-    <title></title>
   </bookmark>
   <folder id="10">
     <title>Speed-to-Text</title>
@@ -455,15 +437,6 @@
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
   </folder>
-  <bookmark href="https://grok.com/" id="15">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="214">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="215">
-    <title></title>
-  </bookmark>
   <folder id="11">
     <title>Text-to-Speech</title>
     <bookmark href="https://elevenlabs.io/" id="49">
@@ -497,6 +470,18 @@
       <title>Azure AI Speech | Microsoft Azure</title>
     </bookmark>
   </folder>
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="12">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/?model=gpt-4o" id="214">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="215">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="13">
+    <title></title>
+  </bookmark>
   <bookmark href="https://grok.com/" id="216">
     <title></title>
   </bookmark>
@@ -509,11 +494,11 @@
   <bookmark href="https://manus.im/app" id="14">
     <title>Manus</title>
   </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="79">
+  <bookmark href="https://grok.com/" id="15">
     <title></title>
   </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="80">
-    <title></title>
+  <bookmark href="https://claude.ai/" id="16">
+    <title>Claude</title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="130">
     <title>Microsoft Designer - Stunning designs in a flash</title>
@@ -539,17 +524,17 @@
   <bookmark href="https://www.midjourney.com/home" id="205">
     <title>Midjourney</title>
   </bookmark>
-  <bookmark href="https://claude.ai/" id="16">
-    <title>Claude</title>
-  </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="17">
     <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="77">
+    <title>Replit – Build apps and sites with AI</title>
   </bookmark>
   <bookmark href="https://creator.nightcafe.studio/studio" id="208">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="77">
-    <title>Replit – Build apps and sites with AI</title>
+  <bookmark href="https://www.perplexity.ai/" id="78">
+    <title>Perplexity</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="217">
     <title></title>
@@ -557,8 +542,8 @@
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="218">
     <title></title>
   </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="78">
-    <title>Perplexity</title>
+  <bookmark href="https://chat.deepseek.com/" id="79">
+    <title></title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="219">
     <title>Microsoft Designer - Stunning designs in a flash</title>
@@ -578,6 +563,9 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="222">
     <title>NightCafe</title>
   </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="80">
+    <title></title>
+  </bookmark>
   <bookmark href="https://gemini.google.com/app" id="81">
     <title>Google Gemini</title>
   </bookmark>
@@ -586,9 +574,6 @@
   </bookmark>
   <bookmark href="https://www.krea.ai/" id="83">
     <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="84">
-    <title>ImagineArt Image Studio</title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="231">
     <title>Microsoft Designer - Stunning designs in a flash</title>
@@ -599,13 +584,28 @@
   <bookmark href="https://www.midjourney.com/home" id="233">
     <title>Midjourney</title>
   </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="84">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="235">
+    <title>Microsoft Designer - Stunning designs in a flash</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="234">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="236">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="237">
+    <title>Midjourney</title>
+  </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="133">
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="134">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="234">
+  <bookmark href="https://creator.nightcafe.studio/studio" id="238">
     <title>NightCafe</title>
   </bookmark>
 </folder>
