@@ -1187,8 +1187,14 @@
   <bookmark href="https://chatgpt.com/" id="814">
     <title>ChatGPT</title>
   </bookmark>
+  <bookmark href="https://grok.com/" id="815">
+    <title>Grok</title>
+  </bookmark>
   <bookmark href="https://x.com/i/grok" id="816">
     <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="817">
+    <title>Manus</title>
   </bookmark>
   <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
     <title>Mistral</title>
@@ -1199,9 +1205,6 @@
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
   </bookmark>
-  <bookmark href="https://grok.com/" id="815">
-    <title>Grok</title>
-  </bookmark>
   <bookmark href="https://sourcegraph.com/cody" id="825">
     <title>Cody</title>
   </bookmark>
@@ -1210,9 +1213,6 @@
   </bookmark>
   <bookmark href="https://sourcegraph.com/" id="827">
     <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="817">
-    <title>Manus</title>
   </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="821">
     <title>Perplexity</title>
