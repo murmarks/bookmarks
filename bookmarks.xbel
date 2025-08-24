@@ -1199,8 +1199,8 @@
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
   </bookmark>
-  <bookmark href="https://codeassist.google/" id="824">
-    <title>Gemini Code Assist</title>
+  <bookmark href="https://grok.com/" id="815">
+    <title>Grok</title>
   </bookmark>
   <bookmark href="https://sourcegraph.com/cody" id="825">
     <title>Cody</title>
@@ -1223,17 +1223,14 @@
   <bookmark href="https://console.mistral.ai/" id="832">
     <title>Mistral La Plateforme</title>
   </bookmark>
-  <bookmark href="https://grok.com/" id="815">
-    <title>Grok</title>
-  </bookmark>
   <bookmark href="https://claude.ai/" id="818">
     <title>Claude</title>
   </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
-    <title>Canva</title>
-  </bookmark>
   <bookmark href="https://replit.com/" id="823">
     <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="824">
+    <title>Gemini Code Assist</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="828">
     <title>Deepseek</title>
@@ -1243,6 +1240,9 @@
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="830">
     <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
+    <title>Canva</title>
   </bookmark>
   <bookmark href="https://scribblediffusion.com/" id="835">
     <title>Scribble Diffusion</title>
