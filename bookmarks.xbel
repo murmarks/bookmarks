@@ -1196,6 +1196,9 @@
   <bookmark href="https://manus.im/app" id="817">
     <title>Manus</title>
   </bookmark>
+  <bookmark href="https://claude.ai/" id="818">
+    <title>Claude</title>
+  </bookmark>
   <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
     <title>Mistral</title>
   </bookmark>
@@ -1222,9 +1225,6 @@
   </bookmark>
   <bookmark href="https://console.mistral.ai/" id="832">
     <title>Mistral La Plateforme</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="818">
-    <title>Claude</title>
   </bookmark>
   <bookmark href="https://replit.com/" id="823">
     <title>Replit</title>
