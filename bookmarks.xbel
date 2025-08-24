@@ -3,6 +3,9 @@
 <xbel version="1.0">
 <!--- highestId :811: for Floccus bookmark sync browser extension -->
 
+<folder id="811">
+  <title>ACCOUNTS</title>
+</folder>
 <folder id="5">
   <title>AI</title>
   <folder id="21">
@@ -305,9 +308,6 @@
       <title>Insecam</title>
     </bookmark>
   </folder>
-</folder>
-<folder id="811">
-  <title>ACCOUNTS</title>
 </folder>
 <folder id="167">
   <title>MAIN</title>
