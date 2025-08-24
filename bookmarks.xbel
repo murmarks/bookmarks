@@ -1,13 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :811: for Floccus bookmark sync browser extension -->
+<!--- highestId :903: for Floccus bookmark sync browser extension -->
 
 <folder id="811">
   <title>ACCOUNTS</title>
 </folder>
 <folder id="5">
   <title>AI</title>
+  <bookmark href="chrome://settings/content/microphone" id="812">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="813">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <folder id="844">
+    <title>Speech-to-Text</title>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="856">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="857">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="858">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="859">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="860">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="861">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.speechtexter.com/" id="862">
+      <title>SpeechTexter</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="863">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="864">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="865">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="901">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.speechmatics.com/" id="902">
+      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="903">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+  </folder>
+  <folder id="839">
+    <title>Text-to-Speech</title>
+    <bookmark href="https://elevenlabs.io/" id="846">
+      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
+    </bookmark>
+    <bookmark href="https://www.resemble.ai/" id="847">
+      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
+    </bookmark>
+    <bookmark href="https://www.wellsaid.io/" id="848">
+      <title>WellSaid Home</title>
+    </bookmark>
+    <bookmark href="https://murf.ai/" id="849">
+      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
+    </bookmark>
+    <bookmark href="https://play.ht/" id="850">
+      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
+    </bookmark>
+    <bookmark href="https://www.descript.com/regenerate" id="851">
+      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
+    </bookmark>
+    <bookmark href="https://www.synthesia.io/" id="852">
+      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
+    </bookmark>
+    <bookmark href="https://aws.amazon.com/polly/" id="853">
+      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
+    </bookmark>
+    <bookmark href="https://cloud.google.com/text-to-speech" id="854">
+      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
+    </bookmark>
+    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="855">
+      <title>Azure AI Speech | Microsoft Azure</title>
+    </bookmark>
+  </folder>
+  <folder id="845">
+    <title>Remote CPU</title>
+    <bookmark href="https://shell.cloud.google.com/" id="866">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="867">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="871">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="872">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="873">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="874">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="875">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="876">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="877">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="878">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="879">
+        <title>Modelbit</title>
+      </bookmark>
+    </folder>
+    <folder id="868">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="880">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="881">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="882">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="883">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="884">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="885">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="886">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="887">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="888">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="869">
+      <title>Stable Model</title>
+      <bookmark href="https://platform.openai.com/chat/edit" id="889">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="890">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="891">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="892">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="893">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="894">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="895">
+        <title>OpenRouter</title>
+      </bookmark>
+    </folder>
+    <folder id="870">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="896">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="897">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="898">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="899">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="900">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://chatgpt.com/" id="814">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="815">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="816">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="817">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="818">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://copilot.microsoft.com/chats/" id="820">
+    <title>Copilot:</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="821">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://cursor.com/agents" id="822">
+    <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="823">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="824">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="825">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="826">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="827">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="828">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="829">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="830">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://platform.openai.com/" id="831">
+    <title>OpenAI API</title>
+  </bookmark>
+  <bookmark href="https://console.mistral.ai/" id="832">
+    <title>Mistral La Plateforme</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="834">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="835">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="836">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="837">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="838">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="840">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="841">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="842">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="843">
+    <title>NightCafe</title>
+  </bookmark>
 </folder>
 <folder id="6">
   <title>G</title>
