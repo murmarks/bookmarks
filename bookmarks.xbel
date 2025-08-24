@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :969: for Floccus bookmark sync browser extension -->
+<!--- highestId :985: for Floccus bookmark sync browser extension -->
 
 <folder id="811">
   <title>ACCOUNTS</title>
@@ -1274,25 +1274,52 @@
 </folder>
 <folder id="6">
   <title>Google</title>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="725">
+  <bookmark href="chrome://extensions/" id="970">
+    <title>Extensions</title>
+  </bookmark>
+  <bookmark href="chrome://settings/manageProfile" id="971">
+    <title>Settings - Customize profile</title>
+  </bookmark>
+  <bookmark href="chrome://settings/appearance" id="972">
+    <title>Settings - Appearance</title>
+  </bookmark>
+  <bookmark href="chrome://settings/downloads" id="973">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="https://myaccount.google.com/security" id="974">
+    <title>Security</title>
+  </bookmark>
+  <bookmark href="chrome://password-manager/passwords" id="975">
+    <title>Google Password Manager</title>
+  </bookmark>
+  <bookmark href="chrome://flags/#customize-chrome-color-extraction" id="976">
+    <title>chrome://flags/#customize-chrome-color-extraction</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="977">
     <title></title>
   </bookmark>
-  <bookmark href="https://photos.google.com/" id="726">
+  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
     <title></title>
   </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="727">
+  <bookmark href="https://photos.google.com/" id="979">
     <title></title>
   </bookmark>
-  <bookmark href="https://takeout.google.com/" id="728">
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://calendar.google.com/calendar/" id="981">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://takeout.google.com/" id="982">
     <title>Google Takeout</title>
   </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="729">
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="983">
     <title>Google Earth</title>
   </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="730">
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="984">
     <title>Street View Studio</title>
   </bookmark>
-  <bookmark href="https://myaccount.google.com/connections" id="731">
+  <bookmark href="https://myaccount.google.com/connections" id="985">
     <title>Third-party apps &amp; services</title>
   </bookmark>
 </folder>
