@@ -1205,8 +1205,17 @@
   <bookmark href="https://copilot.microsoft.com/chats/" id="820">
     <title>Copilot:</title>
   </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="821">
+    <title>Perplexity</title>
+  </bookmark>
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="823">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="824">
+    <title>Gemini Code Assist</title>
   </bookmark>
   <bookmark href="https://sourcegraph.com/cody" id="825">
     <title>Cody</title>
@@ -1217,20 +1226,11 @@
   <bookmark href="https://sourcegraph.com/" id="827">
     <title>Sourcegraph</title>
   </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="821">
-    <title>Perplexity</title>
-  </bookmark>
   <bookmark href="https://platform.openai.com/" id="831">
     <title>OpenAI API</title>
   </bookmark>
   <bookmark href="https://console.mistral.ai/" id="832">
     <title>Mistral La Plateforme</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="823">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="824">
-    <title>Gemini Code Assist</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="828">
     <title>Deepseek</title>
