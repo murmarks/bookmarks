@@ -1190,6 +1190,15 @@
   <bookmark href="https://x.com/i/grok" id="816">
     <title>Grok-Twitter</title>
   </bookmark>
+  <bookmark href="https://claude.ai/" id="818">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="817">
+    <title>Manus</title>
+  </bookmark>
   <bookmark href="https://simplechat.app/chat" id="986">
     <title>SimpleChat</title>
   </bookmark>
@@ -1198,9 +1207,6 @@
   </bookmark>
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="829">
     <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
-    <title>Mistral</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="824">
     <title>Gemini Code Assist</title>
@@ -1217,14 +1223,8 @@
   <bookmark href="https://copilot.microsoft.com/chats/" id="820">
     <title>Copilot:</title>
   </bookmark>
-  <bookmark href="https://manus.im/app" id="817">
-    <title>Manus</title>
-  </bookmark>
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="818">
-    <title>Claude</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="830">
     <title>Google Gemini</title>
