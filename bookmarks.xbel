@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :985: for Floccus bookmark sync browser extension -->
+<!--- highestId :986: for Floccus bookmark sync browser extension -->
 
 <folder id="167">
   <title>MAIN</title>
@@ -1183,6 +1183,9 @@
   </bookmark>
   <bookmark href="https://x.com/i/grok" id="816">
     <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://simplechat.app/chat" id="986">
+    <title>SimpleChat</title>
   </bookmark>
   <bookmark href="chrome://settings/content/microphone" id="812">
     <title>Settings - Microphone</title>
