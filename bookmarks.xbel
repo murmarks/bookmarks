@@ -1385,9 +1385,6 @@
   <bookmark href="chrome://downloads/" id="987">
     <title>Download history</title>
   </bookmark>
-  <bookmark href="chrome://settings/downloads" id="988">
-    <title>Settings - Downloads</title>
-  </bookmark>
   <bookmark href="chrome://settings/manageProfile" id="971">
     <title>Settings - Customize profile</title>
   </bookmark>
