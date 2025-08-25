@@ -992,6 +992,12 @@
 </folder>
 <folder id="5">
   <title>AI</title>
+  <bookmark href="chrome://settings/content/microphone" id="812">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="813">
+    <title>Settings - Extensions</title>
+  </bookmark>
   <folder id="844">
     <title>Speech-to-Text</title>
     <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="856">
@@ -1186,12 +1192,6 @@
   </bookmark>
   <bookmark href="https://simplechat.app/chat" id="986">
     <title>SimpleChat</title>
-  </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="812">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="813">
-    <title>Settings - Extensions</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="828">
     <title>Deepseek</title>
