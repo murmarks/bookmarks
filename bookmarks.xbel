@@ -1217,9 +1217,6 @@
   <bookmark href="https://manus.im/app" id="817">
     <title>Manus</title>
   </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
-    <title>Canva</title>
-  </bookmark>
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
   </bookmark>
@@ -1228,9 +1225,6 @@
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="830">
     <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="823">
-    <title>Replit</title>
   </bookmark>
   <bookmark href="https://www.perplexity.ai/" id="821">
     <title>Perplexity</title>
@@ -1256,11 +1250,17 @@
   <bookmark href="https://www.krea.ai/" id="836">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="837">
-    <title>ImagineArt</title>
-  </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="834">
     <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="823">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="837">
+    <title>ImagineArt</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="841">
     <title>SeaArt</title>
@@ -1397,15 +1397,6 @@
   <bookmark href="https://keep.google.com/" id="977">
     <title>Google Keep</title>
   </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
-    <title>Google Drive</title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="979">
-    <title>Google Photos</title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
-    <title>Google Maps</title>
-  </bookmark>
   <bookmark href="https://calendar.google.com/calendar/" id="981">
     <title>Google Contacts</title>
   </bookmark>
@@ -1420,6 +1411,15 @@
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="985">
     <title>Third-party apps &amp; services</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
+    <title>Google Drive</title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/" id="979">
+    <title>Google Photos</title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
+    <title>Google Maps</title>
   </bookmark>
 </folder>
 <folder id="545">
