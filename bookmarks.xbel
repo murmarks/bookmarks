@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :988: for Floccus bookmark sync browser extension -->
+<!--- highestId :1004: for Floccus bookmark sync browser extension -->
 
 <folder id="167">
   <title>MAIN</title>
@@ -1286,17 +1286,23 @@
   <bookmark href="https://x.com/i/grok" id="816">
     <title>Grok-Twitter</title>
   </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
-    <title>Mistral</title>
+  <bookmark href="chrome://settings/content/microphone" id="989">
+    <title>Settings - Microphone</title>
   </bookmark>
   <bookmark href="https://simplechat.app/chat" id="986">
     <title>SimpleChat</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="813">
+    <title>Settings - Extensions</title>
   </bookmark>
   <bookmark href="https://chat.deepseek.com/" id="828">
     <title>Deepseek</title>
   </bookmark>
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="829">
     <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="819">
+    <title>Mistral</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="824">
     <title>Gemini Code Assist</title>
@@ -1310,41 +1316,35 @@
   <bookmark href="https://sourcegraph.com/" id="827">
     <title>Sourcegraph</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="812">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="813">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="817">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="818">
-    <title>Claude</title>
-  </bookmark>
   <bookmark href="https://copilot.microsoft.com/chats/" id="820">
     <title>Copilot:</title>
   </bookmark>
+  <bookmark href="https://manus.im/app" id="990">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="991">
+    <title>Claude</title>
+  </bookmark>
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="992">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="830">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="993">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="994">
+    <title>Krea</title>
   </bookmark>
   <bookmark href="https://platform.openai.com/" id="831">
     <title>OpenAI API</title>
   </bookmark>
   <bookmark href="https://console.mistral.ai/" id="832">
     <title>Mistral La Plateforme</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="821">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="830">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="835">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="836">
-    <title>Krea</title>
   </bookmark>
   <bookmark href="https://pollo.ai/ai-image-generator" id="838">
     <title>Pollo AI</title>
@@ -1355,78 +1355,27 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="843">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="833">
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="995">
     <title>Canva</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="823">
+  <bookmark href="https://replit.com/" id="996">
     <title>Replit</title>
   </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="837">
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="997">
     <title>ImagineArt</title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="834">
     <title>Microsoft Designer</title>
   </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="841">
+  <bookmark href="https://www.seaart.ai/create/image" id="998">
     <title>SeaArt</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="842">
+  <bookmark href="https://openart.ai/" id="999">
     <title>OpenArt</title>
   </bookmark>
 </folder>
 <folder id="811">
   <title>ACCOUNTS</title>
-</folder>
-<folder id="6">
-  <title>Google</title>
-  <bookmark href="chrome://downloads/" id="987">
-    <title>Download history</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="970">
-    <title>Extensions</title>
-  </bookmark>
-  <bookmark href="https://myaccount.google.com/security" id="974">
-    <title>Security</title>
-  </bookmark>
-  <bookmark href="chrome://settings/manageProfile" id="971">
-    <title>Settings - Customize profile</title>
-  </bookmark>
-  <bookmark href="chrome://settings/appearance" id="972">
-    <title>Settings - Appearance</title>
-  </bookmark>
-  <bookmark href="chrome://settings/downloads" id="973">
-    <title>Settings - Downloads</title>
-  </bookmark>
-  <bookmark href="chrome://password-manager/passwords" id="975">
-    <title>Google Password Manager</title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="982">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="983">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="984">
-    <title>Street View Studio</title>
-  </bookmark>
-  <bookmark href="https://myaccount.google.com/connections" id="985">
-    <title>Third-party apps &amp; services</title>
-  </bookmark>
-  <bookmark href="https://keep.google.com/" id="977">
-    <title>Google Keep</title>
-  </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
-    <title>Google Drive</title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="979">
-    <title>Google Photos</title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
-    <title>Google Maps</title>
-  </bookmark>
-  <bookmark href="https://calendar.google.com/calendar/" id="981">
-    <title>Google Contacts</title>
-  </bookmark>
 </folder>
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
@@ -1444,6 +1393,21 @@
         <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
       <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="929">
+        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+    </folder>
+    <folder id="1000">
+      <title>No-Cache</title>
+      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1001">
+        <title>MuratVural.com –</title>
+      </bookmark>
+      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1002">
+        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1003">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+      </bookmark>
+      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1004">
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
       </bookmark>
     </folder>
@@ -1480,7 +1444,7 @@
     <bookmark href="http://localhost/phpmyadmin/" id="933">
       <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="934">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="937">
       <title>PHP Configuration | Hostinger</title>
     </bookmark>
     <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="935">
@@ -1489,7 +1453,7 @@
     <bookmark href="https://search.google.com/search-console/welcome" id="936">
       <title>Welcome to Google Search Console</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="937">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="934">
       <title>PHP Configuration | Hostinger</title>
     </bookmark>
   </folder>
@@ -1649,5 +1613,56 @@
       <title>World TESOL Academy - Accredited TESOL/TEFL Certificate - World TESOL Academy</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="6">
+  <title>Google</title>
+  <bookmark href="chrome://downloads/" id="987">
+    <title>Download history</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="970">
+    <title>Extensions</title>
+  </bookmark>
+  <bookmark href="chrome://settings/manageProfile" id="971">
+    <title>Settings - Customize profile</title>
+  </bookmark>
+  <bookmark href="chrome://settings/appearance" id="972">
+    <title>Settings - Appearance</title>
+  </bookmark>
+  <bookmark href="chrome://settings/downloads" id="973">
+    <title>Settings - Downloads</title>
+  </bookmark>
+  <bookmark href="https://myaccount.google.com/security" id="974">
+    <title>Security</title>
+  </bookmark>
+  <bookmark href="chrome://password-manager/passwords" id="975">
+    <title>Google Password Manager</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="977">
+    <title>Google Keep</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
+    <title>Google Drive</title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/" id="979">
+    <title>Google Photos</title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
+    <title>Google Maps</title>
+  </bookmark>
+  <bookmark href="https://calendar.google.com/calendar/" id="981">
+    <title>Google Contacts</title>
+  </bookmark>
+  <bookmark href="https://takeout.google.com/" id="982">
+    <title>Google Takeout</title>
+  </bookmark>
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="983">
+    <title>Google Earth</title>
+  </bookmark>
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="984">
+    <title>Street View Studio</title>
+  </bookmark>
+  <bookmark href="https://myaccount.google.com/connections" id="985">
+    <title>Third-party apps &amp; services</title>
+  </bookmark>
 </folder>
 </xbel>
