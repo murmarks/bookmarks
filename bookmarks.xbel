@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :986: for Floccus bookmark sync browser extension -->
+<!--- highestId :987: for Floccus bookmark sync browser extension -->
 
 <folder id="167">
   <title>MAIN</title>
@@ -1423,6 +1423,9 @@
   </bookmark>
   <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
     <title>Google Maps</title>
+  </bookmark>
+  <bookmark href="chrome://downloads/" id="987">
+    <title>Download history</title>
   </bookmark>
 </folder>
 <folder id="545">
