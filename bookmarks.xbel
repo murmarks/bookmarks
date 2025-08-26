@@ -3,9 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :1781: for Floccus bookmark sync browser extension -->
 
-<folder id="811">
-  <title>ACCOUNTS</title>
-</folder>
 <folder id="167">
   <title>MAIN</title>
   <folder id="169">
@@ -320,26 +317,38 @@
               <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="734">
                 <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="741">
-                <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="742">
-                <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="372">
-                <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.909678,32.815789,57.34h,0.79p,0.33z" id="373">
                 <title>TR.Ankara.Balgat_KuklaKebap</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.920828,32.863407,-262.65h,-9.92p,0z" id="374">
                 <title>TR.Ankara..Kızılay_96lar.Ön</title>
               </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="375">
+                <title>TR.Ankara..Kızılay_96lar.Arka</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="741">
+                <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="742">
+                <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
+              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="465">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Pencere</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="375">
-                <title>TR.Ankara..Kızılay_96lar.Arka</title>
+              <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="484">
+                <title>TR.Ankara..Kızılay_Dershane</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="485">
+                <title>TR.Ankara..Kızılay_96lar.UlaşEv</title>
+              </bookmark>
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="495">
+                <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="494">
+                <title>TR.Ankara..Kızılay_YenişehirPTT</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="372">
+                <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.923427,32.861959,-196.26h,-7.34p,0z" id="426">
                 <title>TR.Ankara.Kızılay_Kolej.7BaşlıDev</title>
@@ -388,18 +397,6 @@
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="464">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="484">
-                <title>TR.Ankara..Kızılay_Dershane</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="485">
-                <title>TR.Ankara..Kızılay_96lar.UlaşEv</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="494">
-                <title>TR.Ankara..Kızılay_YenişehirPTT</title>
-              </bookmark>
-              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="495">
-                <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.92046,32.86372,7.8h,4.45p,1.32z" id="1639">
                 <title>TR.Ankara..Kızılay_96lar.Bina</title>
@@ -1928,6 +1925,9 @@
   <folder id="1749">
     <title>Text-to-Speech</title>
   </folder>
+</folder>
+<folder id="811">
+  <title>ACCOUNTS</title>
 </folder>
 <folder id="6">
   <title>Google</title>
