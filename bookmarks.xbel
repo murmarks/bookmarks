@@ -1700,18 +1700,6 @@
   <bookmark href="chrome://password-manager/passwords" id="1035">
     <title>Google Password Manager</title>
   </bookmark>
-  <bookmark href="https://keep.google.com/" id="977">
-    <title>Google Keep</title>
-  </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
-    <title>Google Drive</title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="979">
-    <title>Google Photos</title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
-    <title>Google Maps</title>
-  </bookmark>
   <bookmark href="https://calendar.google.com/calendar/" id="1040">
     <title>Google Contacts</title>
   </bookmark>
@@ -1768,6 +1756,18 @@
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="1044">
     <title>Third-party apps &amp; services</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="977">
+    <title>Google Keep</title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="978">
+    <title>Google Drive</title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/" id="979">
+    <title>Google Photos</title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="980">
+    <title>Google Maps</title>
   </bookmark>
 </folder>
 </xbel>
