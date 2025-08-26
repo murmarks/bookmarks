@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2673: for Floccus bookmark sync browser extension -->
+<!--- highestId :2861: for Floccus bookmark sync browser extension -->
 
 <folder id="1811">
   <title>MAIN</title>
@@ -147,18 +147,6 @@
     </folder>
     <folder id="2039">
       <title>iNET</title>
-      <bookmark href="https://www.google.com/calendar/" id="2080">
-        <title>Google Calendar</title>
-      </bookmark>
-      <bookmark href="https://www.google.com/contacts/" id="2081">
-        <title>Google Contacts</title>
-      </bookmark>
-      <bookmark href="https://mail.google.com/mail/?shva=1#inbox" id="2082">
-        <title>Gmail</title>
-      </bookmark>
-      <bookmark href="https://teams.live.com/" id="2083">
-        <title>Microsoft Teams</title>
-      </bookmark>
       <folder id="2084">
         <title>GoogleApps</title>
         <bookmark href="https://admin.google.com/" id="2122">
@@ -320,112 +308,112 @@
               <bookmark href="https://www.instantstreetview.com/@39.920828,32.863407,-262.65h,-9.92p,0z" id="2280">
                 <title>TR.Ankara..Kızılay_96lar.Ön</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="2281">
+              <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="2812">
                 <title>TR.Ankara..Kızılay_96lar.Arka</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="2282">
+              <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="2813">
                 <title>TR.Ankara..Kızılay_Dershane</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="2283">
+              <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="2814">
                 <title>TR.Ankara..Kızılay_96lar.UlaşEv</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="2284">
+              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="2815">
                 <title>TR.Ankara..Kızılay_YenişehirPTT</title>
               </bookmark>
-              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="2285">
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="2816">
                 <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="2286">
+              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="2817">
                 <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="2287">
+              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="2818">
                 <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="2350">
+              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="2819">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="2351">
+              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="2820">
                 <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.923427,32.861959,-196.26h,-7.34p,0z" id="2352">
+              <bookmark href="https://www.instantstreetview.com/@39.923427,32.861959,-196.26h,-7.34p,0z" id="2821">
                 <title>TR.Ankara.Kızılay_Kolej.7BaşlıDev</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.91999,32.858269,-163.43h,3.08p,0.33z" id="2353">
+              <bookmark href="https://www.instantstreetview.com/@39.91999,32.858269,-163.43h,3.08p,0.33z" id="2822">
                 <title>TR.Ankara..Kızılay_MimarKemal.Köşe</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="2354">
+              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="2823">
                 <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.918854,32.857991,68.53h,26.33p,0z" id="2355">
+              <bookmark href="https://www.instantstreetview.com/@39.918854,32.857991,68.53h,26.33p,0z" id="2824">
                 <title>TR.Ankara..Kızılay_HataySokak</title>
               </bookmark>
-              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.836780%2C39.906978&amp;sspn=0.203934%2C0.086856&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.857993%2C39.918876&amp;panorama%5Bdirection%5D=64.263718%2C63.101431&amp;panorama%5Bspan%5D=80.267478%2C30.799344" id="2356">
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.836780%2C39.906978&amp;sspn=0.203934%2C0.086856&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.857993%2C39.918876&amp;panorama%5Bdirection%5D=64.263718%2C63.101431&amp;panorama%5Bspan%5D=80.267478%2C30.799344" id="2825">
                 <title>TR.Ankara..Kızılay_HataySokak</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.930093,32.845961,-0.02h,12.2p,0z" id="2357">
+              <bookmark href="https://www.instantstreetview.com/@39.930093,32.845961,-0.02h,12.2p,0z" id="2826">
                 <title>TR.Ankara..Maltepe_Yükseliş</title>
               </bookmark>
-              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.864248%2C39.921969&amp;sspn=0.032315%2C0.014341&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.845966%2C39.930203&amp;panorama%5Bdirection%5D=300.475021%2C1.019139&amp;panorama%5Bspan%5D=120.000000%2C68.021232&amp;sctx=CAAAAAEAM%2FlmmxtrQECDGOjaF%2FRDQHZvRWKCGso%2FvRx23zE8tj8AAAAABQAAAAAAAAABhziZrYVk1CjvLAAAAQAAgD8AAAAAAAAAAA%3D%3D" id="2358">
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.864248%2C39.921969&amp;sspn=0.032315%2C0.014341&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.845966%2C39.930203&amp;panorama%5Bdirection%5D=300.475021%2C1.019139&amp;panorama%5Bspan%5D=120.000000%2C68.021232&amp;sctx=CAAAAAEAM%2FlmmxtrQECDGOjaF%2FRDQHZvRWKCGso%2FvRx23zE8tj8AAAAABQAAAAAAAAABhziZrYVk1CjvLAAAAQAAgD8AAAAAAAAAAA%3D%3D" id="2827">
                 <title>TR.Ankara..Maltepe_Yükseliş</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.930087,32.860074,-102.65h,12.04p,1z" id="2359">
+              <bookmark href="https://www.instantstreetview.com/@39.930087,32.860074,-102.65h,12.04p,1z" id="2828">
                 <title>TR.Ankara..Sıhhıye_AnkaraTıp.Morfoloji.Giriş</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.930906,32.857868,189.84h,-0.09p,0z" id="2417">
+              <bookmark href="https://www.instantstreetview.com/@39.930906,32.857868,189.84h,-0.09p,0z" id="2829">
                 <title>TR.Ankara..Sıhhıye_AnkaraTıp.Morfoloji.Çıkış</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.934852,32.884994,185.68h,12.15p,0z" id="2418">
+              <bookmark href="https://www.instantstreetview.com/@39.934852,32.884994,185.68h,12.15p,0z" id="2830">
                 <title>TR.Ankara.Cebeci_AUTF.OnKapı</title>
               </bookmark>
-              <bookmark href="http://www.360cities.net/image/ankara-ankaya-portakal-iei-rezidans-turkey" id="2419">
+              <bookmark href="http://www.360cities.net/image/ankara-ankaya-portakal-iei-rezidans-turkey" id="2831">
                 <title>TR.Ankara.Cankaya_SehirManzara</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.925024,32.856315,-316.55h,8.58p,0z" id="2420">
+              <bookmark href="https://www.instantstreetview.com/@39.925024,32.856315,-316.55h,8.58p,0z" id="2832">
                 <title>TR.Ankara..Kızılay_SSK</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.920737,32.848945,197.69h,-12.76p,0z" id="2421">
+              <bookmark href="https://www.instantstreetview.com/@39.920737,32.848945,197.69h,-12.76p,0z" id="2833">
                 <title>TR.Ankara..Kızılay_KumrularSokak</title>
               </bookmark>
-              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.864248%2C39.921969&amp;sspn=0.032315%2C0.014341&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.849108%2C39.920710&amp;panorama%5Bdirection%5D=235.181914%2C5.196553&amp;panorama%5Bspan%5D=120.000000%2C68.021232&amp;sctx=CAAAAAEAM%2FlmmxtrQECDGOjaF%2FRDQHZvRWKCGso%2FvRx23zE8tj8AAAAABQAAAAAAAAABhziZrYVk1CjvLAAAAQAAgD8AAAAAAAAAAA%3D%3D" id="2422">
+              <bookmark href="https://yandex.com.tr/harita/104782/cankaya/?ll=32.864248%2C39.921969&amp;z=16&amp;l=sat%2Cskl%2Cstv%2Csta&amp;mode=search&amp;text=96lar&amp;sll=32.864248%2C39.921969&amp;sspn=0.032315%2C0.014341&amp;ol=biz&amp;oid=1007594295&amp;panorama%5Bpoint%5D=32.849108%2C39.920710&amp;panorama%5Bdirection%5D=235.181914%2C5.196553&amp;panorama%5Bspan%5D=120.000000%2C68.021232&amp;sctx=CAAAAAEAM%2FlmmxtrQECDGOjaF%2FRDQHZvRWKCGso%2FvRx23zE8tj8AAAAABQAAAAAAAAABhziZrYVk1CjvLAAAAQAAgD8AAAAAAAAAAA%3D%3D" id="2834">
                 <title>TR.Ankara..Kızılay_KumrularSokak</title>
               </bookmark>
-              <bookmark href="http://www.360cities.net/image/kumrular" id="2423">
+              <bookmark href="http://www.360cities.net/image/kumrular" id="2835">
                 <title>TR.Ankara..Kızılay_Kumrular</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="2424">
+              <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="2836">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Pencere</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="2425">
+              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="2837">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.92046,32.86372,7.8h,4.45p,1.32z" id="2426">
+              <bookmark href="https://www.instantstreetview.com/@39.92046,32.86372,7.8h,4.45p,1.32z" id="2838">
                 <title>TR.Ankara..Kızılay_96lar.Bina</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.919372,32.858489,-75.43h,-1p,0.66z" id="2473">
+              <bookmark href="https://www.instantstreetview.com/@39.919372,32.858489,-75.43h,-1p,0.66z" id="2839">
                 <title>TR.Ankara..Kızılay_MimarKemal.ArkaBahçe</title>
               </bookmark>
             </folder>
             <folder id="2234">
               <title>Istanbul</title>
-              <bookmark href="https://www.instantstreetview.com/@40.969801,29.068867,101.75h,19.46p,0z" id="2288">
+              <bookmark href="https://www.instantstreetview.com/@40.969801,29.068867,101.75h,19.46p,0z" id="2840">
                 <title>TR.Istanbul.Caddebostan_YakutlarSokak</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@40.989091,28.844568,-46.08h,16.88p,0.01z" id="2289">
+              <bookmark href="https://www.instantstreetview.com/@40.989091,28.844568,-46.08h,16.88p,0.01z" id="2841">
                 <title>TR.Istanbul.Atakoy</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.045293,29.034731,-40.24h,-10.8p,0z" id="2290">
+              <bookmark href="https://www.instantstreetview.com/@41.045293,29.034731,-40.24h,-10.8p,0z" id="2842">
                 <title>TR.Istanbul_BogazKöprüsü</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.064489,28.675427,125.43h,1.19p,0z" id="2291">
+              <bookmark href="https://www.instantstreetview.com/@41.064489,28.675427,125.43h,1.19p,0z" id="2843">
                 <title>TR.Istanbul.Bahcesehir_Ev2</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.066083,28.681266,-322.54h,-7.37p,0z" id="2292">
+              <bookmark href="https://www.instantstreetview.com/@41.066083,28.681266,-322.54h,-7.37p,0z" id="2844">
                 <title>TR.Istanbul.Bahcesehir_Ev1</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.061975,28.688197,307.57h,-16.66p,0z" id="2293">
+              <bookmark href="https://www.instantstreetview.com/@41.061975,28.688197,307.57h,-16.66p,0z" id="2845">
                 <title>TR.Istanbul.Bahcesehir_GirisMeydan</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.065879,28.679892,-282.9h,45p,0z" id="2294">
+              <bookmark href="https://www.instantstreetview.com/@41.065879,28.679892,-282.9h,45p,0z" id="2846">
                 <title>TR.Istanbul.Bahcesehir_Ev1.Teras</title>
               </bookmark>
             </folder>
@@ -441,84 +429,84 @@
           </folder>
           <folder id="2195">
             <title>x</title>
-            <bookmark href="https://www.instantstreetview.com/@37.568886,126.980681,58.22h,-11.42p,2.97z" id="2237">
-              <title>22-2 Da-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579642,126.977097,-138.93h,-12.18p,1.98z,WQZxSaWL_1Vnqr3scFOmbQ" id="2238">
-              <title>37 Samcheong-ro, Jongno-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579644,126.977071,29.29h,-27.38p,1.33z,87KfX9UznAJU8Go91MrbUQ" id="2239">
-              <title>Gyeongbokgung Palace | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="2240">
-              <title>31-34 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="2241">
-              <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="2242">
-              <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="2243">
-              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="2244">
-              <title>620-33 Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="2245">
-              <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
             <bookmark href="https://www.instantstreetview.com/@37.571609,126.97504,-169.59h,-21.8p,3.96z" id="2246">
               <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
             <bookmark href="https://www.instantstreetview.com/@37.568959,126.979171,-30.66h,-15.92p,2.31z" id="2324">
               <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.568886,126.980681,58.22h,-11.42p,2.97z" id="2674">
+              <title>22-2 Da-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579642,126.977097,-138.93h,-12.18p,1.98z,WQZxSaWL_1Vnqr3scFOmbQ" id="2675">
+              <title>37 Samcheong-ro, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579644,126.977071,29.29h,-27.38p,1.33z,87KfX9UznAJU8Go91MrbUQ" id="2676">
+              <title>Gyeongbokgung Palace | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="2677">
+              <title>31-34 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="2678">
+              <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="2679">
+              <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="2680">
+              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="2681">
+              <title>620-33 Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="2682">
+              <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
             <folder id="2325">
               <title>street</title>
-              <bookmark href="https://www.instantstreetview.com/@35.693399,139.701526,15.07h,-1.66p,3.02z" id="2360">
+              <bookmark href="https://www.instantstreetview.com/@35.693399,139.701526,15.07h,-1.66p,3.02z" id="2847">
                 <title>SUBNADE, 1 Chome-2-2 Kabukichō, Shinjuku-ku, Tōkyō-to 160-0021, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.693424,139.699148,-51.59h,-19.58p,0.99z" id="2361">
+              <bookmark href="https://www.instantstreetview.com/@35.693424,139.699148,-51.59h,-19.58p,0.99z" id="2848">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku 都道414号線 | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.659844,139.704276,-41.81h,-5.63p,2.97z" id="2362">
+              <bookmark href="https://www.instantstreetview.com/@35.659844,139.704276,-41.81h,-5.63p,2.97z" id="2849">
                 <title>2 Chome-19-19 Shibuya, Shibuya-ku, Tōkyō-to 150-0002, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.677759,139.759136,-102.31h,-15.77p,2.31z,3o8cZZeh-TqCqH_HFtOBgQ" id="2363">
+              <bookmark href="https://www.instantstreetview.com/@35.677759,139.759136,-102.31h,-15.77p,2.31z,3o8cZZeh-TqCqH_HFtOBgQ" id="2850">
                 <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.677714,139.759107,-37.61h,-17.88p,0z,60YlpknI70ck7Fb5YWh3cA" id="2364">
+              <bookmark href="https://www.instantstreetview.com/@35.677714,139.759107,-37.61h,-17.88p,0z,60YlpknI70ck7Fb5YWh3cA" id="2851">
                 <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.69368,139.699118,67.53h,-4.04p,0.99z" id="2365">
+              <bookmark href="https://www.instantstreetview.com/@35.69368,139.699118,67.53h,-4.04p,0.99z" id="2852">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku 都道414号線 | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.691359,139.699268,130.55h,-7.13p,0z" id="2366">
+              <bookmark href="https://www.instantstreetview.com/@35.691359,139.699268,130.55h,-7.13p,0z" id="2853">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-152.54h,-2.79p,0.99z" id="2367">
+              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-152.54h,-2.79p,0.99z" id="2854">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome−1 小田急新宿ミロード | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@37.56518,126.983307,-7.63h,-12.4p,1.65z" id="2368">
+              <bookmark href="https://www.instantstreetview.com/@37.56518,126.983307,-7.63h,-12.4p,1.65z" id="2855">
                 <title>92 Namdaemun-ro, Jung-gu, Seoul, South Korea | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z" id="2369">
+              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z" id="2856">
                 <title>https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@37.573531,126.973889,-47.52h,-0.15p,0z" id="2427">
+              <bookmark href="https://www.instantstreetview.com/@37.573531,126.973889,-47.52h,-0.15p,0z" id="2857">
                 <title>34-4 Doryeom-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.68912,139.698668,134.25h,-17.52p,2.97z" id="2428">
+              <bookmark href="https://www.instantstreetview.com/@35.68912,139.698668,134.25h,-17.52p,2.97z" id="2858">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689353,139.696994,-184.63h,-27.89p,3.3z" id="2429">
+              <bookmark href="https://www.instantstreetview.com/@35.689353,139.696994,-184.63h,-27.89p,3.3z" id="2859">
                 <title>1 Chome-16-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.691208,139.697181,114.56h,-2.9p,1.65z" id="2430">
+              <bookmark href="https://www.instantstreetview.com/@35.691208,139.697181,114.56h,-2.9p,1.65z" id="2860">
                 <title>Unnamed Road, 1 Chome-7 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.690068,139.697375,-180.89h,-16.54p,3.3z" id="2431">
+              <bookmark href="https://www.instantstreetview.com/@35.690068,139.697375,-180.89h,-16.54p,3.3z" id="2861">
                 <title>1 Chome-12-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
               </bookmark>
             </folder>
@@ -536,130 +524,79 @@
         <bookmark href="https://www.google.com/intl/tr/earth/" id="2144">
           <title>Google Earth</title>
         </bookmark>
-        <bookmark href="https://www.google.com/maps/@37.0625,-95.677068,4z" id="2145">
+        <bookmark href="https://www.google.com/maps/@37.0625,-95.677068,4z" id="2683">
           <title>Google Maps</title>
         </bookmark>
-        <bookmark href="https://www.instantstreetview.com/" id="2146">
+        <bookmark href="https://www.instantstreetview.com/" id="2684">
           <title>Instant Google Street View</title>
         </bookmark>
-        <bookmark href="https://streetview-tr.com/" id="2147">
+        <bookmark href="https://streetview-tr.com/" id="2685">
           <title>Google Street View Turkey</title>
         </bookmark>
-        <bookmark href="https://www.google.com/maps/d/?page=explore" id="2148">
+        <bookmark href="https://www.google.com/maps/d/?page=explore" id="2686">
           <title>Google My Maps</title>
         </bookmark>
-        <bookmark href="http://wikimapia.org/" id="2149">
+        <bookmark href="http://wikimapia.org/" id="2687">
           <title>Wikimapia</title>
         </bookmark>
-        <bookmark href="https://zoom.earth/" id="2150">
+        <bookmark href="https://zoom.earth/" id="2688">
           <title>Zoom Earth</title>
         </bookmark>
-        <bookmark href="https://yandex.com.tr/harita/115707/fatih/" id="2151">
+        <bookmark href="https://yandex.com.tr/harita/115707/fatih/" id="2689">
           <title>Yandex.Haritalar</title>
         </bookmark>
-        <bookmark href="https://www.mapquest.com/" id="2247">
+        <bookmark href="https://www.mapquest.com/" id="2690">
           <title>MapQuest</title>
         </bookmark>
-        <bookmark href="https://www.bing.com/maps" id="2248">
+        <bookmark href="https://www.bing.com/maps" id="2691">
           <title>Bing Maps</title>
         </bookmark>
-        <bookmark href="https://www.openstreetmap.org/#map=10/49.2423/20.5190" id="2249">
+        <bookmark href="https://www.openstreetmap.org/#map=10/49.2423/20.5190" id="2692">
           <title>OpenStreetMap</title>
         </bookmark>
-        <bookmark href="https://www.terraserver.com/" id="2250">
+        <bookmark href="https://www.terraserver.com/" id="2693">
           <title>TerraServer</title>
         </bookmark>
-        <bookmark href="http://earth3dmap.com/" id="2251">
+        <bookmark href="http://earth3dmap.com/" id="2694">
           <title>Earth 3D Map</title>
         </bookmark>
-        <bookmark href="http://www.haritamap.com/" id="2252">
+        <bookmark href="http://www.haritamap.com/" id="2695">
           <title>HaritaMap.com</title>
         </bookmark>
-        <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="2253">
+        <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="2696">
           <title>E-Sehir.com</title>
         </bookmark>
-        <bookmark href="https://www.nereyebagli.com/" id="2254">
+        <bookmark href="https://www.nereyebagli.com/" id="2697">
           <title>Nereye Bağlı</title>
         </bookmark>
-        <bookmark href="http://www.haritamap.com/" id="2326">
+        <bookmark href="http://www.haritamap.com/" id="2698">
           <title>HaritaMap.com</title>
         </bookmark>
-        <bookmark href="https://streetview-tr.com/" id="2327">
+        <bookmark href="https://streetview-tr.com/" id="2699">
           <title>Google Street View Turkey</title>
         </bookmark>
-        <bookmark href="https://www.google.com/maps/d/?page=explore" id="2328">
+        <bookmark href="https://www.google.com/maps/d/?page=explore" id="2700">
           <title>Google My Maps</title>
         </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="2329">
+        <bookmark href="http://www.haritalar.web.tr/" id="2701">
           <title>Tematik Haritaları</title>
         </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="2330">
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="2702">
           <title>Ankara Büyükşehir Belediyesi</title>
         </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="2331">
+        <bookmark href="http://www.haritalar.web.tr/" id="2703">
           <title>Tematik Haritaları</title>
         </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="2332">
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="2704">
           <title>Ankara Büyükşehir Belediyesi</title>
         </bookmark>
-        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="2333">
+        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="2705">
           <title>Harita İstanbul</title>
         </bookmark>
-        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="2401">
+        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="2706">
           <title>OpenStreetMap</title>
         </bookmark>
       </folder>
-      <bookmark href="https://appleid.apple.com/" id="2087">
-        <title>Apple ID</title>
-      </bookmark>
-      <bookmark href="http://www.grab8.com/" id="2088">
-        <title>Leech Premium Link Generator</title>
-      </bookmark>
-      <bookmark href="https://my.splashtop.com/" id="2089">
-        <title>Splashtop</title>
-      </bookmark>
-      <bookmark href="https://web.whatsapp.com/" id="2171">
-        <title>WhatsApp</title>
-      </bookmark>
-      <bookmark href="https://online.roboform.com/login" id="2172">
-        <title>RoboForm</title>
-      </bookmark>
-      <bookmark href="https://www.evernote.com/Home.action#n=ad16e3b0-6218-4476-b1c1-0bfa7fef00f1&amp;ses=4&amp;sh=2&amp;sds=5&amp;" id="2173">
-        <title>Evernote</title>
-      </bookmark>
-      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess6622192880/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=266809303183" id="2174">
-        <title>Bleuhost cPanel - Main (Diğeri Düzgü,n Çalışmadığında)</title>
-      </bookmark>
-      <bookmark href="https://my.bluehost.com/hosting/token" id="2198">
-        <title>Bluehost TOKEN</title>
-      </bookmark>
-      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess8385547246/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=35321534604028" id="2199">
-        <title>Bluehost cPanel - From Domain Manager</title>
-      </bookmark>
-      <bookmark href="https://www.altuspharma.com:2083/" id="2200">
-        <title>Bluehost cPanel Login by Domain</title>
-      </bookmark>
-      <bookmark href="https://www.altuspharma.com/cpanel" id="2274">
-        <title>Bluehost NEW cPanel Redirect</title>
-      </bookmark>
-      <bookmark href="https://my.bluehost.com/cgi/dm" id="2275">
-        <title>Bluehost Domain Manager - altuspharma.com</title>
-      </bookmark>
-      <bookmark href="https://my.justhost.com/cgi-bin/cplogin" id="2276">
-        <title>JustHost cPanel</title>
-      </bookmark>
-      <bookmark href="https://momento360.com/" id="2277">
-        <title>Momento360</title>
-      </bookmark>
-      <bookmark href="https://app.mysms.com/" id="2295">
-        <title>mySMS</title>
-      </bookmark>
-      <bookmark href="https://onedrive.live.com/" id="2296">
-        <title>OneDrive</title>
-      </bookmark>
-      <bookmark href="https://www.namecheap.com/myaccount/login.aspx" id="2297">
-        <title>NameCheap Domain</title>
-      </bookmark>
       <folder id="2346">
         <title>Shopping</title>
         <bookmark href="https://www.aliexpress.com/" id="2399">
@@ -669,24 +606,6 @@
           <title>Banggood</title>
         </bookmark>
       </folder>
-      <bookmark href="https://support.pavietnam.vn/login.php" id="2347">
-        <title>VN Domain</title>
-      </bookmark>
-      <bookmark href="https://access.pavietnam.vn/" id="2348">
-        <title>P.A Vietnam | Control Panel Domain</title>
-      </bookmark>
-      <bookmark href="https://www.cutestat.com/" id="2349">
-        <title>CuteStat.com - Website Stats and Website Valuation</title>
-      </bookmark>
-      <bookmark href="http://everycircuit.com/app/" id="2370">
-        <title>EveryCircuit</title>
-      </bookmark>
-      <bookmark href="https://www.tripadvisor.com/members/180randalls" id="2371">
-        <title>TripAdvisor</title>
-      </bookmark>
-      <bookmark href="http://www.poipocket.com/" id="2372">
-        <title>POI pocket</title>
-      </bookmark>
       <bookmark href="https://www.endomondo.com/home" id="2414">
         <title>Endomondo</title>
       </bookmark>
@@ -705,71 +624,8 @@
       <bookmark href="http://www.instapaper.com/u" id="2434">
         <title>Instapaper</title>
       </bookmark>
-      <bookmark href="https://getpocket.com/a/queue/list/" id="2457">
-        <title>Pocket:</title>
-      </bookmark>
       <bookmark href="https://www.doodly.com/members/" id="2470">
         <title>Doodly - Easily Create Whiteboard Doodle Videos In Minutes!</title>
-      </bookmark>
-      <bookmark href="http://wm.seetasks.com/" id="2471">
-        <title>TeamWorkPM</title>
-      </bookmark>
-      <bookmark href="https://www.linkedin.com/in/dr-murat-vural/" id="2472">
-        <title>Murat Vural | LinkedIn</title>
-      </bookmark>
-      <bookmark href="https://www.life360.com/" id="2474">
-        <title>Life360</title>
-      </bookmark>
-      <bookmark href="https://3d4medical.com/" id="2475">
-        <title>Complete Anatomy - advanced 3D anatomy platform</title>
-      </bookmark>
-      <bookmark href="https://www.followmee.com/Map.aspx" id="2476">
-        <title>FollowMe</title>
-      </bookmark>
-      <bookmark href="https://soundcloud.com/" id="2494">
-        <title>SoundCloud</title>
-      </bookmark>
-      <bookmark href="https://www.tumblr.com/" id="2508">
-        <title>Tumblr</title>
-      </bookmark>
-      <bookmark href="http://www.websitespot.com/" id="2509">
-        <title>Websitespot Domain</title>
-      </bookmark>
-      <bookmark href="http://mail.live.com/" id="2510">
-        <title>Windows Live</title>
-      </bookmark>
-      <bookmark href="http://canlitvx.com/" id="2511">
-        <title>Canlı TV</title>
-      </bookmark>
-      <bookmark href="https://www.cloudhq.net/dropbox/services" id="2512">
-        <title>cloudHQ</title>
-      </bookmark>
-      <bookmark href="https://dotvn.pavietnam.vn/login.php?lang=en" id="2513">
-        <title>VN Domain Control Panel</title>
-      </bookmark>
-      <bookmark href="https://ifttt.com/recipes" id="2514">
-        <title>IFTTT Recipes</title>
-      </bookmark>
-      <bookmark href="https://www.hurpass.com/user/" id="2532">
-        <title>Hürriyet Üyelik</title>
-      </bookmark>
-      <bookmark href="http://www.linkedin.com/" id="2533">
-        <title>LinkedIn</title>
-      </bookmark>
-      <bookmark href="https://my.xmarks.com/" id="2547">
-        <title>Xmarks</title>
-      </bookmark>
-      <bookmark href="https://grabtaxi.zendesk.com/hc/en-us" id="2548">
-        <title>Grab</title>
-      </bookmark>
-      <bookmark href="https://esube4.ziraatbank.com.tr/veribranchOGSWeb/login/ziraatlogonstart.jsp" id="2549">
-        <title>Ziraat Bankası - OGS</title>
-      </bookmark>
-      <bookmark href="https://hgsmusteri.ptt.gov.tr/hgs.jsf" id="2550">
-        <title>HGS Müşteri Hizmetleri</title>
-      </bookmark>
-      <bookmark href="https://giris.turkiye.gov.tr/Giris/e-Devlet-Sifresi" id="2551">
-        <title>E-Devlet</title>
       </bookmark>
       <folder id="2552">
         <title>Banka</title>
@@ -843,13 +699,157 @@
           <title>Endomondo</title>
         </bookmark>
       </folder>
-      <bookmark href="https://app.blasteronline.com/speechelo/" id="2571">
+      <bookmark href="https://www.google.com/calendar/" id="2707">
+        <title>Google Calendar</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/contacts/" id="2708">
+        <title>Google Contacts</title>
+      </bookmark>
+      <bookmark href="https://mail.google.com/mail/?shva=1#inbox" id="2709">
+        <title>Gmail</title>
+      </bookmark>
+      <bookmark href="https://teams.live.com/" id="2710">
+        <title>Microsoft Teams</title>
+      </bookmark>
+      <bookmark href="https://appleid.apple.com/" id="2711">
+        <title>Apple ID</title>
+      </bookmark>
+      <bookmark href="http://www.grab8.com/" id="2712">
+        <title>Leech Premium Link Generator</title>
+      </bookmark>
+      <bookmark href="https://my.splashtop.com/" id="2713">
+        <title>Splashtop</title>
+      </bookmark>
+      <bookmark href="https://web.whatsapp.com/" id="2714">
+        <title>WhatsApp</title>
+      </bookmark>
+      <bookmark href="https://online.roboform.com/login" id="2715">
+        <title>RoboForm</title>
+      </bookmark>
+      <bookmark href="https://www.evernote.com/Home.action#n=ad16e3b0-6218-4476-b1c1-0bfa7fef00f1&amp;ses=4&amp;sh=2&amp;sds=5&amp;" id="2716">
+        <title>Evernote</title>
+      </bookmark>
+      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess6622192880/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=266809303183" id="2717">
+        <title>Bleuhost cPanel - Main (Diğeri Düzgü,n Çalışmadığında)</title>
+      </bookmark>
+      <bookmark href="https://my.bluehost.com/hosting/token" id="2718">
+        <title>Bluehost TOKEN</title>
+      </bookmark>
+      <bookmark href="https://cpanel-box5561.bluehost.com/cpsess8385547246/frontend/bluehost/index.html?webpro=0&amp;login=1&amp;post_login=35321534604028" id="2719">
+        <title>Bluehost cPanel - From Domain Manager</title>
+      </bookmark>
+      <bookmark href="https://www.altuspharma.com:2083/" id="2720">
+        <title>Bluehost cPanel Login by Domain</title>
+      </bookmark>
+      <bookmark href="https://www.altuspharma.com/cpanel" id="2721">
+        <title>Bluehost NEW cPanel Redirect</title>
+      </bookmark>
+      <bookmark href="https://my.bluehost.com/cgi/dm" id="2722">
+        <title>Bluehost Domain Manager - altuspharma.com</title>
+      </bookmark>
+      <bookmark href="https://my.justhost.com/cgi-bin/cplogin" id="2723">
+        <title>JustHost cPanel</title>
+      </bookmark>
+      <bookmark href="https://momento360.com/" id="2724">
+        <title>Momento360</title>
+      </bookmark>
+      <bookmark href="https://app.mysms.com/" id="2725">
+        <title>mySMS</title>
+      </bookmark>
+      <bookmark href="https://onedrive.live.com/" id="2726">
+        <title>OneDrive</title>
+      </bookmark>
+      <bookmark href="https://www.namecheap.com/myaccount/login.aspx" id="2727">
+        <title>NameCheap Domain</title>
+      </bookmark>
+      <bookmark href="https://support.pavietnam.vn/login.php" id="2728">
+        <title>VN Domain</title>
+      </bookmark>
+      <bookmark href="https://access.pavietnam.vn/" id="2729">
+        <title>P.A Vietnam | Control Panel Domain</title>
+      </bookmark>
+      <bookmark href="https://www.cutestat.com/" id="2730">
+        <title>CuteStat.com - Website Stats and Website Valuation</title>
+      </bookmark>
+      <bookmark href="http://everycircuit.com/app/" id="2731">
+        <title>EveryCircuit</title>
+      </bookmark>
+      <bookmark href="https://www.tripadvisor.com/members/180randalls" id="2732">
+        <title>TripAdvisor</title>
+      </bookmark>
+      <bookmark href="http://www.poipocket.com/" id="2733">
+        <title>POI pocket</title>
+      </bookmark>
+      <bookmark href="https://getpocket.com/a/queue/list/" id="2734">
+        <title>Pocket:</title>
+      </bookmark>
+      <bookmark href="http://wm.seetasks.com/" id="2735">
+        <title>TeamWorkPM</title>
+      </bookmark>
+      <bookmark href="https://www.linkedin.com/in/dr-murat-vural/" id="2736">
+        <title>Murat Vural | LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://www.life360.com/" id="2737">
+        <title>Life360</title>
+      </bookmark>
+      <bookmark href="https://3d4medical.com/" id="2738">
+        <title>Complete Anatomy - advanced 3D anatomy platform</title>
+      </bookmark>
+      <bookmark href="https://www.followmee.com/Map.aspx" id="2739">
+        <title>FollowMe</title>
+      </bookmark>
+      <bookmark href="https://soundcloud.com/" id="2740">
+        <title>SoundCloud</title>
+      </bookmark>
+      <bookmark href="https://www.tumblr.com/" id="2741">
+        <title>Tumblr</title>
+      </bookmark>
+      <bookmark href="http://www.websitespot.com/" id="2742">
+        <title>Websitespot Domain</title>
+      </bookmark>
+      <bookmark href="http://mail.live.com/" id="2743">
+        <title>Windows Live</title>
+      </bookmark>
+      <bookmark href="http://canlitvx.com/" id="2744">
+        <title>Canlı TV</title>
+      </bookmark>
+      <bookmark href="https://www.cloudhq.net/dropbox/services" id="2745">
+        <title>cloudHQ</title>
+      </bookmark>
+      <bookmark href="https://dotvn.pavietnam.vn/login.php?lang=en" id="2746">
+        <title>VN Domain Control Panel</title>
+      </bookmark>
+      <bookmark href="https://ifttt.com/recipes" id="2747">
+        <title>IFTTT Recipes</title>
+      </bookmark>
+      <bookmark href="https://www.hurpass.com/user/" id="2748">
+        <title>Hürriyet Üyelik</title>
+      </bookmark>
+      <bookmark href="http://www.linkedin.com/" id="2749">
+        <title>LinkedIn</title>
+      </bookmark>
+      <bookmark href="https://my.xmarks.com/" id="2750">
+        <title>Xmarks</title>
+      </bookmark>
+      <bookmark href="https://grabtaxi.zendesk.com/hc/en-us" id="2751">
+        <title>Grab</title>
+      </bookmark>
+      <bookmark href="https://esube4.ziraatbank.com.tr/veribranchOGSWeb/login/ziraatlogonstart.jsp" id="2752">
+        <title>Ziraat Bankası - OGS</title>
+      </bookmark>
+      <bookmark href="https://hgsmusteri.ptt.gov.tr/hgs.jsf" id="2753">
+        <title>HGS Müşteri Hizmetleri</title>
+      </bookmark>
+      <bookmark href="https://giris.turkiye.gov.tr/Giris/e-Devlet-Sifresi" id="2754">
+        <title>E-Devlet</title>
+      </bookmark>
+      <bookmark href="https://app.blasteronline.com/speechelo/" id="2755">
         <title>Speechelo</title>
       </bookmark>
-      <bookmark href="https://account.xiaomi.com/" id="2572">
+      <bookmark href="https://account.xiaomi.com/" id="2756">
         <title>Mi Account</title>
       </bookmark>
-      <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="2602">
+      <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="2757">
         <title>Xiaomi Cloud</title>
       </bookmark>
     </folder>
@@ -1255,7 +1255,7 @@
   </folder>
   <folder id="1831">
     <title>Remote CPU</title>
-    <bookmark href="https://shell.cloud.google.com/" id="1882">
+    <bookmark href="https://shell.cloud.google.com/" id="2758">
       <title>Cloud Shell</title>
     </bookmark>
     <folder id="1883">
@@ -1394,14 +1394,8 @@
       <title>Azure AI Speech | Microsoft Azure</title>
     </bookmark>
   </folder>
-  <bookmark href="https://chatgpt.com/" id="1833">
-    <title>ChatGPT</title>
-  </bookmark>
   <folder id="1834">
     <title>Remote CPU</title>
-    <bookmark href="https://shell.cloud.google.com/" id="1897">
-      <title>Cloud Shell</title>
-    </bookmark>
     <folder id="1898">
       <title>Notebook</title>
       <bookmark href="https://jupyter.org/" id="1975">
@@ -1462,6 +1456,27 @@
         <title>Vertex AI Platform | Google Cloud</title>
       </bookmark>
     </folder>
+    <folder id="1901">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="2000">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="2001">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="2002">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="2003">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="2004">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="2759">
+      <title>Cloud Shell</title>
+    </bookmark>
     <folder id="1900">
       <title>Stable Model</title>
       <bookmark href="https://platform.openai.com/chat/edit" id="1993">
@@ -1486,99 +1501,12 @@
         <title>OpenRouter</title>
       </bookmark>
     </folder>
-    <folder id="1901">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="2000">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="2001">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="2002">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="2003">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="2004">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
   </folder>
-  <bookmark href="https://grok.com/" id="1835">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="1836">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="1837">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="1974">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="2005">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="2006">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2007">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="2076">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="2107">
-    <title>Mistral</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="2108">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="2109">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="2110">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="2170">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://copilot.microsoft.com/chats/" id="2211">
-    <title>Copilot:</title>
-  </bookmark>
-  <bookmark href="https://cursor.com/agents" id="2212">
-    <title>Cursor</title>
-  </bookmark>
-  <bookmark href="https://platform.openai.com/" id="2213">
-    <title>OpenAI API</title>
-  </bookmark>
-  <bookmark href="https://console.mistral.ai/" id="2214">
-    <title>Mistral La Plateforme</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="2255">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="2273">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="2308">
-    <title>NightCafe</title>
-  </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="2309">
     <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="chrome://extensions/" id="2310">
     <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="2311">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2334">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="2335">
-    <title>Mistral</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="2336">
     <title>Gemini Code Assist</title>
@@ -1823,98 +1751,14 @@
   <bookmark href="https://grok.com/" id="2639">
     <title>Grok</title>
   </bookmark>
-  <bookmark href="https://x.com/i/grok" id="2640">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="2641">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="2642">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2643">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="2644">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="2645">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="2646">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="2647">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="2648">
-    <title>Grok</title>
-  </bookmark>
   <bookmark href="https://x.com/i/grok" id="2649">
     <title>Grok-Twitter</title>
   </bookmark>
   <bookmark href="chrome://extensions/" id="2650">
     <title>Settings - Extensions</title>
   </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="2651">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2652">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="2653">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="2654">
-    <title>Cody</title>
-  </bookmark>
   <bookmark href="https://ampcode.com/" id="2655">
     <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="2656">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="2657">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="2658">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="2659">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="2660">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="2661">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="2662">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="2663">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="2664">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="2665">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="2666">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="2667">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="2668">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="2669">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="2670">
-    <title>ImagineArt Image Studio</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="2671">
     <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
@@ -1925,6 +1769,162 @@
   <folder id="2673">
     <title>Text-to-Speech</title>
   </folder>
+  <bookmark href="https://chatgpt.com/" id="2760">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="2761">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/" id="2762">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="2763">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="2764">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="2765">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="2766">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2767">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="2768">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="2769">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="2770">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="2771">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="2772">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="2773">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://copilot.microsoft.com/chats/" id="2774">
+    <title>Copilot:</title>
+  </bookmark>
+  <bookmark href="https://cursor.com/agents" id="2775">
+    <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://platform.openai.com/" id="2776">
+    <title>OpenAI API</title>
+  </bookmark>
+  <bookmark href="https://console.mistral.ai/" id="2777">
+    <title>Mistral La Plateforme</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="2778">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="2779">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="2780">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="2781">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2782">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="2783">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="2784">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="2785">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="2786">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2787">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="2788">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="2789">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="2790">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="2791">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="2792">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="2793">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="2794">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="2795">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="2796">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="2797">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="2798">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="2799">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="2800">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="2801">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="2802">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="2803">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="2804">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="2805">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="2806">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="2807">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="2808">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="2809">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="2810">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="2811">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
 </folder>
 <folder id="1814">
   <title>ACCOUNTS</title>
