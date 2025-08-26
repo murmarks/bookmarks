@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1781: for Floccus bookmark sync browser extension -->
+<!--- highestId :1810: for Floccus bookmark sync browser extension -->
 
 <folder id="167">
   <title>MAIN</title>
@@ -314,9 +314,6 @@
               <bookmark href="https://www.instantstreetview.com/@39.93139,32.825271,22.93h,-10.5p,0.66z" id="733">
                 <title>TR.Ankara.Bahçelievler_OyunSokağı</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="734">
-                <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.909678,32.815789,57.34h,0.79p,0.33z" id="373">
                 <title>TR.Ankara.Balgat_KuklaKebap</title>
               </bookmark>
@@ -326,26 +323,26 @@
               <bookmark href="https://www.instantstreetview.com/@39.921398,32.864039,-165.05h,22.35p,0z" id="375">
                 <title>TR.Ankara..Kızılay_96lar.Arka</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="741">
-                <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="742">
-                <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="465">
-                <title>TR.Ankara.Ayrancı_ManolyaApt.Pencere</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.916118,32.856849,-296.87h,-1.15p,0z" id="484">
                 <title>TR.Ankara..Kızılay_Dershane</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.920826,32.861683,157.18h,-7.85p,0z" id="485">
                 <title>TR.Ankara..Kızılay_96lar.UlaşEv</title>
               </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="494">
+                <title>TR.Ankara..Kızılay_YenişehirPTT</title>
+              </bookmark>
               <bookmark href="https://yandex.com.tr/harita/104782/cankaya/house/hosdere_cad_51a/Z0sYfgNpSE0OQF1jfXR4eXxmbQ==/?ll=32.849189%2C39.898059&amp;panorama%5Bdirection%5D=164.544480%2C18.414314&amp;panorama%5Bfull%5D=true&amp;panorama%5Bpoint%5D=32.849037%2C39.898358&amp;panorama%5Bspan%5D=129.607870%2C60.000000&amp;z=16" id="495">
                 <title>Çankaya haritasında Hoşdere Cad., No:51A. — Yandex Haritalar</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@39.922882,32.857606,251.07h,6.11p,1.65z" id="494">
-                <title>TR.Ankara..Kızılay_YenişehirPTT</title>
+              <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="734">
+                <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.919789,32.858269,-138.83h,-0.23p,1.65z" id="741">
+                <title>TR.Ankara..Kızılay_MimarKemal.Bahçe</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="742">
+                <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.931677,32.825245,-163.52h,-9.33p,1.65z" id="372">
                 <title>TR.Ankara.Bahçelievler_OyunSokağı.SuMusluğu</title>
@@ -394,6 +391,9 @@
               </bookmark>
               <bookmark href="http://www.360cities.net/image/kumrular" id="463">
                 <title>TR.Ankara..Kızılay_Kumrular</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@39.898021,32.849,65.95h,19.33p,2.64z" id="465">
+                <title>TR.Ankara.Ayrancı_ManolyaApt.Pencere</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@39.898104,32.849034,144.31h,0.27p,2.97z" id="464">
                 <title>TR.Ankara.Ayrancı_ManolyaApt.Kapı</title>
@@ -1934,16 +1934,16 @@
   <bookmark href="chrome://extensions/" id="1454">
     <title>Extensions</title>
   </bookmark>
-  <bookmark href="chrome://extensions/" id="1008">
+  <bookmark href="chrome://extensions/" id="1797">
     <title>Extensions</title>
   </bookmark>
-  <bookmark href="chrome://settings/manageProfile" id="1032">
+  <bookmark href="chrome://settings/manageProfile" id="1798">
     <title>Settings - Customize profile</title>
   </bookmark>
-  <bookmark href="chrome://settings/appearance" id="1033">
+  <bookmark href="chrome://settings/appearance" id="1799">
     <title>Settings - Appearance</title>
   </bookmark>
-  <bookmark href="chrome://settings/downloads" id="1034">
+  <bookmark href="chrome://settings/downloads" id="1800">
     <title>Settings - Downloads</title>
   </bookmark>
   <bookmark href="chrome://settings/manageProfile" id="1455">
@@ -1955,7 +1955,7 @@
   <bookmark href="chrome://settings/appearance" id="1456">
     <title>Settings - Appearance</title>
   </bookmark>
-  <bookmark href="chrome://password-manager/passwords" id="1035">
+  <bookmark href="chrome://password-manager/passwords" id="1801">
     <title>Google Password Manager</title>
   </bookmark>
   <bookmark href="chrome://settings/downloads" id="1457">
@@ -1967,10 +1967,10 @@
   <bookmark href="chrome://password-manager/passwords" id="1459">
     <title>Google Password Manager</title>
   </bookmark>
-  <bookmark href="https://keep.google.com/" id="1460">
+  <bookmark href="https://keep.google.com/" id="1802">
     <title>Google Keep</title>
   </bookmark>
-  <bookmark href="https://calendar.google.com/calendar/" id="1040">
+  <bookmark href="https://calendar.google.com/calendar/" id="1803">
     <title>Google Contacts</title>
   </bookmark>
   <bookmark href="https://calendar.google.com/calendar/" id="1461">
@@ -1988,25 +1988,25 @@
   <bookmark href="https://streetviewstudio.maps.google.com/" id="1499">
     <title>Street View Studio</title>
   </bookmark>
-  <bookmark href="https://takeout.google.com/" id="1514">
+  <bookmark href="https://takeout.google.com/" id="1804">
     <title>Google Takeout</title>
   </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="1515">
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="1805">
     <title>Google Earth</title>
   </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="1516">
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="1806">
     <title>Street View Studio</title>
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="1517">
     <title>Third-party apps &amp; services</title>
   </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="1518">
+  <bookmark href="https://drive.google.com/drive/my-drive" id="1807">
     <title>Google Drive</title>
   </bookmark>
-  <bookmark href="https://photos.google.com/" id="1519">
+  <bookmark href="https://photos.google.com/" id="1808">
     <title>Google Photos</title>
   </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="1520">
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="1809">
     <title>Google Maps</title>
   </bookmark>
   <bookmark href="chrome://extensions/" id="1538">
@@ -2069,7 +2069,7 @@
   <bookmark href="https://streetviewstudio.maps.google.com/" id="1666">
     <title>Street View Studio</title>
   </bookmark>
-  <bookmark href="https://myaccount.google.com/connections" id="1667">
+  <bookmark href="https://myaccount.google.com/connections" id="1810">
     <title>Third-party apps &amp; services</title>
   </bookmark>
   <bookmark href="https://drive.google.com/drive/my-drive" id="1668">
@@ -2161,40 +2161,40 @@
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
       </bookmark>
     </folder>
-    <bookmark href="https://hpanel.hostinger.com/" id="1315">
+    <bookmark href="https://hpanel.hostinger.com/" id="1782">
       <title>Hostinger</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/" id="1463">
       <title>Hostinger</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites" id="1316">
+    <bookmark href="https://hpanel.hostinger.com/websites" id="1783">
       <title>Websites | Hostinger</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites" id="1464">
       <title>Websites | Hostinger</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1317">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1784">
       <title>WEBSITE DETAILS &amp; INSTALL</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1469">
       <title>WEBSITE DETAILS &amp; INSTALL</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1470">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1785">
       <title>Website Backups</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1318">
       <title>Website Backups</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1471">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1786">
       <title>Dashboard</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1319">
       <title>Dashboard</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1472">
+    <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1787">
       <title>DNS / Nameservers | Hostinger</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1473">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1788">
       <title>Resources Usage | Hostinger</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1320">
@@ -2203,22 +2203,22 @@
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1329">
       <title>Resources Usage | Hostinger</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1474">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1789">
       <title>PHP My Admin</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1330">
       <title>PHP My Admin</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1475">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1790">
       <title>File Manager</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1331">
       <title>File Manager</title>
     </bookmark>
-    <bookmark href="https://mail.hostinger.com/" id="1476">
+    <bookmark href="https://mail.hostinger.com/" id="1791">
       <title>Webmail</title>
     </bookmark>
-    <bookmark href="http://localhost/phpmyadmin/" id="1477">
+    <bookmark href="http://localhost/phpmyadmin/" id="1792">
       <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
     </bookmark>
     <bookmark href="https://mail.hostinger.com/" id="1332">
@@ -2227,19 +2227,19 @@
     <bookmark href="http://localhost/phpmyadmin/" id="1333">
       <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1334">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1793">
       <title>PHP Configuration | Hostinger</title>
     </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1478">
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1794">
       <title>PHP Configuration | Hostinger</title>
     </bookmark>
-    <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1335">
+    <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1795">
       <title>Analytics | Home</title>
     </bookmark>
     <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1479">
       <title>Analytics | Home</title>
     </bookmark>
-    <bookmark href="https://search.google.com/search-console/welcome" id="1336">
+    <bookmark href="https://search.google.com/search-console/welcome" id="1796">
       <title>Welcome to Google Search Console</title>
     </bookmark>
     <bookmark href="https://search.google.com/search-console/welcome" id="1480">
