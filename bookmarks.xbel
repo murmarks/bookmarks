@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1044: for Floccus bookmark sync browser extension -->
+<!--- highestId :1092: for Floccus bookmark sync browser extension -->
 
 <folder id="811">
   <title>ACCOUNTS</title>
@@ -10,6 +10,15 @@
   <title>MAIN</title>
   <folder id="169">
     <title>@</title>
+    <bookmark href="https://www.fullprogramlarindir.net/kategori/full-programlar-indirr" id="172">
+      <title>Full Program indir</title>
+    </bookmark>
+    <bookmark href="https://sandalca.com/" id="173">
+      <title>Sandalca.com | Ekitap | Dergi | Dizi | Film | Oyun | Program</title>
+    </bookmark>
+    <bookmark href="https://www.file.io/" id="174">
+      <title>file.io - Super simple file sharing</title>
+    </bookmark>
     <bookmark href="https://lrepacks.net/" id="175">
       <title>Авторские репаки от ELCHUPACABRA - REPACK скачать</title>
     </bookmark>
@@ -127,9 +136,6 @@
         </bookmark>
       </folder>
     </folder>
-    <bookmark href="https://www.fullprogramlarindir.net/kategori/full-programlar-indirr" id="172">
-      <title>Full Program indir</title>
-    </bookmark>
     <folder id="204">
       <title>Colorize Photo</title>
       <bookmark href="https://palette.fm/?utm_campaign=palette__-__performance__-__max__-__v1&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_term=general&amp;gc_id=21103596181&amp;g_special_campaign=true&amp;gad_source=1&amp;gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfRkKQSkw27RAO292WW3jpXSkyZKOOmXJo2pH47uZVXGDDEHk35s-OcaAhP9EALw_wcB" id="214">
@@ -142,9 +148,6 @@
         <title>ImageColorizer | Colorize and Restore Old Photos Batch Free</title>
       </bookmark>
     </folder>
-    <bookmark href="https://sandalca.com/" id="173">
-      <title>Sandalca.com | Ekitap | Dergi | Dizi | Film | Oyun | Program</title>
-    </bookmark>
     <folder id="206">
       <title>iNET</title>
       <bookmark href="https://www.google.com/calendar/" id="227">
@@ -518,27 +521,6 @@
             </folder>
             <folder id="331">
               <title>Istanbul</title>
-              <bookmark href="https://www.instantstreetview.com/@40.969801,29.068867,101.75h,19.46p,0z" id="380">
-                <title>TR.Istanbul.Caddebostan_YakutlarSokak</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@40.989091,28.844568,-46.08h,16.88p,0.01z" id="381">
-                <title>TR.Istanbul.Atakoy</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.045293,29.034731,-40.24h,-10.8p,0z" id="382">
-                <title>TR.Istanbul_BogazKöprüsü</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.066083,28.681266,-322.54h,-7.37p,0z" id="383">
-                <title>TR.Istanbul.Bahcesehir_Ev1</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.065879,28.679892,-282.9h,45p,0z" id="384">
-                <title>TR.Istanbul.Bahcesehir_Ev1.Teras</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.064489,28.675427,125.43h,1.19p,0z" id="385">
-                <title>TR.Istanbul.Bahcesehir_Ev2</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@41.061975,28.688197,307.57h,-16.66p,0z" id="386">
-                <title>TR.Istanbul.Bahcesehir_GirisMeydan</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@40.969801,29.068867,101.75h,19.46p,0z" id="759">
                 <title>TR.Istanbul.Caddebostan_YakutlarSokak</title>
               </bookmark>
@@ -573,88 +555,82 @@
           </folder>
           <folder id="309">
             <title>x</title>
-            <bookmark href="https://www.instantstreetview.com/@37.568886,126.980681,58.22h,-11.42p,2.97z" id="341">
-              <title>22-2 Da-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579642,126.977097,-138.93h,-12.18p,1.98z,WQZxSaWL_1Vnqr3scFOmbQ" id="766">
+            <bookmark href="https://www.instantstreetview.com/@37.579642,126.977097,-138.93h,-12.18p,1.98z,WQZxSaWL_1Vnqr3scFOmbQ" id="1045">
               <title>37 Samcheong-ro, Jongno-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579644,126.977071,29.29h,-27.38p,1.33z,87KfX9UznAJU8Go91MrbUQ" id="767">
+            <bookmark href="https://www.instantstreetview.com/@37.579644,126.977071,29.29h,-27.38p,1.33z,87KfX9UznAJU8Go91MrbUQ" id="1046">
               <title>Gyeongbokgung Palace | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="768">
+            <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="1047">
               <title>31-34 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="769">
+            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="1048">
               <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="770">
+            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="1049">
               <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="771">
+            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="1050">
               <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.568886,126.980681,58.22h,-11.42p,2.97z" id="772">
-              <title>22-2 Da-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="773">
+            <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="1051">
               <title>620-33 Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="774">
+            <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="1052">
               <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.571609,126.97504,-169.59h,-21.8p,3.96z" id="775">
+            <bookmark href="https://www.instantstreetview.com/@37.571609,126.97504,-169.59h,-21.8p,3.96z" id="1053">
               <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.568959,126.979171,-30.66h,-15.92p,2.31z" id="776">
+            <bookmark href="https://www.instantstreetview.com/@37.568959,126.979171,-30.66h,-15.92p,2.31z" id="1054">
               <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
             <folder id="334">
               <title>street</title>
-              <bookmark href="https://www.instantstreetview.com/@35.677759,139.759136,-102.31h,-15.77p,2.31z,3o8cZZeh-TqCqH_HFtOBgQ" id="788">
-                <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.677714,139.759107,-37.61h,-17.88p,0z,60YlpknI70ck7Fb5YWh3cA" id="789">
-                <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@35.693399,139.701526,15.07h,-1.66p,3.02z" id="389">
                 <title>SUBNADE, 1 Chome-2-2 Kabukichō, Shinjuku-ku, Tōkyō-to 160-0021, Japan | Instant Street View</title>
               </bookmark>
               <bookmark href="https://www.instantstreetview.com/@35.693424,139.699148,-51.59h,-19.58p,0.99z" id="390">
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku 都道414号線 | Instant Street View</title>
               </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.69368,139.699118,67.53h,-4.04p,0.99z" id="790">
-                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku 都道414号線 | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.691359,139.699268,130.55h,-7.13p,0z" id="791">
-                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-152.54h,-2.79p,0.99z" id="792">
-                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome−1 小田急新宿ミロード | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@37.56518,126.983307,-7.63h,-12.4p,1.65z" id="793">
-                <title>92 Namdaemun-ro, Jung-gu, Seoul, South Korea | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z" id="794">
-                <title>https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@37.573531,126.973889,-47.52h,-0.15p,0z" id="795">
-                <title>34-4 Doryeom-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.68912,139.698668,134.25h,-17.52p,2.97z" id="796">
-                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.689353,139.696994,-184.63h,-27.89p,3.3z" id="797">
-                <title>1 Chome-16-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.691208,139.697181,114.56h,-2.9p,1.65z" id="798">
-                <title>Unnamed Road, 1 Chome-7 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
-              </bookmark>
-              <bookmark href="https://www.instantstreetview.com/@35.690068,139.697375,-180.89h,-16.54p,3.3z" id="799">
-                <title>1 Chome-12-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
-              </bookmark>
               <bookmark href="https://www.instantstreetview.com/@35.659844,139.704276,-41.81h,-5.63p,2.97z" id="440">
                 <title>2 Chome-19-19 Shibuya, Shibuya-ku, Tōkyō-to 150-0002, Japan | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.677759,139.759136,-102.31h,-15.77p,2.31z,3o8cZZeh-TqCqH_HFtOBgQ" id="1067">
+                <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.677714,139.759107,-37.61h,-17.88p,0z,60YlpknI70ck7Fb5YWh3cA" id="1068">
+                <title>1 Kōkyogaien, Chiyoda-ku, Tōkyō-to 100-0002, Japan | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.69368,139.699118,67.53h,-4.04p,0.99z" id="1069">
+                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku 都道414号線 | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.691359,139.699268,130.55h,-7.13p,0z" id="1070">
+                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-152.54h,-2.79p,0.99z" id="1071">
+                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome−1 小田急新宿ミロード | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@37.56518,126.983307,-7.63h,-12.4p,1.65z" id="1072">
+                <title>92 Namdaemun-ro, Jung-gu, Seoul, South Korea | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z" id="1073">
+                <title>https://www.instantstreetview.com/@35.689286,139.699967,-109.53h,-2.57p,0z</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@37.573531,126.973889,-47.52h,-0.15p,0z" id="1074">
+                <title>34-4 Doryeom-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.68912,139.698668,134.25h,-17.52p,2.97z" id="1075">
+                <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome 都道414号線 | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.689353,139.696994,-184.63h,-27.89p,3.3z" id="1076">
+                <title>1 Chome-16-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.691208,139.697181,114.56h,-2.9p,1.65z" id="1077">
+                <title>Unnamed Road, 1 Chome-7 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@35.690068,139.697375,-180.89h,-16.54p,3.3z" id="1078">
+                <title>1 Chome-12-12 Nishishinjuku, Shinjuku-ku, Tōkyō-to 160-0023, Japan | Instant Street View</title>
               </bookmark>
             </folder>
           </folder>
@@ -978,19 +954,16 @@
           <title>Endomondo</title>
         </bookmark>
       </folder>
+      <bookmark href="https://app.blasteronline.com/speechelo/" id="510">
+        <title>Speechelo</title>
+      </bookmark>
       <bookmark href="https://account.xiaomi.com/" id="511">
         <title>Mi Account</title>
       </bookmark>
       <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="512">
         <title>Xiaomi Cloud</title>
       </bookmark>
-      <bookmark href="https://app.blasteronline.com/speechelo/" id="510">
-        <title>Speechelo</title>
-      </bookmark>
     </folder>
-    <bookmark href="https://www.file.io/" id="174">
-      <title>file.io - Super simple file sharing</title>
-    </bookmark>
   </folder>
 </folder>
 <folder id="5">
@@ -1039,36 +1012,6 @@
   </folder>
   <folder id="839">
     <title>Text-to-Speech</title>
-    <bookmark href="https://elevenlabs.io/" id="846">
-      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
-    </bookmark>
-    <bookmark href="https://www.resemble.ai/" id="847">
-      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
-    </bookmark>
-    <bookmark href="https://www.wellsaid.io/" id="848">
-      <title>WellSaid Home</title>
-    </bookmark>
-    <bookmark href="https://murf.ai/" id="849">
-      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
-    </bookmark>
-    <bookmark href="https://play.ht/" id="850">
-      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
-    </bookmark>
-    <bookmark href="https://www.descript.com/regenerate" id="851">
-      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
-    </bookmark>
-    <bookmark href="https://www.synthesia.io/" id="852">
-      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
-    </bookmark>
-    <bookmark href="https://aws.amazon.com/polly/" id="853">
-      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
-    </bookmark>
-    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="855">
-      <title>Azure AI Speech | Microsoft Azure</title>
-    </bookmark>
-    <bookmark href="https://cloud.google.com/text-to-speech" id="854">
-      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
-    </bookmark>
   </folder>
   <folder id="845">
     <title>Remote CPU</title>
@@ -1187,9 +1130,6 @@
   <bookmark href="https://x.com/i/grok" id="816">
     <title>Grok-Twitter</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="989">
-    <title>Settings - Microphone</title>
-  </bookmark>
   <bookmark href="https://simplechat.app/chat" id="986">
     <title>SimpleChat</title>
   </bookmark>
@@ -1220,26 +1160,11 @@
   <bookmark href="https://copilot.microsoft.com/chats/" id="820">
     <title>Copilot:</title>
   </bookmark>
-  <bookmark href="https://manus.im/app" id="990">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="991">
-    <title>Claude</title>
-  </bookmark>
   <bookmark href="https://cursor.com/agents" id="822">
     <title>Cursor</title>
   </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="992">
-    <title>Perplexity</title>
-  </bookmark>
   <bookmark href="https://gemini.google.com/app" id="830">
     <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="993">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="994">
-    <title>Krea</title>
   </bookmark>
   <bookmark href="https://platform.openai.com/" id="831">
     <title>OpenAI API</title>
@@ -1256,23 +1181,8 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="843">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="995">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="996">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="997">
-    <title>ImagineArt</title>
-  </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="834">
     <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="998">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="999">
-    <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="1005">
     <title>Grok</title>
@@ -1352,6 +1262,75 @@
   <bookmark href="https://openart.ai/" id="1030">
     <title>OpenArt</title>
   </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="1055">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="1056">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1057">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="1058">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="1059">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="1060">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="1061">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="1062">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="1063">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1064">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="1065">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="1066">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <folder id="1080">
+    <title>Text-to-Speech</title>
+    <bookmark href="https://elevenlabs.io/" id="1081">
+      <title>Free Text to Speech &amp; AI Voice Generator | ElevenLabs</title>
+    </bookmark>
+    <bookmark href="https://www.resemble.ai/" id="1082">
+      <title>AI Voice Generator and Deepfake Detection for Enterprise | Resemble AI</title>
+    </bookmark>
+    <bookmark href="https://www.wellsaid.io/" id="1083">
+      <title>WellSaid Home</title>
+    </bookmark>
+    <bookmark href="https://murf.ai/" id="1084">
+      <title>Free AI Voice Generator &amp; Text to Speech Software | Murf AI</title>
+    </bookmark>
+    <bookmark href="https://play.ht/" id="1085">
+      <title>#1 Free AI Voice Generator, Text to Speech, &amp; AI Voice Over</title>
+    </bookmark>
+    <bookmark href="https://www.descript.com/regenerate" id="1086">
+      <title>AI-powered audio repair | Regenerate audio to make impossible edits possible</title>
+    </bookmark>
+    <bookmark href="https://www.synthesia.io/" id="1087">
+      <title>Free AI Video Generator - Create AI Videos in 140 Languages</title>
+    </bookmark>
+    <bookmark href="https://aws.amazon.com/polly/" id="1088">
+      <title>AI Voice Generator and Text-to-Speech Tool - Amazon Polly - AWS</title>
+    </bookmark>
+    <bookmark href="https://cloud.google.com/text-to-speech" id="1089">
+      <title>Text-to-Speech AI: Lifelike Speech Synthesis | Google Cloud</title>
+    </bookmark>
+    <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="1090">
+      <title>Azure AI Speech | Microsoft Azure</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="6">
   <title>Google</title>
@@ -1466,12 +1445,15 @@
   <bookmark href="https://justpaste.it/" id="943">
     <title>JustPaste.it - paste text and share with your friends</title>
   </bookmark>
-  <bookmark href="https://app.blasteronline.com/speechelo/" id="810">
+  <bookmark href="https://app.blasteronline.com/speechelo/" id="1079">
     <title>Speechelo</title>
   </bookmark>
   <bookmark href="https://www.speechtexter.com/" id="944">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
+  <folder id="1092">
+    <title>Webcams</title>
+  </folder>
   <bookmark href="https://vocaroo.com/" id="945">
     <title>Vocaroo | Online voice recorder</title>
   </bookmark>
@@ -1549,7 +1531,7 @@
   </bookmark>
 </folder>
 <folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <title>€</title>
   <folder id="557">
     <title>WEBMUSTER</title>
     <folder id="905">
@@ -1629,7 +1611,7 @@
     </bookmark>
   </folder>
   <folder id="558">
-    <title>Other</title>
+    <title>$$</title>
     <folder id="570">
       <title>Shopeefood</title>
       <bookmark href="https://partner.shopee.vn/dashboard" id="578">
@@ -1783,6 +1765,9 @@
     <bookmark href="https://www.worldtesolacademy.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuEXqZDoOklnAFJ2NOS3kuZy8qrS_hl4YlTcz8cSlJla3xlSAJ6GlJhoCvy8QAvD_BwE" id="573">
       <title>World TESOL Academy - Accredited TESOL/TEFL Certificate - World TESOL Academy</title>
     </bookmark>
+  </folder>
+  <folder id="1091">
+    <title>No-Cache</title>
   </folder>
 </folder>
 </xbel>
