@@ -6,18 +6,6 @@
 <folder id="1814">
   <title>ACCOUNTS</title>
 </folder>
-<folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
-  <folder id="1482">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="1764">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="558">
-    <title>Other</title>
-  </folder>
-</folder>
 <folder id="1811">
   <title>MAIN</title>
   <folder id="1817">
@@ -2602,6 +2590,18 @@
   </folder>
   <folder id="1851">
     <title>No-Cache</title>
+  </folder>
+</folder>
+<folder id="545">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1764">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1482">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="558">
+    <title>Other</title>
   </folder>
 </folder>
 </xbel>
