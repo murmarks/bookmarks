@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2861: for Floccus bookmark sync browser extension -->
+<!--- highestId :2871: for Floccus bookmark sync browser extension -->
 
 <folder id="1814">
   <title>ACCOUNTS</title>
@@ -2591,6 +2591,36 @@
   <folder id="1851">
     <title>No-Cache</title>
   </folder>
+</folder>
+<folder id="2862">
+  <title>G</title>
+  <bookmark href="chrome://extensions/" id="2863">
+    <title>Extensions</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="2864">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://drive.google.com/drive/my-drive" id="2865">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/" id="2866">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="2867">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://takeout.google.com/" id="2868">
+    <title>Google Takeout</title>
+  </bookmark>
+  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="2869">
+    <title>Google Earth</title>
+  </bookmark>
+  <bookmark href="https://streetviewstudio.maps.google.com/" id="2870">
+    <title>Street View Studio</title>
+  </bookmark>
+  <bookmark href="https://myaccount.google.com/connections" id="2871">
+    <title>Third-party apps &amp; services</title>
+  </bookmark>
 </folder>
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
