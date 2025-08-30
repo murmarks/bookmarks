@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2871: for Floccus bookmark sync browser extension -->
+<!--- highestId :2872: for Floccus bookmark sync browser extension -->
 
 <folder id="2862">
   <title>G</title>
@@ -47,6 +47,9 @@
 </folder>
 <folder id="1814">
   <title>ACCOUNTS</title>
+  <bookmark href="https://www.deepl.com/en/your-account/subscription" id="2872">
+    <title>DeepL account</title>
+  </bookmark>
 </folder>
 <folder id="1811">
   <title>MAIN</title>
