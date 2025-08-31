@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2872: for Floccus bookmark sync browser extension -->
+<!--- highestId :2873: for Floccus bookmark sync browser extension -->
 
 <folder id="2862">
   <title>G</title>
@@ -19,6 +19,9 @@
   </bookmark>
   <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="2867">
     <title></title>
+  </bookmark>
+  <bookmark href="https://console.cloud.google.com/" id="2873">
+    <title>Google Cloud console</title>
   </bookmark>
   <bookmark href="https://takeout.google.com/" id="2868">
     <title>Google Takeout</title>
