@@ -33,18 +33,6 @@
     <title>Third-party apps &amp; services</title>
   </bookmark>
 </folder>
-<folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
-  <folder id="1482">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="1764">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="558">
-    <title>Other</title>
-  </folder>
-</folder>
 <folder id="1814">
   <title>ACCOUNTS</title>
   <bookmark href="https://www.deepl.com/en/your-account/subscription" id="2872">
@@ -2635,6 +2623,18 @@
   </folder>
   <folder id="1851">
     <title>No-Cache</title>
+  </folder>
+</folder>
+<folder id="545">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1482">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1764">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="558">
+    <title>Other</title>
   </folder>
 </folder>
 </xbel>
