@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2874: for Floccus bookmark sync browser extension -->
+<!--- highestId :2876: for Floccus bookmark sync browser extension -->
 
 <folder id="1814">
   <title>ACCOUNTS</title>
@@ -2617,10 +2617,10 @@
         <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.vietnam-visa.com/5-job-trends-in-vietnam-for-foreigners/" id="1914">
+    <bookmark href="https://www.vietnam-visa.com/5-job-trends-in-vietnam-for-foreigners/" id="2875">
       <title>5 job trends preferred by foreigners seeking permanent job in Vietnam</title>
     </bookmark>
-    <bookmark href="https://www.worldtesolacademy.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuEXqZDoOklnAFJ2NOS3kuZy8qrS_hl4YlTcz8cSlJla3xlSAJ6GlJhoCvy8QAvD_BwE" id="1915">
+    <bookmark href="https://www.worldtesolacademy.com/?gclid=CjwKCAjwtp2bBhAGEiwAOZZTuEXqZDoOklnAFJ2NOS3kuZy8qrS_hl4YlTcz8cSlJla3xlSAJ6GlJhoCvy8QAvD_BwE" id="2876">
       <title>World TESOL Academy - Accredited TESOL/TEFL Certificate - World TESOL Academy</title>
     </bookmark>
   </folder>
@@ -2628,6 +2628,9 @@
     <title>No-Cache</title>
   </folder>
 </folder>
+<bookmark href="https://jsonlint.com/" id="2874">
+  <title>JSON Online Validator and Formatter - JSON Lint</title>
+</bookmark>
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
   <folder id="1482">
@@ -2640,7 +2643,4 @@
     <title>Other</title>
   </folder>
 </folder>
-<bookmark href="https://jsonlint.com/" id="2874">
-  <title>JSON Online Validator and Formatter - JSON Lint</title>
-</bookmark>
 </xbel>
