@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2873: for Floccus bookmark sync browser extension -->
+<!--- highestId :2874: for Floccus bookmark sync browser extension -->
 
 <folder id="1814">
   <title>ACCOUNTS</title>
@@ -2640,4 +2640,7 @@
     <title>Other</title>
   </folder>
 </folder>
+<bookmark href="https://jsonlint.com/" id="2874">
+  <title>JSON Online Validator and Formatter - JSON Lint</title>
+</bookmark>
 </xbel>
