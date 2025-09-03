@@ -3,6 +3,24 @@
 <xbel version="1.0">
 <!--- highestId :2873: for Floccus bookmark sync browser extension -->
 
+<folder id="1814">
+  <title>ACCOUNTS</title>
+  <bookmark href="https://www.deepl.com/en/your-account/subscription" id="2872">
+    <title>DeepL account</title>
+  </bookmark>
+</folder>
+<folder id="545">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1482">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1764">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="558">
+    <title>Other</title>
+  </folder>
+</folder>
 <folder id="2862">
   <title>G</title>
   <bookmark href="chrome://extensions/" id="2863">
@@ -34,12 +52,6 @@
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="2871">
     <title>Third-party apps &amp; services</title>
-  </bookmark>
-</folder>
-<folder id="1814">
-  <title>ACCOUNTS</title>
-  <bookmark href="https://www.deepl.com/en/your-account/subscription" id="2872">
-    <title>DeepL account</title>
   </bookmark>
 </folder>
 <folder id="1811">
@@ -2190,11 +2202,11 @@
       <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="2023">
         <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
       </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="2024">
-        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-      </bookmark>
       <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="2025">
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="2024">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
     </folder>
     <bookmark href="https://hpanel.hostinger.com/" id="1904">
@@ -2483,6 +2495,15 @@
       <title>Raw</title>
       <folder id="2028">
         <title>$</title>
+        <bookmark href="https://bionluk.com/" id="2070">
+          <title>Yetenekli Freelancer Topluluğu - Bir Freelancerla Çalışın | Bionluk</title>
+        </bookmark>
+        <bookmark href="https://www.fiverr.com/?referral_campaign=RPCampaign1&amp;referral_invitee=social&amp;referral_inviter=95339841&amp;referral_key=86d6433dc042905c58da09b61c8d8b500d635ebc&amp;show_join=true&amp;utm_campaign=referral_program_show&amp;utm_content=&amp;utm_medium=shared&amp;utm_source=get_url&amp;utm_term=" id="2069">
+          <title>Fiverr - Freelance Services Marketplace for Businesses</title>
+        </bookmark>
+        <bookmark href="https://www.udemy.com/?utm_source=adwords-brand&amp;utm_medium=udemyads&amp;utm_campaign=Brand-Udemy_la.EN_cc.ROW&amp;utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1028581_._pd__._&amp;utm_term=_._pd__._kw_udemy_._&amp;matchtype=e&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQV042GOhj6trbUyB2WwALzXMStI5TDcGoB-ptIwaQ4hVwMV8QPVG7hoCBaMQAvD_BwE" id="2068">
+          <title>Online Courses - Learn Anything, On Your Schedule | Udemy</title>
+        </bookmark>
         <bookmark href="https://www.youtube.com/watch?v=PqUZCj2V5Os&amp;list=PLBtjLpqcpfOHYCgJougDCh-V_wP_UUE9Z" id="2061">
           <title>Magnificent Century Episode 2 | English Subtitle - YouTube</title>
         </bookmark>
@@ -2504,15 +2525,6 @@
         <bookmark href="https://videohive.net/" id="2067">
           <title>VideoHive - Stock Footage &amp; Video Effects</title>
         </bookmark>
-        <bookmark href="https://www.udemy.com/?utm_source=adwords-brand&amp;utm_medium=udemyads&amp;utm_campaign=Brand-Udemy_la.EN_cc.ROW&amp;utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1028581_._pd__._&amp;utm_term=_._pd__._kw_udemy_._&amp;matchtype=e&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQV042GOhj6trbUyB2WwALzXMStI5TDcGoB-ptIwaQ4hVwMV8QPVG7hoCBaMQAvD_BwE" id="2068">
-          <title>Online Courses - Learn Anything, On Your Schedule | Udemy</title>
-        </bookmark>
-        <bookmark href="https://www.fiverr.com/?referral_campaign=RPCampaign1&amp;referral_invitee=social&amp;referral_inviter=95339841&amp;referral_key=86d6433dc042905c58da09b61c8d8b500d635ebc&amp;show_join=true&amp;utm_campaign=referral_program_show&amp;utm_content=&amp;utm_medium=shared&amp;utm_source=get_url&amp;utm_term=" id="2069">
-          <title>Fiverr - Freelance Services Marketplace for Businesses</title>
-        </bookmark>
-        <bookmark href="https://bionluk.com/" id="2070">
-          <title>Yetenekli Freelancer Topluluğu - Bir Freelancerla Çalışın | Bionluk</title>
-        </bookmark>
         <bookmark href="https://www.freelancer.com/?gclid=CjwKCAjwndCKBhAkEiwAgSDKQUF6d3nKl35uJCJZs6--ux4jFUDKFqrl_VOn8fvaLzPLiX-F6akI7RoCxnkQAvD_BwE" id="2160">
           <title>Hire Freelancers &amp; Find Freelance Jobs Online | Freelancer</title>
         </bookmark>
@@ -2528,47 +2540,47 @@
         <bookmark href="https://www.paid-to-read-email.com/" id="2164">
           <title>Paid To Read Email® - Earn Cash for Reading Paid Emails</title>
         </bookmark>
-        <bookmark href="https://toloka.yandex.com.tr/" id="2165">
-          <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
-        </bookmark>
-        <bookmark href="https://lorentlabs.com/" id="2166">
-          <title>LorentLabs - İnternet ve bilişim için güvenli yol</title>
-        </bookmark>
-        <bookmark href="https://www.shopify.com/blog/dropshipping-guide" id="2167">
-          <title>The Ultimate Guide to Dropshipping (2021)</title>
-        </bookmark>
-        <bookmark href="https://blog.hubspot.com/sales/amazon-affiliate" id="2168">
-          <title>Amazon Affiliate Program: How to Become an Amazon Associate to Boost Income</title>
-        </bookmark>
-        <bookmark href="https://teespring.com/" id="2169">
-          <title>Spring</title>
-        </bookmark>
-        <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="2264">
-          <title>Create your online store today with Shopify</title>
-        </bookmark>
-        <bookmark href="https://onlyfans.com/blondierosiie?gclid=CjwKCAjw49qKBhAoEiwAHQVTo0VoDRweouyByJUnDlrMooHfiTjczhUt00O3Rq1ovTKAfQPlp2mcQRoCU_0QAvD_BwE" id="2265">
-          <title>OnlyFans</title>
-        </bookmark>
         <bookmark href="https://gumroad.com/" id="2266">
           <title>Gumroad | Sell Digital Products &amp; Memberships</title>
+        </bookmark>
+        <bookmark href="https://toloka.yandex.com.tr/" id="2165">
+          <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
         </bookmark>
         <bookmark href="https://sellercentral.amazon.com/gp/help/external/201808410" id="2267">
           <title>Drop Shipping Policy - Amazon Seller Central</title>
         </bookmark>
+        <bookmark href="https://lorentlabs.com/" id="2166">
+          <title>LorentLabs - İnternet ve bilişim için güvenli yol</title>
+        </bookmark>
         <bookmark href="https://tutors.com/pro/online-tutoring-jobs" id="2268">
           <title>The 10 Best Online Tutoring Jobs (Earn $50+/hour) // Tutors.com</title>
+        </bookmark>
+        <bookmark href="https://www.shopify.com/blog/dropshipping-guide" id="2167">
+          <title>The Ultimate Guide to Dropshipping (2021)</title>
         </bookmark>
         <bookmark href="https://videohive.net/" id="2269">
           <title>VideoHive - Stock Footage &amp; Video Effects</title>
         </bookmark>
+        <bookmark href="https://blog.hubspot.com/sales/amazon-affiliate" id="2168">
+          <title>Amazon Affiliate Program: How to Become an Amazon Associate to Boost Income</title>
+        </bookmark>
         <bookmark href="https://k2s.cc/premium" id="2270">
           <title>Keep2Share</title>
+        </bookmark>
+        <bookmark href="https://teespring.com/" id="2169">
+          <title>Spring</title>
         </bookmark>
         <bookmark href="https://www.youtube.com/watch?v=i2uHn9dh0vM" id="2271">
           <title>Yasaklar 1. Bölüm - YouTube</title>
         </bookmark>
+        <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="2264">
+          <title>Create your online store today with Shopify</title>
+        </bookmark>
         <bookmark href="https://www.youtube.com/results?search_query=how+to+be+a+mobile+app+developer" id="2272">
           <title>how to be a mobile app developer - YouTube</title>
+        </bookmark>
+        <bookmark href="https://onlyfans.com/blondierosiie?gclid=CjwKCAjw49qKBhAoEiwAHQVTo0VoDRweouyByJUnDlrMooHfiTjczhUt00O3Rq1ovTKAfQPlp2mcQRoCU_0QAvD_BwE" id="2265">
+          <title>OnlyFans</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=25780ceb70a5" id="2029">
@@ -2626,18 +2638,6 @@
   </folder>
   <folder id="1851">
     <title>No-Cache</title>
-  </folder>
-</folder>
-<folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
-  <folder id="1482">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="1764">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="558">
-    <title>Other</title>
   </folder>
 </folder>
 </xbel>
