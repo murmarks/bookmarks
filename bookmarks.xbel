@@ -3,18 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :2876: for Floccus bookmark sync browser extension -->
 
-<folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
-  <folder id="1482">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="1764">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="558">
-    <title>Other</title>
-  </folder>
-</folder>
 <folder id="1814">
   <title>ACCOUNTS</title>
   <bookmark href="https://www.deepl.com/en/your-account/subscription" id="2872">
@@ -2643,4 +2631,16 @@
 <bookmark href="https://jsonlint.com/" id="2874">
   <title>JSON Online Validator and Formatter - JSON Lint</title>
 </bookmark>
+<folder id="545">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1482">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1764">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="558">
+    <title>Other</title>
+  </folder>
+</folder>
 </xbel>
