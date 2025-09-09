@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2880: for Floccus bookmark sync browser extension -->
+<!--- highestId :2881: for Floccus bookmark sync browser extension -->
 
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
@@ -2653,6 +2653,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=7AImkA96mE8" id="2880">
     <title>VSCode + Cline + Continue | NEVER PAY for CURSOR again. Use this OPEN SOURCE &amp; LOCAL Alternative - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=C_D8V9odBQ8" id="2881">
+    <title>Windsurf IDE: NEW AI Editor - Cursor Alternative That&apos;s FREE &amp; LOCAL! - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
