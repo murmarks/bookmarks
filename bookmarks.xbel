@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2876: for Floccus bookmark sync browser extension -->
+<!--- highestId :2878: for Floccus bookmark sync browser extension -->
 
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
@@ -2643,4 +2643,10 @@
 <bookmark href="https://jsonlint.com/" id="2874">
   <title>JSON Online Validator and Formatter - JSON Lint</title>
 </bookmark>
+<folder id="2877">
+  <title>Temp</title>
+  <bookmark href="https://www.youtube.com/watch?v=8TcWGk1DJVs" id="2878">
+    <title>Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor?? - YouTube</title>
+  </bookmark>
+</folder>
 </xbel>
