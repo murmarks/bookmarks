@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2881: for Floccus bookmark sync browser extension -->
+<!--- highestId :2882: for Floccus bookmark sync browser extension -->
 
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
@@ -2658,4 +2658,7 @@
     <title>Windsurf IDE: NEW AI Editor - Cursor Alternative That&apos;s FREE &amp; LOCAL! - YouTube</title>
   </bookmark>
 </folder>
+<bookmark href="https://help.openai.com/en" id="2882">
+  <title>OpenAI Help Center</title>
+</bookmark>
 </xbel>
