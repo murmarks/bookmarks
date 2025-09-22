@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2882: for Floccus bookmark sync browser extension -->
+<!--- highestId :2883: for Floccus bookmark sync browser extension -->
 
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
@@ -2660,5 +2660,8 @@
 </folder>
 <bookmark href="https://help.openai.com/en" id="2882">
   <title>OpenAI Help Center</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnivda/warning_openai_charges_for_gpt5_but_secretly/" id="2883">
+  <title>⚠️ Warning: OpenAI charges for GPT-5 but secretly gives GPT-4 — zero human support, only a bot : r/OpenAI</title>
 </bookmark>
 </xbel>
