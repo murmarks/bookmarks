@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2884: for Floccus bookmark sync browser extension -->
+<!--- highestId :2890: for Floccus bookmark sync browser extension -->
 
 <folder id="1816">
   <title>€</title>
@@ -2666,5 +2666,23 @@
   <folder id="558">
     <title>Other</title>
   </folder>
+</folder>
+<folder id="2885">
+  <title>Windsurf</title>
+  <bookmark href="https://windsurf.com/subscription/usage" id="2886">
+    <title>Usage | Windsurf</title>
+  </bookmark>
+  <bookmark href="https://docs.windsurf.com/windsurf/getting-started" id="2887">
+    <title>Windsurf Docs</title>
+  </bookmark>
+  <bookmark href="https://open-vsx.org/" id="2888">
+    <title>Open VSX Registry</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@windsurf/playlists" id="2889">
+    <title>Windsurf - YouTube</title>
+  </bookmark>
+  <bookmark href="https://windsurf.run/" id="2890">
+    <title>Windsurf Directory - Windsurf Rules &amp; MCP Servers</title>
+  </bookmark>
 </folder>
 </xbel>
