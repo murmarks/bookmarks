@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2890: for Floccus bookmark sync browser extension -->
+<!--- highestId :2891: for Floccus bookmark sync browser extension -->
 
 <folder id="1816">
   <title>€</title>
@@ -2655,18 +2655,6 @@
 <bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnj1ql/business_plan_downgraded_from_gpt5_to_gpt4_within/" id="2884">
   <title>Business plan downgraded from GPT-5 to GPT-4 within a day, and no real support : r/OpenAI</title>
 </bookmark>
-<folder id="545">
-  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
-  <folder id="1482">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="1764">
-    <title>No-Cache</title>
-  </folder>
-  <folder id="558">
-    <title>Other</title>
-  </folder>
-</folder>
 <folder id="2885">
   <title>Windsurf</title>
   <bookmark href="https://windsurf.com/subscription/usage" id="2886">
@@ -2684,5 +2672,20 @@
   <bookmark href="https://windsurf.run/" id="2890">
     <title>Windsurf Directory - Windsurf Rules &amp; MCP Servers</title>
   </bookmark>
+</folder>
+<folder id="2891">
+  <title>ACCOUNTS</title>
+</folder>
+<folder id="545">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1482">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1764">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="558">
+    <title>Other</title>
+  </folder>
 </folder>
 </xbel>
