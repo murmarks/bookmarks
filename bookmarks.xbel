@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2891: for Floccus bookmark sync browser extension -->
+<!--- highestId :2892: for Floccus bookmark sync browser extension -->
 
 <folder id="1816">
   <title>€</title>
@@ -2688,4 +2688,7 @@
     <title>Other</title>
   </folder>
 </folder>
+<bookmark href="https://whatismyipaddress.com/ip-lookup" id="2892">
+  <title>Instant IP Address Lookup</title>
+</bookmark>
 </xbel>
