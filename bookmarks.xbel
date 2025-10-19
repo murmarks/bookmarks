@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2892: for Floccus bookmark sync browser extension -->
+<!--- highestId :2893: for Floccus bookmark sync browser extension -->
 
 <folder id="1816">
   <title>€</title>
@@ -2690,5 +2690,8 @@
   <folder id="558">
     <title>Other</title>
   </folder>
+  <bookmark href="https://dodopayments.com/" id="2893">
+    <title>Dodo Payments</title>
+  </bookmark>
 </folder>
 </xbel>
