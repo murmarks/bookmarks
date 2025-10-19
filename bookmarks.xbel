@@ -2676,6 +2676,9 @@
 <folder id="2891">
   <title>ACCOUNTS</title>
 </folder>
+<bookmark href="https://whatismyipaddress.com/ip-lookup" id="2892">
+  <title>Instant IP Address Lookup</title>
+</bookmark>
 <folder id="545">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
   <folder id="1482">
@@ -2688,7 +2691,4 @@
     <title>Other</title>
   </folder>
 </folder>
-<bookmark href="https://whatismyipaddress.com/ip-lookup" id="2892">
-  <title>Instant IP Address Lookup</title>
-</bookmark>
 </xbel>
