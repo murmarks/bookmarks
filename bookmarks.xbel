@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2993: for Floccus bookmark sync browser extension -->
+<!--- highestId :2997: for Floccus bookmark sync browser extension -->
 
 <folder id="2894">
   <title>No-Cache</title>
@@ -302,5 +302,17 @@
 </bookmark>
 <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="2993">
   <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="2994">
+  <title>MuratVural.com –</title>
+</bookmark>
+<bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="2995">
+  <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+</bookmark>
+<bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="2996">
+  <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+</bookmark>
+<bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="2997">
+  <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
 </bookmark>
 </xbel>
