@@ -9215,12 +9215,6 @@
         <bookmark href="https://myaccount.google.com/permissions?pli=1" id="3302">
           <title>Apps with access to your account</title>
         </bookmark>
-        <folder id="3303">
-          <title>C</title>
-          <bookmark href="http://support.google.com/a/bin/answer.py?hl=en&amp;answer=175121" id="3368">
-            <title>What&apos;s included in my edition of Gmail - Google Apps Help</title>
-          </bookmark>
-        </folder>
         <bookmark href="https://admin.google.com/" id="3295">
           <title>Admin Console</title>
         </bookmark>
@@ -9229,9 +9223,6 @@
         </bookmark>
         <bookmark href="https://takeout.google.com/settings/takeout" id="3296">
           <title>Download your data</title>
-        </bookmark>
-        <bookmark href="https://support.google.com/accounts/answer/27441?hl=en" id="3402">
-          <title>Create a Google Account - TELEFONSUZ İÇİN ALTTAKİ</title>
         </bookmark>
         <folder id="3297">
           <title>A</title>
@@ -9263,8 +9254,8 @@
             <title>Google Code (wm@muratvural.com - password vx4tN4zt3Tk9)</title>
           </bookmark>
         </folder>
-        <bookmark href="https://admin.google.com/ac/billing/catalog" id="3403">
-          <title>Get more services - Admin Console</title>
+        <bookmark href="https://support.google.com/accounts/answer/27441?hl=en" id="3402">
+          <title>Create a Google Account - TELEFONSUZ İÇİN ALTTAKİ</title>
         </bookmark>
         <folder id="3298">
           <title>B</title>
@@ -9276,6 +9267,15 @@
           </bookmark>
           <bookmark href="https://wallet.google.com/manage/" id="3367">
             <title>Google Wallet</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://admin.google.com/ac/billing/catalog" id="3403">
+          <title>Get more services - Admin Console</title>
+        </bookmark>
+        <folder id="3303">
+          <title>C</title>
+          <bookmark href="http://support.google.com/a/bin/answer.py?hl=en&amp;answer=175121" id="3368">
+            <title>What&apos;s included in my edition of Gmail - Google Apps Help</title>
           </bookmark>
         </folder>
       </folder>
