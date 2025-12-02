@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4670: for Floccus bookmark sync browser extension -->
+<!--- highestId :4672: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://hpanel.hostinger.com/" id="4533">
   <title>Hostinger</title>
@@ -5006,6 +5006,12 @@
   <folder id="4229">
     <title>Webcams</title>
   </folder>
+  <bookmark href="https://www.speechtexter.com/" id="4671">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4672">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
 </folder>
 <folder id="2431">
   <title>ACCOUNTS</title>
@@ -7843,9 +7849,6 @@
     <bookmark href="https://otter.ai/" id="3264">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
-    <bookmark href="https://www.speechmatics.com/" id="3265">
-      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="3266">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
@@ -7858,50 +7861,20 @@
     <bookmark href="https://www.speechmatics.com/" id="2950">
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
     </bookmark>
+    <bookmark href="https://www.speechmatics.com/" id="3265">
+      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
+    </bookmark>
   </folder>
   <folder id="3195">
     <title>Text-to-Speech</title>
   </folder>
   <folder id="3196">
     <title>Speech-to-Text</title>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="3208">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="3209">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="3210">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="3211">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="3212">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="3213">
-      <title>Notebooks</title>
-    </bookmark>
     <bookmark href="https://www.speechtexter.com/" id="3214">
       <title>SpeechTexter</title>
     </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="3215">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="3216">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
     <bookmark href="https://www.speechmatics.com/" id="3217">
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="3267">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="3268">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="3269">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
     <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="2231">
       <title>Chrome Speak Test</title>
@@ -8000,6 +7973,39 @@
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="2958">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="3208">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="3209">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="3210">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="3211">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="3212">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="3213">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="3215">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="3216">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="3267">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="3269">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="3268">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
   </folder>
@@ -8145,33 +8151,6 @@
     </folder>
     <folder id="3260">
       <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="3280">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="3281">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="3282">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="3283">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="3284">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="3285">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="3286">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="3287">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="3288">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
       <bookmark href="https://huggingface.co/spaces" id="2336">
         <title>Hugging Face</title>
       </bookmark>
@@ -8251,6 +8230,33 @@
         <title>Azure Machine Learning</title>
       </bookmark>
       <bookmark href="https://cloud.google.com/vertex-ai" id="3030">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="3280">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="3281">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="3282">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="3283">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="3284">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="3285">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="3286">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="3287">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="3288">
         <title>Vertex AI Platform | Google Cloud</title>
       </bookmark>
     </folder>
@@ -10379,9 +10385,6 @@
 </folder>
 <folder id="4223">
   <title>Online</title>
-  <folder id="4228">
-    <title>Webcams</title>
-  </folder>
   <bookmark href="https://pixlr.com/" id="4230">
     <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
   </bookmark>
@@ -10682,6 +10685,9 @@
   <bookmark href="https://bitly.com/" id="4379">
     <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
   </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4462">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
   <bookmark href="https://pixlr.com/" id="4434">
     <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
   </bookmark>
@@ -10766,13 +10772,13 @@
   <bookmark href="https://www.dropbox.com/home" id="4461">
     <title>Dropbox</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4462">
+  <bookmark href="https://www.speechtexter.com/" id="4464">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
   <bookmark href="https://www.dropbox.com/home" id="4463">
     <title>Dropbox</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4464">
+  <bookmark href="https://www.speechtexter.com/" id="4469">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
   <bookmark href="https://qtext.io/" id="4465">
@@ -10787,13 +10793,13 @@
   <bookmark href="https://onedrive.live.com/?view=0" id="4468">
     <title>OneDrive</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4469">
+  <bookmark href="https://www.speechtexter.com/" id="4471">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
   <bookmark href="https://app.box.com/folder/0" id="4470">
     <title>Box</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4471">
+  <bookmark href="https://www.speechtexter.com/" id="4530">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
   <bookmark href="https://pastebin.com/" id="4472">
@@ -10970,7 +10976,7 @@
   <bookmark href="https://www.photopea.com/" id="4529">
     <title>Photopea | Online Photo Editor</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4530">
+  <bookmark href="https://www.speechtexter.com/" id="4329">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
   <bookmark href="https://tinyurl.com/" id="4531">
@@ -10979,9 +10985,9 @@
   <bookmark href="https://bitly.com/" id="4532">
     <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="4329">
-    <title>SpeechTexter | Type with your voice!</title>
-  </bookmark>
+  <folder id="4228">
+    <title>Webcams</title>
+  </folder>
 </folder>
 <bookmark href="https://hpanel.hostinger.com/" id="3787">
   <title>Hostinger</title>
