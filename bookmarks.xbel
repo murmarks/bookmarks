@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4138: for Floccus bookmark sync browser extension -->
+<!--- highestId :4151: for Floccus bookmark sync browser extension -->
 
 <folder id="1317">
   <title>€</title>
@@ -10643,5 +10643,44 @@
 </bookmark>
 <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="4138">
   <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4139">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4140">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4141">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4142">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4143">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4144">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4145">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4146">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4147">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4148">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4149">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4150">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4151">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
 </bookmark>
 </xbel>
