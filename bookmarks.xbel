@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4151: for Floccus bookmark sync browser extension -->
+<!--- highestId :4433: for Floccus bookmark sync browser extension -->
 
 <folder id="1317">
   <title>€</title>
@@ -12,12 +12,6 @@
     <title>$$</title>
     <folder id="1379">
       <title>Shopeefood</title>
-      <bookmark href="https://partner.shopee.vn/dashboard" id="1403">
-        <title>Shopee Partner</title>
-      </bookmark>
-      <bookmark href="https://merchant.shopeefood.vn/account/login" id="1404">
-        <title>ShopeeFood Merchant</title>
-      </bookmark>
     </folder>
     <folder id="1380">
       <title>Raw</title>
@@ -171,31 +165,19 @@
     <title>WEBMUSTER</title>
     <folder id="1383">
       <title>No-Cache</title>
-      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1415">
-        <title>MuratVural.com –</title>
-      </bookmark>
-      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1416">
-        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-      </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1417">
-        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-      </bookmark>
-      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1418">
-        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-      </bookmark>
     </folder>
     <folder id="1384">
       <title>No-Cache</title>
-      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1419">
+      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1905">
         <title>MuratVural.com –</title>
       </bookmark>
-      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1420">
+      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1906">
         <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
       </bookmark>
-      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1421">
+      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1907">
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
       </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1422">
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1908">
         <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
     </folder>
@@ -800,9 +782,6 @@
   <bookmark href="https://www.photopea.com/" id="2144">
     <title>Photopea | Online Photo Editor</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="2145">
-    <title>SpeechTexter | Type with your voice!</title>
-  </bookmark>
   <bookmark href="https://tinyurl.com/" id="2180">
     <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
   </bookmark>
@@ -1198,9 +1177,6 @@
     <bookmark href="https://otter.ai/" id="2273">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
-    <bookmark href="https://www.speechmatics.com/" id="2274">
-      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="2275">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
@@ -1216,44 +1192,11 @@
   </bookmark>
   <folder id="2218">
     <title>Speech-to-Text</title>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="2231">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="2232">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="2233">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="2234">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="2235">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="2236">
-      <title>Notebooks</title>
-    </bookmark>
     <bookmark href="https://www.speechtexter.com/" id="2237">
       <title>SpeechTexter</title>
     </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="2238">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="2239">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
     <bookmark href="https://www.speechmatics.com/" id="2240">
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="2281">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="2282">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="2283">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
   </folder>
   <bookmark href="https://gemini.google.com/app" id="2249">
@@ -1440,33 +1383,6 @@
     </folder>
     <folder id="2277">
       <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="2336">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="2337">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="2338">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="2339">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="2340">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="2341">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="2342">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="2343">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="2344">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
     </folder>
     <folder id="2278">
       <title>Rent CPU</title>
@@ -3675,18 +3591,6 @@
     </folder>
     <folder id="1832">
       <title>No-Cache</title>
-      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1905">
-        <title>MuratVural.com –</title>
-      </bookmark>
-      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1906">
-        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-      </bookmark>
-      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1907">
-        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-      </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1908">
-        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-      </bookmark>
     </folder>
     <bookmark href="https://hpanel.hostinger.com/" id="1833">
       <title>Hostinger</title>
@@ -4465,6 +4369,9 @@
   </folder>
   <bookmark href="https://bitly.com/" id="2507">
     <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="2145">
+    <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnivda/warning_openai_charges_for_gpt5_but_secretly/" id="11">
@@ -7253,6 +7160,18 @@
   <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="3108">
     <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
   </bookmark>
+  <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="4238">
+    <title>MuratVural.com –</title>
+  </bookmark>
+  <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="4239">
+    <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+  </bookmark>
+  <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="4240">
+    <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+  </bookmark>
+  <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="4241">
+    <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+  </bookmark>
 </folder>
 <folder id="1217">
   <title>No-Cache</title>
@@ -7750,6 +7669,9 @@
     <bookmark href="https://www.nuance.com/index.html" id="3266">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
+    <bookmark href="https://www.speechmatics.com/" id="2274">
+      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
+    </bookmark>
   </folder>
   <folder id="3195">
     <title>Text-to-Speech</title>
@@ -7794,6 +7716,39 @@
     </bookmark>
     <bookmark href="https://otter.ai/" id="3269">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="2231">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="2232">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="2233">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="2234">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="2235">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="2236">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="2238">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="2239">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="2281">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="2283">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="2282">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
   </folder>
   <folder id="3197">
@@ -7963,6 +7918,33 @@
         <title>Azure Machine Learning</title>
       </bookmark>
       <bookmark href="https://cloud.google.com/vertex-ai" id="3288">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="2336">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="2337">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="2338">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="2339">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="2340">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="2341">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="2342">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="2343">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="2344">
         <title>Vertex AI Platform | Google Cloud</title>
       </bookmark>
     </folder>
@@ -9615,6 +9597,12 @@
       <bookmark href="https://merchant.shopeefood.vn/account/login" id="3838">
         <title>ShopeeFood Merchant</title>
       </bookmark>
+      <bookmark href="https://partner.shopee.vn/dashboard" id="1403">
+        <title>Shopee Partner</title>
+      </bookmark>
+      <bookmark href="https://merchant.shopeefood.vn/account/login" id="1404">
+        <title>ShopeeFood Merchant</title>
+      </bookmark>
     </folder>
     <folder id="3813">
       <title>Raw</title>
@@ -9780,6 +9768,18 @@
       <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="3852">
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
       </bookmark>
+      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1415">
+        <title>MuratVural.com –</title>
+      </bookmark>
+      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1416">
+        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+      </bookmark>
+      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1418">
+        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1417">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+      </bookmark>
     </folder>
     <folder id="3817">
       <title>No-Cache</title>
@@ -9793,6 +9793,18 @@
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
       </bookmark>
       <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="3856">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+      </bookmark>
+      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="1419">
+        <title>MuratVural.com –</title>
+      </bookmark>
+      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="1420">
+        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+      </bookmark>
+      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="1421">
+        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1422">
         <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
     </folder>
@@ -10409,6 +10421,306 @@
   <bookmark href="https://bitly.com/" id="4075">
     <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
   </bookmark>
+  <bookmark href="https://pixlr.com/" id="4242">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4243">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4244">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://pixlr.com/" id="4245">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4246">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4247">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4268">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4269">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4270">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4271">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4272">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4273">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4274">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4275">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4276">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4277">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4298">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4299">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4300">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4301">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4302">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4303">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4304">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4305">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4306">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4307">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4328">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4329">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4330">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4331">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4332">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4333">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4334">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4335">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4336">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4337">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4358">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4359">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4360">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4361">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4362">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4363">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4364">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4365">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4366">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://app.blasteronline.com/speechelo/" id="4367">
+    <title>Speechelo</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4380">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4381">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4382">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4383">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4384">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4385">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4386">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4387">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4388">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4389">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4390">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4391">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4392">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4393">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4394">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4395">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4396">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4397">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4398">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4399">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4400">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4401">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4402">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4403">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4404">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4405">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4406">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4407">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4408">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4409">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4410">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4411">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4412">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://pixlr.com/" id="4413">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4414">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4415">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4416">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4417">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4418">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4419">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4420">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4421">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4422">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4423">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4424">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4425">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4426">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4427">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4428">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4429">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4430">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4431">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4432">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4433">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
 </folder>
 <folder id="4076">
   <title>Windsurf</title>
@@ -10683,4 +10995,538 @@
 <bookmark href="http://localhost/phpmyadmin/" id="4151">
   <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
 </bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4152">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4153">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4154">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4155">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4156">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4157">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4158">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4159">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4160">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4161">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4162">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4163">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4164">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4165">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4166">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4167">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4168">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4169">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4170">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4171">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4172">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4173">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4174">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4175">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4176">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4177">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4178">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4179">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4180">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4181">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4182">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4183">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4184">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4185">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4186">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4187">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4188">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4189">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4190">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4191">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4192">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4193">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4194">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4195">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4196">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4197">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4198">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4199">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4200">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4201">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4202">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4203">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4204">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4205">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4206">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4207">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4208">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="4209">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="4210">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="4211">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="4212">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="4213">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="4214">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4215">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4216">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4217">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4218">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="4219">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="4220">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<folder id="4221">
+  <title>ACCOUNTS</title>
+</folder>
+<folder id="4222">
+  <title>No-Cache</title>
+  <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="4224">
+    <title>MuratVural.com –</title>
+  </bookmark>
+  <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="4225">
+    <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+  </bookmark>
+  <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="4226">
+    <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+  </bookmark>
+  <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="4227">
+    <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+  </bookmark>
+</folder>
+<folder id="4223">
+  <title>Online</title>
+  <folder id="4228">
+    <title>Webcams</title>
+  </folder>
+  <folder id="4229">
+    <title>Webcams</title>
+  </folder>
+  <bookmark href="https://pixlr.com/" id="4230">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4231">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4232">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://pixlr.com/" id="4233">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4234">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4235">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4236">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4237">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4248">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4249">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4250">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4251">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4252">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4253">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4254">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4255">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4256">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4257">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4258">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4259">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4260">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4261">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4262">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4263">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4264">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4265">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4266">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4267">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4278">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4279">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4280">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4281">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4282">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://www.dropbox.com/home" id="4283">
+    <title>Dropbox</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4284">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://onedrive.live.com/?view=0" id="4285">
+    <title>OneDrive</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4286">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://app.box.com/folder/0" id="4287">
+    <title>Box</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4288">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://pastebin.com/" id="4289">
+    <title>Pastebin.com</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4290">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://qtext.io/" id="4291">
+    <title>Quick Text - Easiest way of online text sharing 📠</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4292">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://justpaste.it/" id="4293">
+    <title>JustPaste.it - paste text and share with your friends</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4294">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://app.blasteronline.com/speechelo/" id="4295">
+    <title>Speechelo</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4296">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://vocaroo.com/" id="4297">
+    <title>Vocaroo | Online voice recorder</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4308">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://imgbb.com/" id="4309">
+    <title>ImgBB — Upload Image — Free Image Hosting</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4310">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://wetransfer.com/" id="4311">
+    <title>WeTransfer | Send Large Files Fast</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4312">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4313">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.transfernow.net/en" id="4314">
+    <title>Send Large Files - Free Secure File Transfer - TransferNow</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4315">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4316">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4317">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://www.file.io/" id="4318">
+    <title>file.io - Super simple file sharing</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4319">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4320">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4321">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://padlet.com/" id="4322">
+    <title>Padlet - Visual Collaboration for Creative Work and Education</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4323">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4324">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4325">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://jumpshare.com/w/e6b609d/personal" id="4326">
+    <title>Personal Library - Jumpshare</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4327">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4338">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4339">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4340">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4341">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/" id="4342">
+    <title>Temp Mail - Disposable Temporary Email</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4343">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4344">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4345">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4346">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4347">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://calendly.com/event_types/user/me" id="4348">
+    <title>Calendly</title>
+  </bookmark>
+  <bookmark href="https://pixlr.com/" id="4349">
+    <title>Free Online AI Photo Editor, Image Generator &amp; Design tool</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4350">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://www.remove.bg/" id="4351">
+    <title>Remove Background from Image for Free – remove.bg</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="4352">
+    <title>Untitled Diagram - draw.io</title>
+  </bookmark>
+  <bookmark href="https://www.online-convert.com/" id="4353">
+    <title>Online converter - convert video, images, audio and documents for free</title>
+  </bookmark>
+  <bookmark href="https://www.qr-code-generator.com/" id="4354">
+    <title>QR Code Generator | Create Your Free QR Codes</title>
+  </bookmark>
+  <bookmark href="https://trello.com/" id="4355">
+    <title>Capture, organize, and tackle your to-dos from anywhere | Trello</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4356">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://www.myairbridge.com/en/#!/" id="4357">
+    <title>MyAirBridge.com | Send or share big files up to 20 GiB for free</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4368">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://code.org/" id="4369">
+    <title>Code.org</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Weekly-To-do-List-1f299bf772b480a19399c5673858f32e" id="4370">
+    <title>Weekly To-do List</title>
+  </bookmark>
+  <bookmark href="https://sublime.app/onboarding/2" id="4371">
+    <title>Sublime</title>
+  </bookmark>
+  <bookmark href="https://doodle.com/home" id="4372">
+    <title>Doodle Dashboard: Manage Meetings and Create New Ones - Doodle</title>
+  </bookmark>
+  <bookmark href="https://dropmeafile.com/" id="4373">
+    <title>Drop Me A File</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4374">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://wpnulled.pro/?login=true&amp;redirect_to=https%3A%2F%2Fwpnulled.pro%2Fmy-account%2F&amp;page=1" id="4375">
+    <title>avid</title>
+  </bookmark>
+  <bookmark href="https://www.photopea.com/" id="4376">
+    <title>Photopea | Online Photo Editor</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="4377">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://tinyurl.com/" id="4378">
+    <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
+  </bookmark>
+  <bookmark href="https://bitly.com/" id="4379">
+    <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+</folder>
 </xbel>
