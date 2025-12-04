@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1547: for Floccus bookmark sync browser extension -->
+<!--- highestId :1625: for Floccus bookmark sync browser extension -->
 
 <folder id="1440">
   <title>No-Cache</title>
@@ -78,11 +78,11 @@
       <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="635">
         <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
       </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="636">
-        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-      </bookmark>
       <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="637">
         <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="636">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
     </folder>
     <folder id="611">
@@ -692,9 +692,6 @@
   <bookmark href="https://app.box.com/folder/0" id="851">
     <title>Box</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="966">
-    <title>SpeechTexter | Type with your voice!</title>
-  </bookmark>
   <bookmark href="https://pastebin.com/" id="969">
     <title>Pastebin.com</title>
   </bookmark>
@@ -869,9 +866,6 @@
   <bookmark href="https://www.photopea.com/" id="1251">
     <title>Photopea | Online Photo Editor</title>
   </bookmark>
-  <bookmark href="https://www.speechtexter.com/" id="1252">
-    <title>SpeechTexter | Type with your voice!</title>
-  </bookmark>
   <bookmark href="https://tinyurl.com/" id="1277">
     <title>URL Shortener, Branded Short Links &amp; Analytics | TinyURL</title>
   </bookmark>
@@ -880,6 +874,12 @@
   </folder>
   <bookmark href="https://bitly.com/" id="1280">
     <title>Bitly Connections Platform | Short URLs, QR Codes, and More</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="966">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="1252">
+    <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
 </folder>
 <bookmark href="https://mail.hostinger.com/" id="1525">
@@ -1235,6 +1235,15 @@
   <bookmark href="https://codeassist.google/" id="1300">
     <title>Gemini Code Assist</title>
   </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="1302">
+    <title>Cody</title>
+  </bookmark>
+  <folder id="1303">
+    <title>Text-to-Speech</title>
+  </folder>
+  <bookmark href="https://sourcegraph.com/" id="1304">
+    <title>Sourcegraph</title>
+  </bookmark>
   <folder id="1301">
     <title>Speech-to-Text</title>
     <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="1306">
@@ -1275,57 +1284,6 @@
     </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="1350">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://sourcegraph.com/cody" id="1302">
-    <title>Cody</title>
-  </bookmark>
-  <folder id="1303">
-    <title>Text-to-Speech</title>
-  </folder>
-  <bookmark href="https://sourcegraph.com/" id="1304">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <folder id="1305">
-    <title>Speech-to-Text</title>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="1316">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="1317">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="1318">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="1319">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="1320">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="1321">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.speechtexter.com/" id="1322">
-      <title>SpeechTexter</title>
-    </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="1323">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="1324">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
-    <bookmark href="https://www.speechmatics.com/" id="1325">
-      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="1356">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="1357">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="1358">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
   </folder>
   <bookmark href="https://gemini.google.com/app" id="1326">
@@ -1491,9 +1449,6 @@
       <bookmark href="https://www.kaggle.com/code" id="1395">
         <title>Kaggle</title>
       </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="1396">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
       <bookmark href="https://deepnote.com/" id="1397">
         <title>Deepnote</title>
       </bookmark>
@@ -1508,6 +1463,9 @@
       </bookmark>
       <bookmark href="https://www.modelbit.com/" id="1401">
         <title>Modelbit</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="1396">
+        <title>Hugging Face Spaces</title>
       </bookmark>
     </folder>
     <folder id="1352">
@@ -1652,6 +1610,48 @@
   <bookmark href="https://console.mistral.ai/" id="1439">
     <title>Mistral La Plateforme</title>
   </bookmark>
+  <folder id="1305">
+    <title>Speech-to-Text</title>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="1316">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="1317">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="1318">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="1319">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="1320">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="1321">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.speechtexter.com/" id="1322">
+      <title>SpeechTexter</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="1323">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="1324">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://www.speechmatics.com/" id="1325">
+      <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="1356">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="1357">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="1358">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="553">
   <title>Google</title>
@@ -3002,5 +3002,239 @@
 </bookmark>
 <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="1547">
   <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+</bookmark>
+<folder id="1548">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1560">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1561">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1562">
+    <title>Other</title>
+  </folder>
+  <bookmark href="https://dodopayments.com/" id="1563">
+    <title>Dodo Payments</title>
+  </bookmark>
+</folder>
+<folder id="1549">
+  <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
+  <folder id="1564">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="1565">
+    <title>No-Cache</title>
+  </folder>
+  <bookmark href="https://dodopayments.com/" id="1566">
+    <title>Dodo Payments</title>
+  </bookmark>
+</folder>
+<bookmark href="https://hpanel.hostinger.com/" id="1550">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="1551">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1552">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1553">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1554">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1555">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1556">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1557">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1558">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="1559">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="1567">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1568">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="1569">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="1570">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="1571">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1572">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1573">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1574">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="1575">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1576">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1577">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1578">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1579">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1580">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="1581">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="1582">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="1583">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="1584">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1585">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1586">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1587">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1588">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="1589">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1590">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1591">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1592">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1593">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1594">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1595">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="1596">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="1597">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="1598">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="1599">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1600">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1601">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1602">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1603">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="1604">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="1605">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1606">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1607">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1608">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1609">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1610">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="1611">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="1612">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="1613">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="1614">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="1615">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="1616">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1617">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1618">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="1619">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="1620">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1621">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1622">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="1623">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="1624">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="1625">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
 </bookmark>
 </xbel>
