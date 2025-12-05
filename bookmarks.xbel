@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4458: for Floccus bookmark sync browser extension -->
+<!--- highestId :4469: for Floccus bookmark sync browser extension -->
 
 <folder id="1626">
   <title>No-Cache</title>
@@ -3974,6 +3974,39 @@
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
     </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="1350">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="4459">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="4460">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="4461">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="4462">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="4463">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="4464">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="4465">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="4466">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="4467">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="4468">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="4469">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
   </folder>
@@ -8270,6 +8303,18 @@
   <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="3465">
     <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
   </bookmark>
+  <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="4451">
+    <title>MuratVural.com –</title>
+  </bookmark>
+  <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="4452">
+    <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+  </bookmark>
+  <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="4453">
+    <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+  </bookmark>
+  <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="4454">
+    <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+  </bookmark>
 </folder>
 <bookmark href="https://hpanel.hostinger.com/" id="3466">
   <title>Hostinger</title>
@@ -11505,26 +11550,14 @@
 <bookmark href="https://search.google.com/search-console/welcome" id="1569">
   <title>Welcome to Google Search Console</title>
 </bookmark>
-<bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="4451">
-  <title>MuratVural.com –</title>
-</bookmark>
 <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="1552">
   <title>WEBSITE DETAILS &amp; INSTALL</title>
 </bookmark>
 <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="1553">
   <title>Website Backups</title>
 </bookmark>
-<bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="4452">
-  <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-</bookmark>
 <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="1556">
   <title>Resources Usage | Hostinger</title>
-</bookmark>
-<bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="4453">
-  <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-</bookmark>
-<bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="4454">
-  <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
 </bookmark>
 <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="1557">
   <title>PHP My Admin</title>
