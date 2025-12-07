@@ -4889,114 +4889,6 @@
   <bookmark href="https://www.midjourney.com/home" id="1330">
     <title>Midjourney</title>
   </bookmark>
-  <folder id="1331">
-    <title>Remote CPU</title>
-    <folder id="1351">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="1393">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="1394">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="1395">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="1397">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="1398">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="1399">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="1400">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="1401">
-        <title>Modelbit</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="1396">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-    </folder>
-    <folder id="1352">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="1402">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="1403">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="1404">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="1405">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="1406">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="1407">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="1408">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="1409">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="1410">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="1353">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="1411">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="1412">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="1413">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="1414">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="1415">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="1354">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="1355">
-      <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="1416">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="1417">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="1418">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="1419">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="1420">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="1421">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="1422">
-        <title>OpenRouter</title>
-      </bookmark>
-    </folder>
-  </folder>
   <bookmark href="https://creator.nightcafe.studio/studio" id="1332">
     <title>NightCafe</title>
   </bookmark>
@@ -5104,6 +4996,114 @@
     <bookmark href="https://otter.ai/" id="1358">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
+  </folder>
+  <folder id="1331">
+    <title>Remote CPU</title>
+    <folder id="1351">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="1393">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="1394">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="1395">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="1397">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="1398">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="1399">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="1400">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="1401">
+        <title>Modelbit</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="1396">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+    </folder>
+    <folder id="1352">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="1402">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="1403">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="1404">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="1405">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="1406">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="1407">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="1408">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="1409">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="1410">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="1353">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="1411">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="1412">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="1413">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="1414">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="1415">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="1354">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="1355">
+      <title>Stable Model</title>
+      <bookmark href="https://platform.openai.com/chat/edit" id="1416">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="1417">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="1418">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="1419">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="1420">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="1421">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="1422">
+        <title>OpenRouter</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="553">
@@ -7775,23 +7775,23 @@
   <bookmark href="https://cursor.com/agents" id="3379">
     <title>Cursor</title>
   </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="3399">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="3400">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="3401">
-    <title>Krea</title>
-  </bookmark>
   <bookmark href="https://platform.openai.com/" id="3406">
     <title>OpenAI API</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="3399">
+    <title>Scribble Diffusion</title>
   </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3407">
     <title>ImagineArt Image Studio</title>
   </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="3400">
+    <title>Google Gemini</title>
+  </bookmark>
   <bookmark href="https://console.mistral.ai/" id="3408">
     <title>Mistral La Plateforme</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="3401">
+    <title>Krea</title>
   </bookmark>
 </folder>
 <folder id="2885">
@@ -9415,12 +9415,6 @@
         <title>Maps</title>
         <folder id="3936">
           <title>GoogleStreets</title>
-          <folder id="3971">
-            <title>AZ</title>
-            <bookmark href="https://www.instantstreetview.com/@40.367679,49.844046,106.33h,-12.58p,1z" id="3991">
-              <title>AZ.Baku_Downtown.SeaSide</title>
-            </bookmark>
-          </folder>
           <folder id="3972">
             <title>BY</title>
             <bookmark href="https://www.instantstreetview.com/@53.91569,27.582914,-72.66h,6.26p,2.64z" id="3992">
@@ -9656,6 +9650,12 @@
             <title>UK</title>
             <bookmark href="https://www.instantstreetview.com/@51.500807,-0.120192,-97.97h,-2.88p,0.67z" id="4008">
               <title>UK.London_WesministerBridge</title>
+            </bookmark>
+          </folder>
+          <folder id="3971">
+            <title>AZ</title>
+            <bookmark href="https://www.instantstreetview.com/@40.367679,49.844046,106.33h,-12.58p,1z" id="3991">
+              <title>AZ.Baku_Downtown.SeaSide</title>
             </bookmark>
           </folder>
         </folder>
@@ -10163,17 +10163,17 @@
       </bookmark>
       <folder id="4207">
         <title>Other</title>
-        <bookmark href="https://www.weebly.com/" id="4230">
-          <title>Free Website Builder: Build a Free Website or Online Store | Weebly</title>
-        </bookmark>
-        <bookmark href="https://www.joomla.org/" id="4231">
-          <title>Joomla Content Management System (CMS) - try it! It&apos;s free!</title>
-        </bookmark>
         <bookmark href="https://za.gl/KeyPressOSD" id="4232">
           <title>za.gl</title>
         </bookmark>
+        <bookmark href="https://www.weebly.com/" id="4230">
+          <title>Free Website Builder: Build a Free Website or Online Store | Weebly</title>
+        </bookmark>
         <bookmark href="https://wordpress.com/" id="4233">
           <title>WordPress.com: Create a Free Website or Blog</title>
+        </bookmark>
+        <bookmark href="https://www.joomla.org/" id="4231">
+          <title>Joomla Content Management System (CMS) - try it! It&apos;s free!</title>
         </bookmark>
       </folder>
       <bookmark href="https://economictimes.indiatimes.com/wealth/earn/how-to-earn-money-online/articleshow/65290096.cms?from=mdr" id="4208">
@@ -10483,29 +10483,29 @@
     <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="4327">
       <title>DNS / Nameservers | Hostinger</title>
     </bookmark>
-    <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4333">
-      <title>Analytics | Home</title>
-    </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4328">
-      <title>Resources Usage | Hostinger</title>
-    </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4334">
-      <title>PHP Configuration | Hostinger</title>
-    </bookmark>
-    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4329">
-      <title>PHP My Admin</title>
-    </bookmark>
     <bookmark href="https://search.google.com/search-console/welcome" id="4335">
       <title>Welcome to Google Search Console</title>
+    </bookmark>
+    <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="4333">
+      <title>Analytics | Home</title>
     </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="4330">
       <title>File Manager</title>
     </bookmark>
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="4328">
+      <title>Resources Usage | Hostinger</title>
+    </bookmark>
     <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4336">
+      <title>PHP Configuration | Hostinger</title>
+    </bookmark>
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="4334">
       <title>PHP Configuration | Hostinger</title>
     </bookmark>
     <bookmark href="https://mail.hostinger.com/" id="4331">
       <title>Webmail</title>
+    </bookmark>
+    <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="4329">
+      <title>PHP My Admin</title>
     </bookmark>
   </folder>
 </folder>
