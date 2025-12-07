@@ -10896,12 +10896,6 @@
     <title>Windsurf Directory - Windsurf Rules &amp; MCP Servers</title>
   </bookmark>
 </folder>
-<folder id="4446">
-  <title>ACCOUNTS</title>
-  <bookmark href="https://www.deepl.com/en/your-account/subscription" id="1725">
-    <title>DeepL account</title>
-  </bookmark>
-</folder>
 <folder id="4447">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
   <folder id="4448">
@@ -13746,6 +13740,12 @@
 <folder id="4843">
   <title>ACCOUNTS</title>
   <bookmark href="https://www.deepl.com/en/your-account/subscription" id="4847">
+    <title>DeepL account</title>
+  </bookmark>
+</folder>
+<folder id="4446">
+  <title>ACCOUNTS</title>
+  <bookmark href="https://www.deepl.com/en/your-account/subscription" id="1725">
     <title>DeepL account</title>
   </bookmark>
 </folder>
