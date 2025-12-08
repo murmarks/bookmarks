@@ -3,36 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :4051: for Floccus bookmark sync browser extension -->
 
-<folder id="1">
-  <title>No-Cache</title>
-  <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="13">
-    <title>MuratVural.com –</title>
-  </bookmark>
-  <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="14">
-    <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-  </bookmark>
-  <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="15">
-    <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-  </bookmark>
-  <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="16">
-    <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-  </bookmark>
-</folder>
-<folder id="2">
-  <title>No-Cache</title>
-  <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="17">
-    <title>MuratVural.com –</title>
-  </bookmark>
-  <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="18">
-    <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-  </bookmark>
-  <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="19">
-    <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-  </bookmark>
-  <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="20">
-    <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-  </bookmark>
-</folder>
 <bookmark href="https://hpanel.hostinger.com/" id="3">
   <title>Hostinger</title>
 </bookmark>
@@ -827,9 +797,6 @@
   <bookmark href="https://app.box.com/folder/0" id="167">
     <title>Box</title>
   </bookmark>
-  <folder id="168">
-    <title>Webcams</title>
-  </folder>
   <bookmark href="https://onedrive.live.com/?view=0" id="169">
     <title>OneDrive</title>
   </bookmark>
