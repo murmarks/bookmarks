@@ -4976,93 +4976,6 @@
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
   </folder>
-  <folder id="1724">
-    <title>Remote CPU</title>
-    <folder id="1755">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="1787">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="1788">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="1789">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="1790">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="1791">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="1792">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="1793">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="1794">
-        <title>Modelbit</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="1795">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-    </folder>
-    <folder id="1756">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="1796">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="1797">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="1798">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="1799">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="1800">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="1801">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="1802">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="1803">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="1804">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="1757">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="1805">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="1806">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="1807">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="1808">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="1809">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="1758">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="1759">
-      <title>Stable Model</title>
-    </folder>
-  </folder>
   <folder id="1725">
     <title>Remote CPU</title>
     <folder id="1760">
@@ -5176,6 +5089,93 @@
     <bookmark href="https://shell.cloud.google.com/" id="1766">
       <title>Cloud Shell</title>
     </bookmark>
+  </folder>
+  <folder id="1724">
+    <title>Remote CPU</title>
+    <folder id="1755">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="1787">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="1788">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="1789">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="1790">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="1791">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="1792">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="1793">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="1794">
+        <title>Modelbit</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="1795">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+    </folder>
+    <folder id="1756">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="1796">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="1797">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="1798">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="1799">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="1800">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="1801">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="1802">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="1803">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="1804">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="1757">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="1805">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="1806">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="1807">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="1808">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="1809">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="1758">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="1759">
+      <title>Stable Model</title>
+    </folder>
   </folder>
 </folder>
 <folder id="1552">
