@@ -434,44 +434,44 @@
   <bookmark href="https://hpanel.hostinger.com/websites" id="80">
     <title>Websites | Hostinger</title>
   </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="81">
-    <title>WEBSITE DETAILS &amp; INSTALL</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="82">
-    <title>Website Backups</title>
-  </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="83">
     <title>Dashboard</title>
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="84">
     <title>DNS / Nameservers | Hostinger</title>
   </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="81">
+    <title>WEBSITE DETAILS &amp; INSTALL</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="82">
+    <title>Website Backups</title>
+  </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="103">
     <title>Resources Usage | Hostinger</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="116">
-    <title>PHP My Admin</title>
-  </bookmark>
-  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="117">
-    <title>File Manager</title>
-  </bookmark>
-  <bookmark href="https://mail.hostinger.com/" id="118">
-    <title>Webmail</title>
-  </bookmark>
-  <bookmark href="http://localhost/phpmyadmin/" id="119">
-    <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
   </bookmark>
   <bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="120">
     <title>Analytics | Home</title>
   </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="116">
+    <title>PHP My Admin</title>
+  </bookmark>
   <bookmark href="https://search.google.com/search-console/welcome" id="121">
     <title>Welcome to Google Search Console</title>
+  </bookmark>
+  <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="117">
+    <title>File Manager</title>
   </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="140">
     <title>PHP Configuration | Hostinger</title>
   </bookmark>
+  <bookmark href="https://mail.hostinger.com/" id="118">
+    <title>Webmail</title>
+  </bookmark>
   <bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="142">
     <title>PHP Configuration | Hostinger</title>
+  </bookmark>
+  <bookmark href="http://localhost/phpmyadmin/" id="119">
+    <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
   </bookmark>
 </folder>
 <folder id="5">
