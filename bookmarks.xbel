@@ -3,6 +3,21 @@
 <xbel version="1.0">
 <!--- highestId :897: for Floccus bookmark sync browser extension -->
 
+<bookmark href="https://jsonlint.com/" id="8">
+  <title>JSON Online Validator and Formatter - JSON Lint</title>
+</bookmark>
+<bookmark href="https://help.openai.com/en" id="10">
+  <title>OpenAI Help Center</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnivda/warning_openai_charges_for_gpt5_but_secretly/" id="11">
+  <title>⚠️ Warning: OpenAI charges for GPT-5 but secretly gives GPT-4 — zero human support, only a bot : r/OpenAI</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnj1ql/business_plan_downgraded_from_gpt5_to_gpt4_within/" id="12">
+  <title>Business plan downgraded from GPT-5 to GPT-4 within a day, and no real support : r/OpenAI</title>
+</bookmark>
+<bookmark href="https://whatismyipaddress.com/ip-lookup" id="157">
+  <title>Instant IP Address Lookup</title>
+</bookmark>
 <folder id="1">
   <title>€</title>
   <folder id="13">
@@ -2628,9 +2643,6 @@
     </folder>
   </folder>
 </folder>
-<bookmark href="https://jsonlint.com/" id="8">
-  <title>JSON Online Validator and Formatter - JSON Lint</title>
-</bookmark>
 <folder id="9">
   <title>Temp</title>
   <bookmark href="https://www.youtube.com/watch?v=8TcWGk1DJVs" id="59">
@@ -2646,15 +2658,6 @@
     <title>Windsurf IDE: NEW AI Editor - Cursor Alternative That&apos;s FREE &amp; LOCAL! - YouTube</title>
   </bookmark>
 </folder>
-<bookmark href="https://help.openai.com/en" id="10">
-  <title>OpenAI Help Center</title>
-</bookmark>
-<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnivda/warning_openai_charges_for_gpt5_but_secretly/" id="11">
-  <title>⚠️ Warning: OpenAI charges for GPT-5 but secretly gives GPT-4 — zero human support, only a bot : r/OpenAI</title>
-</bookmark>
-<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnj1ql/business_plan_downgraded_from_gpt5_to_gpt4_within/" id="12">
-  <title>Business plan downgraded from GPT-5 to GPT-4 within a day, and no real support : r/OpenAI</title>
-</bookmark>
 <folder id="155">
   <title>Windsurf</title>
   <bookmark href="https://windsurf.com/subscription/usage" id="242">
@@ -2676,9 +2679,6 @@
 <folder id="156">
   <title>ACCOUNTS</title>
 </folder>
-<bookmark href="https://whatismyipaddress.com/ip-lookup" id="157">
-  <title>Instant IP Address Lookup</title>
-</bookmark>
 <folder id="158">
   <title>$ € £ ¥ ₹ ₩ ₽ ₺ ₱ ฿ ₴</title>
   <folder id="247">
