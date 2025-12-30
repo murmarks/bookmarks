@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5653: for Floccus bookmark sync browser extension -->
+<!--- highestId :5671: for Floccus bookmark sync browser extension -->
 
 <folder id="895">
   <title>ACCOUNTS</title>
@@ -9931,6 +9931,9 @@
               <title>BY.Minsk</title>
             </bookmark>
           </folder>
+          <folder id="2401">
+            <title>MD</title>
+          </folder>
           <folder id="2398">
             <title>TR</title>
             <folder id="2416">
@@ -10052,25 +10055,28 @@
               <bookmark href="https://www.instantstreetview.com/@41.065879,28.679892,-282.9h,45p,0z" id="2450">
                 <title>TR.Istanbul.Bahcesehir_Ev1.Teras</title>
               </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@40.969801,29.068867,101.75h,19.46p,0z" id="5654">
+                <title>TR.Istanbul.Caddebostan_YakutlarSokak</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@41.066083,28.681266,-322.54h,-7.37p,0z" id="5655">
+                <title>TR.Istanbul.Bahcesehir_Ev1</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@40.989091,28.844568,-46.08h,16.88p,0.01z" id="5656">
+                <title>TR.Istanbul.Atakoy</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@41.061975,28.688197,307.57h,-16.66p,0z" id="5657">
+                <title>TR.Istanbul.Bahcesehir_GirisMeydan</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@41.045293,29.034731,-40.24h,-10.8p,0z" id="5658">
+                <title>TR.Istanbul_BogazKöprüsü</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@41.065879,28.679892,-282.9h,45p,0z" id="5659">
+                <title>TR.Istanbul.Bahcesehir_Ev1.Teras</title>
+              </bookmark>
+              <bookmark href="https://www.instantstreetview.com/@41.064489,28.675427,125.43h,1.19p,0z" id="5660">
+                <title>TR.Istanbul.Bahcesehir_Ev2</title>
+              </bookmark>
             </folder>
-          </folder>
-          <folder id="2399">
-            <title>GE</title>
-            <bookmark href="https://www.instantstreetview.com/@41.699658,44.796613,119.45h,-1.76p,0z" id="2418">
-              <title>GE.Tbilisi.Rustavelli</title>
-            </bookmark>
-          </folder>
-          <folder id="2400">
-            <title>VN</title>
-            <bookmark href="https://www.instantstreetview.com/@10.721628,106.712561,-105.12h,0.08p,0.66z" id="2419">
-              <title>VN.Hcmc.PhuMyHung_GrandviewD</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@10.722985,106.709928,103.4h,14.59p,0.66z" id="2420">
-              <title>VN.Hcmc.PhuMyHung_GrandviewA</title>
-            </bookmark>
-          </folder>
-          <folder id="2401">
-            <title>MD</title>
           </folder>
           <folder id="2402">
             <title>x</title>
@@ -10155,11 +10161,59 @@
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome−1 小田急新宿ミロード | Instant Street View</title>
               </bookmark>
             </folder>
+            <bookmark href="https://www.instantstreetview.com/@37.571609,126.97504,-169.59h,-21.8p,3.96z" id="5661">
+              <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.568959,126.979171,-30.66h,-15.92p,2.31z" id="5662">
+              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.568886,126.980681,58.22h,-11.42p,2.97z" id="5663">
+              <title>22-2 Da-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579642,126.977097,-138.93h,-12.18p,1.98z,WQZxSaWL_1Vnqr3scFOmbQ" id="5664">
+              <title>37 Samcheong-ro, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579644,126.977071,29.29h,-27.38p,1.33z,87KfX9UznAJU8Go91MrbUQ" id="5665">
+              <title>Gyeongbokgung Palace | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="5666">
+              <title>31-34 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="5667">
+              <title>620-33 Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="5668">
+              <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="5669">
+              <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="5670">
+              <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="5671">
+              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+          </folder>
+          <folder id="2399">
+            <title>GE</title>
+            <bookmark href="https://www.instantstreetview.com/@41.699658,44.796613,119.45h,-1.76p,0z" id="2418">
+              <title>GE.Tbilisi.Rustavelli</title>
+            </bookmark>
           </folder>
           <folder id="2403">
             <title>UK</title>
             <bookmark href="https://www.instantstreetview.com/@51.500807,-0.120192,-97.97h,-2.88p,0.67z" id="2431">
               <title>UK.London_WesministerBridge</title>
+            </bookmark>
+          </folder>
+          <folder id="2400">
+            <title>VN</title>
+            <bookmark href="https://www.instantstreetview.com/@10.721628,106.712561,-105.12h,0.08p,0.66z" id="2419">
+              <title>VN.Hcmc.PhuMyHung_GrandviewD</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@10.722985,106.709928,103.4h,14.59p,0.66z" id="2420">
+              <title>VN.Hcmc.PhuMyHung_GrandviewA</title>
             </bookmark>
           </folder>
         </folder>
@@ -12419,39 +12473,6 @@
   <bookmark href="https://simplechat.app/chat" id="3240">
     <title>SimpleChat</title>
   </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="3241">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="3242">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="3243">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="3244">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="3245">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="3246">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="3247">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="3248">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="3249">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3250">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="3251">
-    <title>SeaArt</title>
-  </bookmark>
   <bookmark href="https://openart.ai/" id="3252">
     <title>OpenArt</title>
   </bookmark>
@@ -13252,27 +13273,6 @@
   </bookmark>
   <bookmark href="https://calendar.google.com/calendar/" id="3442">
     <title>Google Contacts</title>
-  </bookmark>
-  <bookmark href="chrome://downloads/" id="3443">
-    <title>Download history</title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="3444">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="3445">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="3446">
-    <title>Street View Studio</title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="3447">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="3458">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="3459">
-    <title>Street View Studio</title>
   </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="3460">
     <title>Third-party apps &amp; services</title>
@@ -14187,11 +14187,11 @@
       <bookmark href="https://apkdone.com/" id="3632">
         <title>APKdone</title>
       </bookmark>
-      <bookmark href="https://modyolo.com/" id="3633">
-        <title>MODYOLO - Free MOD APK Game &amp; Premium APP for Android</title>
-      </bookmark>
       <bookmark href="https://moddroid.com/" id="3634">
         <title>MODDROID: Download Android Games and Apps Mod Apk</title>
+      </bookmark>
+      <bookmark href="https://modyolo.com/" id="3633">
+        <title>MODYOLO - Free MOD APK Game &amp; Premium APP for Android</title>
       </bookmark>
     </folder>
     <folder id="3598">
@@ -14837,9 +14837,6 @@
       </bookmark>
       <folder id="4075">
         <title>T</title>
-        <bookmark href="https://romhub.io/COURSE/server1/KHO%CC%81A%20HO%CC%A3C%20POLYGON" id="4108">
-          <title>KHÓA HỌC POLYGON | ROMhub</title>
-        </bookmark>
         <bookmark href="https://romhub.io/COURSE/server1/FILM%20MAKING" id="4109">
           <title>FILM MAKING | ROMhub</title>
         </bookmark>
@@ -14848,6 +14845,9 @@
         </bookmark>
         <bookmark href="https://romhub.io/COURSE/server3" id="4111">
           <title>server3 | ROMhub</title>
+        </bookmark>
+        <bookmark href="https://romhub.io/COURSE/server1/KHO%CC%81A%20HO%CC%A3C%20POLYGON" id="4108">
+          <title>KHÓA HỌC POLYGON | ROMhub</title>
         </bookmark>
       </folder>
     </folder>
@@ -14917,23 +14917,23 @@
           <bookmark href="http://support.google.com/a/bin/request.py" id="4114">
             <title>Go.AppHelp Customer PIN 138710923 -Support PIN 97501</title>
           </bookmark>
-          <bookmark href="https://history.google.com/history/" id="4115">
-            <title>Google - Web History</title>
-          </bookmark>
-          <bookmark href="https://www.google.com/a/cpanel/muratvural.com/Dashboard" id="4116">
-            <title>Google Apps</title>
-          </bookmark>
-          <bookmark href="https://code.google.com/" id="4117">
-            <title>Google Code (wm@muratvural.com - password: vx4tN4zt3Tk9)</title>
-          </bookmark>
           <bookmark href="http://support.google.com/enterprisehelp/bin/answer.py?hl=en&amp;answer=142244" id="4118">
             <title>Google Enterprise Help - Customer PIN 138710923 -Support PIN 97501</title>
+          </bookmark>
+          <bookmark href="https://history.google.com/history/" id="4115">
+            <title>Google - Web History</title>
           </bookmark>
           <bookmark href="https://www.google.com/settings/dashboard" id="4119">
             <title>Dashboard - Account Settings</title>
           </bookmark>
+          <bookmark href="https://www.google.com/a/cpanel/muratvural.com/Dashboard" id="4116">
+            <title>Google Apps</title>
+          </bookmark>
           <bookmark href="https://code.google.com/" id="4120">
             <title>Google Code (wm@muratvural.com - password vx4tN4zt3Tk9)</title>
+          </bookmark>
+          <bookmark href="https://code.google.com/" id="4117">
+            <title>Google Code (wm@muratvural.com - password: vx4tN4zt3Tk9)</title>
           </bookmark>
         </folder>
         <folder id="4077">
@@ -15594,29 +15594,29 @@
       <bookmark href="http://www.linkedin.com/" id="4304">
         <title>LinkedIn</title>
       </bookmark>
-      <bookmark href="https://my.xmarks.com/" id="4305">
-        <title>Xmarks</title>
-      </bookmark>
-      <bookmark href="https://grabtaxi.zendesk.com/hc/en-us" id="4306">
-        <title>Grab</title>
-      </bookmark>
-      <bookmark href="https://esube4.ziraatbank.com.tr/veribranchOGSWeb/login/ziraatlogonstart.jsp" id="4307">
-        <title>Ziraat Bankası - OGS</title>
-      </bookmark>
-      <bookmark href="https://hgsmusteri.ptt.gov.tr/hgs.jsf" id="4308">
-        <title>HGS Müşteri Hizmetleri</title>
-      </bookmark>
       <bookmark href="https://giris.turkiye.gov.tr/Giris/e-Devlet-Sifresi" id="4309">
         <title>E-Devlet</title>
+      </bookmark>
+      <bookmark href="https://my.xmarks.com/" id="4305">
+        <title>Xmarks</title>
       </bookmark>
       <bookmark href="https://app.blasteronline.com/speechelo/" id="4310">
         <title>Speechelo</title>
       </bookmark>
+      <bookmark href="https://grabtaxi.zendesk.com/hc/en-us" id="4306">
+        <title>Grab</title>
+      </bookmark>
       <bookmark href="https://account.xiaomi.com/" id="4311">
         <title>Mi Account</title>
       </bookmark>
+      <bookmark href="https://esube4.ziraatbank.com.tr/veribranchOGSWeb/login/ziraatlogonstart.jsp" id="4307">
+        <title>Ziraat Bankası - OGS</title>
+      </bookmark>
       <bookmark href="https://us.i.mi.com/?_locale=en_US#/" id="4312">
         <title>Xiaomi Cloud</title>
+      </bookmark>
+      <bookmark href="https://hgsmusteri.ptt.gov.tr/hgs.jsf" id="4308">
+        <title>HGS Müşteri Hizmetleri</title>
       </bookmark>
     </folder>
   </folder>
@@ -15950,12 +15950,6 @@
 </folder>
 <folder id="4417">
   <title>G</title>
-  <bookmark href="chrome://extensions/" id="4418">
-    <title>Extensions</title>
-  </bookmark>
-  <bookmark href="https://keep.google.com/" id="4419">
-    <title></title>
-  </bookmark>
   <bookmark href="https://drive.google.com/drive/my-drive" id="4420">
     <title></title>
   </bookmark>
@@ -15977,8 +15971,14 @@
   <bookmark href="https://streetviewstudio.maps.google.com/" id="4426">
     <title>Street View Studio</title>
   </bookmark>
+  <bookmark href="chrome://extensions/" id="4418">
+    <title>Extensions</title>
+  </bookmark>
   <bookmark href="https://myaccount.google.com/connections" id="4427">
     <title>Third-party apps &amp; services</title>
+  </bookmark>
+  <bookmark href="https://keep.google.com/" id="4419">
+    <title></title>
   </bookmark>
 </folder>
 <folder id="4428">
@@ -16461,20 +16461,17 @@
             <bookmark href="https://www.instantstreetview.com/@37.566984,126.977945,36.32h,-21.73p,2.31z" id="4578">
               <title>31-34 Taepyeongno 1(il)-ga, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="4579">
-              <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="4580">
-              <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
-            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="4581">
-              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
-            </bookmark>
             <bookmark href="https://www.instantstreetview.com/@37.579128,127.04525,40.21h,-2.37p,0.33z" id="4582">
               <title>620-33 Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567066,126.979186,70.88h,-13.28p,1.98z" id="4579">
+              <title>21-7 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
             <bookmark href="https://www.instantstreetview.com/@37.571612,126.975166,130.95h,-12.27p,2.97z" id="4635">
               <title>15-9 Dangju-dong, Jongno-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
+            <bookmark href="https://www.instantstreetview.com/@37.567756,126.979217,-46.44h,-19.36p,1.98z" id="4580">
+              <title>44-1 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
             </bookmark>
             <folder id="4636">
               <title>street</title>
@@ -16524,6 +16521,9 @@
                 <title>Japan, 〒160-0023 Tōkyō-to, Shinjuku-ku, Nishishinjuku, 1 Chome−1 小田急新宿ミロード | Instant Street View</title>
               </bookmark>
             </folder>
+            <bookmark href="https://www.instantstreetview.com/@37.568949,126.97927,-21.46h,-5.32p,1.32z" id="4581">
+              <title>79 Mugyo-dong, Jung-gu, Seoul, South Korea | Instant Street View</title>
+            </bookmark>
           </folder>
           <folder id="4552">
             <title>UK</title>
