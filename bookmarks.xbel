@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5671: for Floccus bookmark sync browser extension -->
+<!--- highestId :5697: for Floccus bookmark sync browser extension -->
 
 <folder id="4762">
   <title>€</title>
@@ -1342,6 +1342,27 @@
         <title>Gemini for Cloud Google console</title>
       </bookmark>
       <bookmark href="https://openrouter.ai/chat" id="5599">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5676">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5677">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5678">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5679">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5680">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5681">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5682">
         <title>OpenRouter</title>
       </bookmark>
     </folder>
@@ -5252,9 +5273,6 @@
 </bookmark>
 <folder id="837">
   <title>€</title>
-  <folder id="853">
-    <title>No-Cache</title>
-  </folder>
   <folder id="854">
     <title>$$</title>
     <folder id="881">
@@ -5411,26 +5429,8 @@
       <title>World TESOL Academy - Accredited TESOL/TEFL Certificate - World TESOL Academy</title>
     </bookmark>
   </folder>
-  <folder id="855">
-    <title>No-Cache</title>
-  </folder>
   <folder id="856">
     <title>WEBMUSTER</title>
-    <folder id="885">
-      <title>No-Cache</title>
-      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="912">
-        <title>MuratVural.com –</title>
-      </bookmark>
-      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="913">
-        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
-      </bookmark>
-      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="914">
-        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
-      </bookmark>
-      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="915">
-        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
-      </bookmark>
-    </folder>
     <folder id="886">
       <title>No-Cache</title>
       <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="916">
@@ -14689,6 +14689,27 @@
         <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
       </bookmark>
     </folder>
+    <folder id="885">
+      <title>No-Cache</title>
+      <bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="912">
+        <title>MuratVural.com –</title>
+      </bookmark>
+      <bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="913">
+        <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+      </bookmark>
+      <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="914">
+        <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+      </bookmark>
+      <bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="915">
+        <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="853">
+    <title>No-Cache</title>
+  </folder>
+  <folder id="855">
+    <title>No-Cache</title>
   </folder>
 </folder>
 <folder id="3856">
@@ -16920,4 +16941,61 @@
 <folder id="895">
   <title>ACCOUNTS</title>
 </folder>
+<bookmark href="https://muratvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517384153" id="5672">
+  <title>MuratVural.com –</title>
+</bookmark>
+<bookmark href="https://doktorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517437899" id="5673">
+  <title>Doktor Vural | TYT &amp; AYT Online Özel Ders: Sınav Başarısı ve Bireysel Gelişim</title>
+</bookmark>
+<bookmark href="https://lemonchiffon-mongoose-234743.hostingersite.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517556490" id="5674">
+  <title>PeBoC | Dr. Murat Vural - Sales Performance Boosting Center</title>
+</bookmark>
+<bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="5675">
+  <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/" id="5683">
+  <title>Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites" id="5684">
+  <title>Websites | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com" id="5685">
+  <title>Dashboard</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/external-domain/doctorvural.com/dns" id="5686">
+  <title>DNS / Nameservers | Hostinger</title>
+</bookmark>
+<bookmark href="https://analytics.google.com/analytics/web/#/p335452959/reports/intelligenthome" id="5687">
+  <title>Analytics | Home</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="5688">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://search.google.com/search-console/welcome" id="5689">
+  <title>Welcome to Google Search Console</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/advanced/php-configuration?redirectLocation=side_menu" id="5690">
+  <title>PHP Configuration | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/website/auto-installer?redirectLocation=side_menu" id="5691">
+  <title>WEBSITE DETAILS &amp; INSTALL</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/backups?location=hosting-dashboard-service-card" id="5692">
+  <title>Website Backups</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/order/order-usage" id="5693">
+  <title>Resources Usage | Hostinger</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/databases/php-my-admin?redirectLocation=side_menu" id="5694">
+  <title>PHP My Admin</title>
+</bookmark>
+<bookmark href="https://hpanel.hostinger.com/websites/muratvural.com/files/file-manager?redirectLocation=side_menu" id="5695">
+  <title>File Manager</title>
+</bookmark>
+<bookmark href="https://mail.hostinger.com/" id="5696">
+  <title>Webmail</title>
+</bookmark>
+<bookmark href="http://localhost/phpmyadmin/" id="5697">
+  <title>localhost / 127.0.0.1 | phpMyAdmin 5.2.1</title>
+</bookmark>
 </xbel>
