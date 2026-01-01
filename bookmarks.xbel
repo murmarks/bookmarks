@@ -489,39 +489,6 @@
     <title>No-Cache</title>
   </folder>
 </folder>
-<folder id="4763">
-  <title>G</title>
-  <bookmark href="chrome://extensions/" id="4773">
-    <title>Extensions</title>
-  </bookmark>
-  <bookmark href="https://keep.google.com/" id="4774">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://drive.google.com/drive/my-drive" id="4775">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://photos.google.com/" id="4776">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://timeline.google.com/maps/timeline?pli=1&amp;rapt=AEjHL4P0JvShh7wCiwht03Fxu7uJUjYLtvxRZ52h8odoaCgkOIe2l6mBFf5f0yUGaoYu23QLszTJMPP2EHHrQuvOsgelu5OtINSy-rxJ6uwErayDcseY6qM&amp;pb" id="4777">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://console.cloud.google.com/" id="4778">
-    <title>Google Cloud console</title>
-  </bookmark>
-  <bookmark href="https://takeout.google.com/" id="4779">
-    <title>Google Takeout</title>
-  </bookmark>
-  <bookmark href="https://earth.google.com/web/@0,-2.58759985,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBKDQj___________8BEAA" id="4780">
-    <title>Google Earth</title>
-  </bookmark>
-  <bookmark href="https://streetviewstudio.maps.google.com/" id="4781">
-    <title>Street View Studio</title>
-  </bookmark>
-  <bookmark href="https://myaccount.google.com/connections" id="4782">
-    <title>Third-party apps &amp; services</title>
-  </bookmark>
-</folder>
 <folder id="4764">
   <title>Online</title>
   <bookmark href="https://pixlr.com/" id="4783">
