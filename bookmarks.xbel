@@ -939,7 +939,7 @@
     <title>Settings - Microphone</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="4800">
-    <title>Create Art or Modify Images with AI</title>
+    <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://manus.im/app" id="4801">
     <title>Manus</title>
@@ -957,16 +957,16 @@
     <title>Krea</title>
   </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="4875">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+    <title>Canva</title>
   </bookmark>
   <bookmark href="https://replit.com/" id="4876">
-    <title>Replit – Build apps and sites with AI</title>
+    <title>Replit</title>
   </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="4877">
-    <title>ImagineArt Image Studio</title>
+    <title>ImagineArt</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="4878">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+    <title>SeaArt</title>
   </bookmark>
   <bookmark href="chrome://extensions/" id="4959">
     <title>Settings - Extensions</title>
@@ -1050,13 +1050,13 @@
     <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="5394">
-    <title>SeaArt</title>
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="5192">
     <title>Google Gemini</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="5395">
-    <title>OpenArt</title>
+    <title>Create Art or Modify Images with AI</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="5067">
     <title>Grok</title>
@@ -1485,7 +1485,7 @@
     <title>NightCafe</title>
   </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="5640">
-    <title>Canva</title>
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="5573">
     <title>Microsoft Designer</title>
@@ -1515,7 +1515,7 @@
     <title>Cody</title>
   </bookmark>
   <bookmark href="https://replit.com/" id="5644">
-    <title>Replit</title>
+    <title>Replit – Build apps and sites with AI</title>
   </bookmark>
   <bookmark href="https://sourcegraph.com/" id="5518">
     <title>Sourcegraph</title>
@@ -1575,7 +1575,7 @@
     <title>OpenAI API</title>
   </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="5652">
-    <title>ImagineArt</title>
+    <title>ImagineArt Image Studio</title>
   </bookmark>
   <bookmark href="https://console.mistral.ai/" id="5472">
     <title>Mistral La Plateforme</title>
@@ -1599,19 +1599,19 @@
     <title>SeaArt</title>
   </bookmark>
   <bookmark href="https://www.seaart.ai/create/image" id="1755">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+    <title>SeaArt</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="1763">
-    <title>Create Art or Modify Images with AI</title>
+    <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1828">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+    <title>Canva</title>
   </bookmark>
   <bookmark href="https://replit.com/" id="1832">
-    <title>Replit – Build apps and sites with AI</title>
+    <title>Replit</title>
   </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1840">
-    <title>ImagineArt Image Studio</title>
+    <title>ImagineArt</title>
   </bookmark>
   <bookmark href="https://pollo.ai/ai-image-generator" id="3108">
     <title>Pollo AI</title>
@@ -2044,13 +2044,28 @@
         <title>OpenRouter</title>
       </bookmark>
     </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="2273">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <bookmark href="https://shell.cloud.google.com/" id="2274">
-      <title>Cloud Shell</title>
-    </bookmark>
   </folder>
+  <bookmark href="https://openart.ai/" id="1331">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1724">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="1734">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1735">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="1736">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="2857">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="3098">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
   <folder id="5545">
     <title>Remote CPU</title>
     <folder id="5565">
@@ -2221,6 +2236,12 @@
         <title>OpenRouter</title>
       </bookmark>
     </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="2274">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <bookmark href="https://shell.cloud.google.com/" id="2273">
+      <title>Cloud Shell</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="4767">
@@ -3321,13 +3342,16 @@
           <title>EV-1 (rotahome.no-ip.org:8081)</title>
         </bookmark>
         <bookmark href="https://www.life360.com/home" id="2432">
-          <title>Life360  Dashboard</title>
+          <title>Life360 : Dashboard</title>
         </bookmark>
         <bookmark href="http://www.followmee.com/Map.aspx" id="1437">
           <title>FollowMee</title>
         </bookmark>
         <bookmark href="https://www.life360.com/accounts/change_family" id="1438">
           <title>Life360</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/home" id="1439">
+          <title>Life360  Dashboard</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.google.com/calendar/" id="5112">
@@ -4619,9 +4643,6 @@
   <bookmark href="https://www.krea.ai/" id="1216">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="1331">
-    <title>OpenArt</title>
-  </bookmark>
   <bookmark href="https://grok.com/" id="1332">
     <title>Grok</title>
   </bookmark>
@@ -4762,18 +4783,6 @@
   </bookmark>
   <bookmark href="https://www.krea.ai/" id="1723">
     <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1724">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="1734">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1735">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="1736">
-    <title>SeaArt</title>
   </bookmark>
   <bookmark href="https://openart.ai/" id="1749">
     <title>OpenArt</title>
@@ -5660,9 +5669,6 @@
       </folder>
       <folder id="1366">
         <title>Cam&amp;GPS</title>
-        <bookmark href="https://www.life360.com/home" id="1439">
-          <title>Life360 : Dashboard</title>
-        </bookmark>
       </folder>
       <bookmark href="https://www.google.com/calendar/" id="1367">
         <title>Google Calendar</title>
@@ -11768,9 +11774,6 @@
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="2856">
     <title>Canva</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="2857">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="2858">
     <title>ImagineArt</title>
   </bookmark>
@@ -12298,9 +12301,6 @@
   </bookmark>
   <bookmark href="https://sourcegraph.com/" id="3097">
     <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="3098">
-    <title>Replit</title>
   </bookmark>
   <bookmark href="https://copilot.microsoft.com/chats/" id="3099">
     <title>Copilot:</title>
@@ -14963,10 +14963,10 @@
             <title>Google Apps</title>
           </bookmark>
           <bookmark href="https://code.google.com/" id="4120">
-            <title>Google Code (wm@muratvural.com - password: vx4tN4zt3Tk9)</title>
+            <title>Google Code (wm@muratvural.com - password vx4tN4zt3Tk9)</title>
           </bookmark>
           <bookmark href="https://code.google.com/" id="4117">
-            <title>Google Code (wm@muratvural.com - password vx4tN4zt3Tk9)</title>
+            <title>Google Code (wm@muratvural.com - password: vx4tN4zt3Tk9)</title>
           </bookmark>
         </folder>
         <folder id="4077">
@@ -15474,10 +15474,10 @@
           <title>HOMECAM</title>
         </bookmark>
         <bookmark href="http://www.ustream.tv/channel/murvur" id="4187">
-          <title>MurVur on USTREAM BBG. Blog</title>
+          <title>MurVur on USTREAM: BBG. Blog</title>
         </bookmark>
         <bookmark href="http://www.ustream.tv/channel/murvur" id="4188">
-          <title>MurVur on USTREAM: BBG. Blog</title>
+          <title>MurVur on USTREAM BBG. Blog</title>
         </bookmark>
         <bookmark href="http://androidforums.com/samsung-galaxy-s3/648275-battery-full-notification-driving-me-insane.html" id="4189">
           <title>Battery full notification driving me insane - Android Forums</title>
