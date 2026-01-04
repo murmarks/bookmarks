@@ -2319,27 +2319,6 @@
     </folder>
     <folder id="6612">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="6776">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="6777">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="6778">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="6779">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="6780">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="6781">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="6782">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
     <folder id="6613">
       <title>Rent CPU</title>
@@ -2465,114 +2444,6 @@
   <bookmark href="https://console.mistral.ai/" id="6416">
     <title>Mistral La Plateforme</title>
   </bookmark>
-  <folder id="6417">
-    <title>Remote CPU</title>
-    <folder id="6624">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="6788">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="6789">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="6790">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="6791">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="6792">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="6793">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="6794">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="6795">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="6796">
-        <title>Modelbit</title>
-      </bookmark>
-    </folder>
-    <folder id="6625">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="6797">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="6798">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="6799">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="6800">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="6801">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="6802">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="6803">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="6804">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="6805">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="6626">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="6806">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="6807">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="6808">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="6809">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="6810">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="6627">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="6628">
-      <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="6811">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="6812">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="6813">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="6814">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="6815">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="6816">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="6817">
-        <title>OpenRouter</title>
-      </bookmark>
-    </folder>
-  </folder>
 </folder>
 <folder id="6139">
   <title>€</title>
@@ -4844,39 +4715,6 @@
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
     </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="7454">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="7455">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="7456">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="7457">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="7458">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="7459">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="7460">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="7461">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="7462">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="7463">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="7464">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="7465">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
   </folder>
@@ -7277,93 +7115,6 @@
         <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="5131">
           <title>Create your online store today with Shopify</title>
         </bookmark>
-        <bookmark href="https://bionluk.com/" id="1159">
-          <title>Yetenekli Freelancer Topluluğu - Bir Freelancerla Çalışın | Bionluk</title>
-        </bookmark>
-        <bookmark href="https://www.fiverr.com/?referral_campaign=RPCampaign1&amp;referral_invitee=social&amp;referral_inviter=95339841&amp;referral_key=86d6433dc042905c58da09b61c8d8b500d635ebc&amp;show_join=true&amp;utm_campaign=referral_program_show&amp;utm_content=&amp;utm_medium=shared&amp;utm_source=get_url&amp;utm_term=" id="1160">
-          <title>Fiverr - Freelance Services Marketplace for Businesses</title>
-        </bookmark>
-        <bookmark href="https://www.udemy.com/?utm_source=adwords-brand&amp;utm_medium=udemyads&amp;utm_campaign=Brand-Udemy_la.EN_cc.ROW&amp;utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1028581_._pd__._&amp;utm_term=_._pd__._kw_udemy_._&amp;matchtype=e&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQV042GOhj6trbUyB2WwALzXMStI5TDcGoB-ptIwaQ4hVwMV8QPVG7hoCBaMQAvD_BwE" id="1161">
-          <title>Online Courses - Learn Anything, On Your Schedule | Udemy</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=PqUZCj2V5Os&amp;list=PLBtjLpqcpfOHYCgJougDCh-V_wP_UUE9Z" id="1162">
-          <title>Magnificent Century Episode 2 | English Subtitle - YouTube</title>
-        </bookmark>
-        <bookmark href="https://solutions.travelzoo.com/" id="1163">
-          <title>Travelzoo Solutions – Solutions for Travel</title>
-        </bookmark>
-        <bookmark href="https://www.travelzoo.com/" id="1164">
-          <title>Travelzoo: Deals on Hotels, Flights, Vacations, Cruises &amp; More</title>
-        </bookmark>
-        <bookmark href="https://www.groupon.com/" id="1165">
-          <title>Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off</title>
-        </bookmark>
-        <bookmark href="https://photodune.net/" id="1166">
-          <title>PhotoDune - Royalty Free Stock Photos &amp; Images</title>
-        </bookmark>
-        <bookmark href="https://audiojungle.net/collections/5842677-best-music-collection?utf8=%E2%9C%93&amp;sort_by=default&amp;type_id=5842677&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQVy47rUSnNYlx9ipVm7a4f88Opzsqa91G6tl8EnJo37-uiwSLptvpxoCw9QQAvD_BwE" id="1167">
-          <title>BEST MUSIC COLLECTION on AudioJungle</title>
-        </bookmark>
-        <bookmark href="https://videohive.net/" id="1168">
-          <title>VideoHive - Stock Footage &amp; Video Effects</title>
-        </bookmark>
-        <bookmark href="https://www.freelancer.com/?gclid=CjwKCAjwndCKBhAkEiwAgSDKQUF6d3nKl35uJCJZs6--ux4jFUDKFqrl_VOn8fvaLzPLiX-F6akI7RoCxnkQAvD_BwE" id="1268">
-          <title>Hire Freelancers &amp; Find Freelance Jobs Online | Freelancer</title>
-        </bookmark>
-        <bookmark href="https://www.istockphoto.com/tr" id="1269">
-          <title>Stok fotoğraf, resim siteler, royalty-free görseller ve stok videolar - iStock</title>
-        </bookmark>
-        <bookmark href="https://www.shutterstock.com/tr/" id="1270">
-          <title>Stok Görseller, Fotoğraflar, Vektörler, Video ve Müzik | Shutterstock</title>
-        </bookmark>
-        <bookmark href="https://www.cash4offers.com/" id="1271">
-          <title>Cash4Offers® - Earn Cash Online for Reading Paid Email, Taking Surveys and More!</title>
-        </bookmark>
-        <bookmark href="https://www.paid-to-read-email.com/" id="1272">
-          <title>Paid To Read Email® - Earn Cash for Reading Paid Emails</title>
-        </bookmark>
-        <bookmark href="https://gumroad.com/" id="1273">
-          <title>Gumroad | Sell Digital Products &amp; Memberships</title>
-        </bookmark>
-        <bookmark href="https://toloka.yandex.com.tr/" id="1274">
-          <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
-        </bookmark>
-        <bookmark href="https://sellercentral.amazon.com/gp/help/external/201808410" id="1275">
-          <title>Drop Shipping Policy - Amazon Seller Central</title>
-        </bookmark>
-        <bookmark href="https://lorentlabs.com/" id="1276">
-          <title>LorentLabs - İnternet ve bilişim için güvenli yol</title>
-        </bookmark>
-        <bookmark href="https://tutors.com/pro/online-tutoring-jobs" id="1277">
-          <title>The 10 Best Online Tutoring Jobs (Earn $50+/hour) // Tutors.com</title>
-        </bookmark>
-        <bookmark href="https://www.shopify.com/blog/dropshipping-guide" id="1390">
-          <title>The Ultimate Guide to Dropshipping (2021)</title>
-        </bookmark>
-        <bookmark href="https://videohive.net/" id="1391">
-          <title>VideoHive - Stock Footage &amp; Video Effects</title>
-        </bookmark>
-        <bookmark href="https://blog.hubspot.com/sales/amazon-affiliate" id="1392">
-          <title>Amazon Affiliate Program: How to Become an Amazon Associate to Boost Income</title>
-        </bookmark>
-        <bookmark href="https://onlyfans.com/blondierosiie?gclid=CjwKCAjw49qKBhAoEiwAHQVTo0VoDRweouyByJUnDlrMooHfiTjczhUt00O3Rq1ovTKAfQPlp2mcQRoCU_0QAvD_BwE" id="1393">
-          <title>OnlyFans</title>
-        </bookmark>
-        <bookmark href="https://k2s.cc/premium" id="1394">
-          <title>Keep2Share</title>
-        </bookmark>
-        <bookmark href="https://teespring.com/" id="1395">
-          <title>Spring</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=i2uHn9dh0vM" id="1396">
-          <title>Yasaklar 1. Bölüm - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/results?search_query=how+to+be+a+mobile+app+developer" id="1397">
-          <title>how to be a mobile app developer - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="1398">
-          <title>Create your online store today with Shopify</title>
-        </bookmark>
       </folder>
       <bookmark href="https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=25780ceb70a5" id="4854">
         <title>17 Ways You Can Make Money Online Right Now</title>
@@ -8413,39 +8164,6 @@
     <bookmark href="https://otter.ai/" id="5572">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="2157">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="2158">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="2159">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="2160">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="2161">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="2162">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="2163">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="2183">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="2184">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="2185">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="2186">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
   </folder>
   <bookmark href="https://pollo.ai/ai-image-generator" id="5473">
     <title>Pollo AI</title>
@@ -8735,384 +8453,6 @@
   <bookmark href="https://console.mistral.ai/" id="5653">
     <title>Mistral La Plateforme</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="1087">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1217">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="1327">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1328">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="1330">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="1755">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="1763">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1828">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="1832">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1840">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3108">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3109">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3110">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3111">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://simplechat.app/chat" id="3112">
-    <title>SimpleChat</title>
-  </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="3113">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="3114">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="3115">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="3116">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="3117">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="3118">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="3119">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="3120">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="3121">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3122">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="3123">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="3124">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3125">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3126">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3127">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="3128">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="3129">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="3130">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3131">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3132">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3133">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3134">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3135">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3136">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3137">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3138">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="3139">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="3140">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="3141">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="3142">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="3143">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3144">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3145">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3146">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3147">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3148">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3149">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3150">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3151">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3152">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="3153">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="3154">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="3155">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="3156">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3157">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3158">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3159">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3160">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="3161">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="3162">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="3163">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="3164">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="3165">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="3166">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="3167">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="3168">
-    <title>Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="3169">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3170">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="3171">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="3172">
-    <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="3173">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3174">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3175">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3176">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="3177">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="3178">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="3179">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="3180">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3181">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="3182">
-    <title>ChatGPT</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3183">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3184">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3185">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3186">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3187">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3188">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="3189">
-    <title>Mistral</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="3190">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="3191">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="3192">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="3193">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://copilot.microsoft.com/chats/" id="3194">
-    <title>Copilot:</title>
-  </bookmark>
-  <bookmark href="https://cursor.com/agents" id="3195">
-    <title>Cursor</title>
-  </bookmark>
-  <bookmark href="https://platform.openai.com/" id="3196">
-    <title>OpenAI API</title>
-  </bookmark>
-  <bookmark href="https://console.mistral.ai/" id="3197">
-    <title>Mistral La Plateforme</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3198">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3199">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3200">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3201">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3202">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://chat.mistral.ai/chat?q=" id="3203">
-    <title>Mistral</title>
-  </bookmark>
-  <bookmark href="https://x.com/i/grok" id="3204">
-    <title>Grok-Twitter</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="3205">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3206">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3207">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://pollo.ai/ai-image-generator" id="3208">
-    <title>Pollo AI</title>
-  </bookmark>
-  <bookmark href="https://www.midjourney.com/home" id="3209">
-    <title>Midjourney</title>
-  </bookmark>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="3210">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3211">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://grok.com/" id="3212">
-    <title>Grok</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="3213">
-    <title>Deepseek</title>
-  </bookmark>
-  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3214">
-    <title>Nomi</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="3215">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="1331">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1724">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="1734">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1735">
-    <title>ImagineArt Image Studio</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="1736">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="2857">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="3098">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="http://localhost:3000/" id="5801">
-    <title>eneme</title>
-  </bookmark>
   <folder id="2250">
     <title>Remote CPU</title>
     <folder id="2268">
@@ -9220,183 +8560,6 @@
         <title>OpenRouter</title>
       </bookmark>
     </folder>
-  </folder>
-  <folder id="5545">
-    <title>Remote CPU</title>
-    <folder id="5565">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="5607">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="5608">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="5609">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="5610">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="5611">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="5612">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="5613">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="5614">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="5615">
-        <title>Modelbit</title>
-      </bookmark>
-    </folder>
-    <folder id="5566">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="5616">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="5617">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="5618">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="5619">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="5620">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="5621">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="5622">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="5623">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="5624">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="5567">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="5625">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="5626">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="5627">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="5628">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="5629">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="5568">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="5569">
-      <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5630">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5631">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5632">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5633">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5634">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5635">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5636">
-        <title>OpenRouter</title>
-      </bookmark>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5593">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5594">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5595">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5596">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5597">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5598">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5599">
-        <title>OpenRouter</title>
-      </bookmark>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5676">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5677">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5678">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5679">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5680">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5681">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5682">
-        <title>OpenRouter</title>
-      </bookmark>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5698">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5699">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5700">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5701">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5702">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5703">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5704">
-        <title>OpenRouter</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="2274">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <bookmark href="https://shell.cloud.google.com/" id="2273">
-      <title>Cloud Shell</title>
-    </bookmark>
   </folder>
 </folder>
 <folder id="4767">
@@ -9647,18 +8810,6 @@
         <bookmark href="https://romhub.io/COURSE/server3" id="4939">
           <title>server3 | ROMhub</title>
         </bookmark>
-        <bookmark href="https://romhub.io/COURSE/server1/KHO%CC%81A%20HO%CC%A3C%20POLYGON" id="1178">
-          <title>KHÓA HỌC POLYGON | ROMhub</title>
-        </bookmark>
-        <bookmark href="https://romhub.io/COURSE/server1/FILM%20MAKING" id="1176">
-          <title>FILM MAKING | ROMhub</title>
-        </bookmark>
-        <bookmark href="https://romhub.io/COURSE/server1" id="1177">
-          <title>server1 | ROMhub</title>
-        </bookmark>
-        <bookmark href="https://romhub.io/COURSE/server3" id="1179">
-          <title>server3 | ROMhub</title>
-        </bookmark>
       </folder>
       <bookmark href="https://romhub.io/COURSE" id="4898">
         <title>COURSE | ROMhub</title>
@@ -9734,15 +8885,6 @@
         <bookmark href="https://en.aptoide.com/" id="4942">
           <title>Aptoide - The alternative Android app store</title>
         </bookmark>
-        <bookmark href="https://apkpure.net/vn/" id="1180">
-          <title>APKPure</title>
-        </bookmark>
-        <bookmark href="https://en.uptodown.com/windows" id="1181">
-          <title>Uptodown</title>
-        </bookmark>
-        <bookmark href="https://en.aptoide.com/" id="1182">
-          <title>Aptoide - The alternative Android app store</title>
-        </bookmark>
       </folder>
     </folder>
     <folder id="4934">
@@ -9799,33 +8941,6 @@
         </folder>
         <folder id="5028">
           <title>B</title>
-          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="5095">
-            <title>Dashboard</title>
-          </bookmark>
-          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="5096">
-            <title>Google Apps Marketplace</title>
-          </bookmark>
-          <bookmark href="https://wallet.google.com/manage/" id="5097">
-            <title>Google Wallet</title>
-          </bookmark>
-          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="5705">
-            <title>Dashboard</title>
-          </bookmark>
-          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="5706">
-            <title>Google Apps Marketplace</title>
-          </bookmark>
-          <bookmark href="https://wallet.google.com/manage/" id="5707">
-            <title>Google Wallet</title>
-          </bookmark>
-          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="4124">
-            <title>Dashboard</title>
-          </bookmark>
-          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="4125">
-            <title>Google Apps Marketplace</title>
-          </bookmark>
-          <bookmark href="https://wallet.google.com/manage/" id="4126">
-            <title>Google Wallet</title>
-          </bookmark>
         </folder>
         <bookmark href="https://pay.google.com/payments/home" id="5029">
           <title>Google Pay</title>
@@ -9852,33 +8967,6 @@
           <title>Create a Google Account - TELEFONSUZ İÇİN ALTTAKİ</title>
         </bookmark>
         <bookmark href="https://admin.google.com/ac/billing/catalog" id="5133">
-          <title>Get more services - Admin Console</title>
-        </bookmark>
-        <bookmark href="https://admin.google.com/" id="1278">
-          <title>Admin Console</title>
-        </bookmark>
-        <bookmark href="https://takeout.google.com/settings/takeout" id="1279">
-          <title>Download your data</title>
-        </bookmark>
-        <bookmark href="https://pay.google.com/payments/home" id="1282">
-          <title>Google Pay</title>
-        </bookmark>
-        <bookmark href="https://drive.google.com/settings/storage" id="1283">
-          <title>Drive storage</title>
-        </bookmark>
-        <bookmark href="https://drive.google.com/drive/quota" id="1284">
-          <title>Google Drive</title>
-        </bookmark>
-        <bookmark href="https://myaccount.google.com/permissions?pli=1" id="1285">
-          <title>Apps with access to your account</title>
-        </bookmark>
-        <bookmark href="https://fonts.google.com/" id="1287">
-          <title>Google Fonts</title>
-        </bookmark>
-        <bookmark href="https://support.google.com/accounts/answer/27441?hl=en" id="1399">
-          <title>Create a Google Account - TELEFONSUZ İÇİN ALTTAKİ</title>
-        </bookmark>
-        <bookmark href="https://admin.google.com/ac/billing/catalog" id="1400">
           <title>Get more services - Admin Console</title>
         </bookmark>
       </folder>
@@ -10177,18 +9265,6 @@
           <bookmark href="http://www.satellite-sightseer.com/" id="5108">
             <title>Sightseeing with Google Satellite Maps</title>
           </bookmark>
-          <bookmark href="https://za.gl/KeyPressOSD" id="1171">
-            <title>za.gl</title>
-          </bookmark>
-          <bookmark href="https://www.weebly.com/" id="1169">
-            <title>Free Website Builder: Build a Free Website or Online Store | Weebly</title>
-          </bookmark>
-          <bookmark href="https://wordpress.com/" id="1172">
-            <title>WordPress.com: Create a Free Website or Blog</title>
-          </bookmark>
-          <bookmark href="https://www.joomla.org/" id="1170">
-            <title>Joomla Content Management System (CMS) - try it! It&apos;s free!</title>
-          </bookmark>
         </folder>
         <bookmark href="https://www.google.com/intl/tr/earth/" id="5047">
           <title>Google Earth</title>
@@ -10265,81 +9341,6 @@
         <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="5319">
           <title>OpenStreetMap</title>
         </bookmark>
-        <bookmark href="https://www.google.com/intl/tr/earth/" id="1300">
-          <title>Google Earth</title>
-        </bookmark>
-        <bookmark href="https://www.google.com/maps/@37.0625,-95.677068,4z" id="1301">
-          <title>Google Maps</title>
-        </bookmark>
-        <bookmark href="https://www.instantstreetview.com/" id="1302">
-          <title>Instant Google Street View</title>
-        </bookmark>
-        <bookmark href="https://streetview-tr.com/" id="1303">
-          <title>Google Street View Turkey</title>
-        </bookmark>
-        <bookmark href="https://www.google.com/maps/d/?page=explore" id="1304">
-          <title>Google My Maps</title>
-        </bookmark>
-        <bookmark href="http://wikimapia.org/" id="1305">
-          <title>Wikimapia</title>
-        </bookmark>
-        <bookmark href="https://zoom.earth/" id="1306">
-          <title>Zoom Earth</title>
-        </bookmark>
-        <bookmark href="https://yandex.com.tr/harita/115707/fatih/" id="1307">
-          <title>Yandex.Haritalar</title>
-        </bookmark>
-        <bookmark href="https://www.mapquest.com/" id="1421">
-          <title>MapQuest</title>
-        </bookmark>
-        <bookmark href="https://www.bing.com/maps" id="1422">
-          <title>Bing Maps</title>
-        </bookmark>
-        <bookmark href="https://www.openstreetmap.org/#map=10/49.2423/20.5190" id="1423">
-          <title>OpenStreetMap</title>
-        </bookmark>
-        <bookmark href="https://www.terraserver.com/" id="1424">
-          <title>TerraServer</title>
-        </bookmark>
-        <bookmark href="http://earth3dmap.com/" id="1425">
-          <title>Earth 3D Map</title>
-        </bookmark>
-        <bookmark href="http://www.haritamap.com/" id="1426">
-          <title>HaritaMap.com</title>
-        </bookmark>
-        <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="1427">
-          <title>E-Sehir.com</title>
-        </bookmark>
-        <bookmark href="https://www.nereyebagli.com/" id="1428">
-          <title>Nereye Bağlı</title>
-        </bookmark>
-        <bookmark href="http://www.haritamap.com/" id="1512">
-          <title>HaritaMap.com</title>
-        </bookmark>
-        <bookmark href="https://streetview-tr.com/" id="1513">
-          <title>Google Street View Turkey</title>
-        </bookmark>
-        <bookmark href="https://www.google.com/maps/d/?page=explore" id="1514">
-          <title>Google My Maps</title>
-        </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="1515">
-          <title>Tematik Haritaları</title>
-        </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="1516">
-          <title>Ankara Büyükşehir Belediyesi</title>
-        </bookmark>
-        <bookmark href="http://www.haritalar.web.tr/" id="1517">
-          <title>Tematik Haritaları</title>
-        </bookmark>
-        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="1518">
-          <title>Ankara Büyükşehir Belediyesi</title>
-        </bookmark>
-        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="1519">
-          <title>Harita İstanbul</title>
-        </bookmark>
-        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="1593">
-          <title>OpenStreetMap</title>
-        </bookmark>
       </folder>
       <folder id="4980">
         <title>Shopping</title>
@@ -10347,12 +9348,6 @@
           <title>AliExpress.com</title>
         </bookmark>
         <bookmark href="https://www.banggood.com/" id="5056">
-          <title>Banggood</title>
-        </bookmark>
-        <bookmark href="https://www.aliexpress.com/" id="1308">
-          <title>AliExpress.com</title>
-        </bookmark>
-        <bookmark href="https://www.banggood.com/" id="1309">
           <title>Banggood</title>
         </bookmark>
       </folder>
@@ -10403,30 +9398,6 @@
         <bookmark href="http://www.garanti.com.tr/tr/" id="5169">
           <title>Garanti Bankası</title>
         </bookmark>
-        <bookmark href="https://www.hsbc.com.vn/" id="1433">
-          <title>HSBC VN</title>
-        </bookmark>
-        <bookmark href="http://www.garanti.com.tr/" id="1429">
-          <title>Garanti Bankası</title>
-        </bookmark>
-        <bookmark href="https://www.isacombank.com.vn/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&amp;__START_TRAN_FLAG__=Y&amp;__FG_BUTTONS__=LOAD&amp;ACTION.LOAD=Y&amp;AuthenticationFG.LOGIN_FLAG=1&amp;BANK_ID=303&amp;AuthenticationFG.PREFERRED_LANGUAGE=001&amp;LANGUAGE_ID=001" id="1434">
-          <title>Sacombank</title>
-        </bookmark>
-        <bookmark href="http://www.yapikredi.com.tr/tr-TR/MainPage.aspx" id="1430">
-          <title>Yapı Kredi</title>
-        </bookmark>
-        <bookmark href="https://www.vietcombank.com.vn/en" id="1435">
-          <title>Vietcombank</title>
-        </bookmark>
-        <bookmark href="https://www.isbank.com.tr/Internet/" id="1431">
-          <title>Türkiye İş Bankası</title>
-        </bookmark>
-        <bookmark href="http://www.garanti.com.tr/tr/" id="1436">
-          <title>Garanti Bankası</title>
-        </bookmark>
-        <bookmark href="https://internet.hsbc.com.tr/UIApplication/CustomLogin/Retail.aspx?lang=TR" id="1432">
-          <title>HSBC TR</title>
-        </bookmark>
       </folder>
       <folder id="5111">
         <title>Cam&amp;GPS</title>
@@ -10438,84 +9409,6 @@
         </bookmark>
         <bookmark href="https://www.life360.com/home" id="5172">
           <title>Life360  Dashboard</title>
-        </bookmark>
-        <bookmark href="https://www.endomondo.com/home" id="5173">
-          <title>Endomondo</title>
-        </bookmark>
-        <bookmark href="http://rotahome.no-ip.org:8081/" id="5174">
-          <title>EV-1 (rotahome.no-ip.org8081)</title>
-        </bookmark>
-        <bookmark href="http://www.muratvural.com/m/" id="5175">
-          <title>HOMECAM</title>
-        </bookmark>
-        <bookmark href="http://www.ustream.tv/channel/murvur" id="5176">
-          <title>MurVur on USTREAM: BBG. Blog</title>
-        </bookmark>
-        <bookmark href="http://www.ustream.tv/channel/murvur" id="5177">
-          <title>MurVur on USTREAM BBG. Blog</title>
-        </bookmark>
-        <bookmark href="http://androidforums.com/samsung-galaxy-s3/648275-battery-full-notification-driving-me-insane.html" id="5178">
-          <title>Battery full notification driving me insane - Android Forums</title>
-        </bookmark>
-        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotamuratvural&amp;guestpassword=mv" id="5179">
-          <title>Real Time GPS Tracker - Murat</title>
-        </bookmark>
-        <bookmark href="https://www.life360.com/home" id="5251">
-          <title>Life360 : Dashboard</title>
-        </bookmark>
-        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotanurayvural&amp;guestpassword=nv" id="5252">
-          <title>Real Time GPS Tracker - Nuray</title>
-        </bookmark>
-        <bookmark href="https://www.endomondo.com/home" id="5253">
-          <title>Endomondo</title>
-        </bookmark>
-        <bookmark href="http://rotahome.no-ip.org:8081/" id="5254">
-          <title>EV-1 (rotahome.no-ip.org:8081)</title>
-        </bookmark>
-        <bookmark href="https://www.endomondo.com/home" id="5708">
-          <title>Endomondo</title>
-        </bookmark>
-        <bookmark href="http://rotahome.no-ip.org:8081/" id="5709">
-          <title>EV-1 (rotahome.no-ip.org8081)</title>
-        </bookmark>
-        <bookmark href="http://www.muratvural.com/m/" id="5710">
-          <title>HOMECAM</title>
-        </bookmark>
-        <bookmark href="http://www.ustream.tv/channel/murvur" id="5711">
-          <title>MurVur on USTREAM: BBG. Blog</title>
-        </bookmark>
-        <bookmark href="http://www.ustream.tv/channel/murvur" id="5712">
-          <title>MurVur on USTREAM BBG. Blog</title>
-        </bookmark>
-        <bookmark href="http://androidforums.com/samsung-galaxy-s3/648275-battery-full-notification-driving-me-insane.html" id="5713">
-          <title>Battery full notification driving me insane - Android Forums</title>
-        </bookmark>
-        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotamuratvural&amp;guestpassword=mv" id="5714">
-          <title>Real Time GPS Tracker - Murat</title>
-        </bookmark>
-        <bookmark href="https://www.life360.com/home" id="5715">
-          <title>Life360 : Dashboard</title>
-        </bookmark>
-        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotanurayvural&amp;guestpassword=nv" id="5716">
-          <title>Real Time GPS Tracker - Nuray</title>
-        </bookmark>
-        <bookmark href="https://www.endomondo.com/home" id="5717">
-          <title>Endomondo</title>
-        </bookmark>
-        <bookmark href="http://rotahome.no-ip.org:8081/" id="5718">
-          <title>EV-1 (rotahome.no-ip.org:8081)</title>
-        </bookmark>
-        <bookmark href="http://www.followmee.com/Map.aspx" id="1437">
-          <title>FollowMee</title>
-        </bookmark>
-        <bookmark href="https://www.life360.com/accounts/change_family" id="1438">
-          <title>Life360</title>
-        </bookmark>
-        <bookmark href="https://www.life360.com/home" id="2432">
-          <title>Life360  Dashboard</title>
-        </bookmark>
-        <bookmark href="https://www.life360.com/home" id="1439">
-          <title>Life360 : Dashboard</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.google.com/calendar/" id="5112">
@@ -10730,12 +9623,6 @@
   <bookmark href="https://dodopayments.com/" id="5006">
     <title>Dodo Payments</title>
   </bookmark>
-  <folder id="2544">
-    <title>Other</title>
-  </folder>
-  <folder id="4441">
-    <title>Other</title>
-  </folder>
 </folder>
 <bookmark href="https://jsonlint.com/" id="1">
   <title>JSON Online Validator and Formatter - JSON Lint</title>
@@ -15568,6 +14455,72 @@
     <bookmark href="https://otter.ai/" id="8779">
       <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
     </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="7455">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="7456">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="7457">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="7458">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="7459">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="7460">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="7461">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="7462">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="7463">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="7464">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="7465">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="2157">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="2158">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="2159">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="2160">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="2161">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="2162">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="2163">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="2183">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="2184">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="2185">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="2186">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
   </folder>
   <folder id="8572">
     <title>Remote CPU</title>
@@ -15781,6 +14734,27 @@
         <title>Gemini for Cloud Google console</title>
       </bookmark>
       <bookmark href="https://openrouter.ai/chat" id="8859">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="6776">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="6777">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="6778">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="6779">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="6780">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="6781">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="6782">
         <title>OpenRouter</title>
       </bookmark>
     </folder>
@@ -16162,6 +15136,669 @@
     <bookmark href="https://azure.microsoft.com/en-us/products/ai-services/ai-speech/" id="8799">
       <title>Azure AI Speech | Microsoft Azure</title>
     </bookmark>
+  </folder>
+  <bookmark href="https://openart.ai/" id="1087">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1217">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="1327">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1328">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="1330">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="1755">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="1763">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1828">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="1832">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1840">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3108">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3109">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3110">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3111">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://simplechat.app/chat" id="3112">
+    <title>SimpleChat</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="3113">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="3114">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="3115">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="3116">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="3117">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="3118">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="3119">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="3120">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="3121">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3122">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="3123">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="3124">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3125">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3126">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3127">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="3128">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="3129">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="3130">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3131">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3132">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3133">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3134">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3135">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3136">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3137">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3138">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="3139">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="3140">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="3141">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="3142">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="3143">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3144">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3145">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3146">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3147">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3148">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3149">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3150">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3151">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3152">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="3153">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="3154">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="3155">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="3156">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3157">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3158">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3159">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3160">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="3161">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="3162">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="3163">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="3164">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="3165">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="3166">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="3167">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="3168">
+    <title>Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="3169">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="3170">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="3171">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="3172">
+    <title>OpenArt</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="3173">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3174">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3175">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3176">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="3177">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="3178">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="3179">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/" id="3180">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3181">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/" id="3182">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3183">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3184">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3185">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3186">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3187">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3188">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="3189">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="3190">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="3191">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="3192">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="3193">
+    <title>Sourcegraph</title>
+  </bookmark>
+  <bookmark href="https://copilot.microsoft.com/chats/" id="3194">
+    <title>Copilot:</title>
+  </bookmark>
+  <bookmark href="https://cursor.com/agents" id="3195">
+    <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://platform.openai.com/" id="3196">
+    <title>OpenAI API</title>
+  </bookmark>
+  <bookmark href="https://console.mistral.ai/" id="3197">
+    <title>Mistral La Plateforme</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3198">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3199">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3200">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3201">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3202">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://chat.mistral.ai/chat?q=" id="3203">
+    <title>Mistral</title>
+  </bookmark>
+  <bookmark href="https://x.com/i/grok" id="3204">
+    <title>Grok-Twitter</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="3205">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3206">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3207">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://pollo.ai/ai-image-generator" id="3208">
+    <title>Pollo AI</title>
+  </bookmark>
+  <bookmark href="https://www.midjourney.com/home" id="3209">
+    <title>Midjourney</title>
+  </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="3210">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="3211">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="3212">
+    <title>Grok</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="3213">
+    <title>Deepseek</title>
+  </bookmark>
+  <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="3214">
+    <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="3215">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="1331">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="1724">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="1734">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="1735">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="1736">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="2857">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="3098">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="http://localhost:3000/" id="5801">
+    <title>eneme</title>
+  </bookmark>
+  <folder id="5545">
+    <title>Remote CPU</title>
+    <folder id="5565">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="5607">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="5608">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="5609">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="5610">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="5611">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="5612">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="5613">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="5614">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="5615">
+        <title>Modelbit</title>
+      </bookmark>
+    </folder>
+    <folder id="5566">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="5616">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="5617">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="5618">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="5619">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="5620">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="5621">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="5622">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="5623">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="5624">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="5567">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="5625">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="5626">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="5627">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="5628">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="5629">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="5568">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="5569">
+      <title>Stable Model</title>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5630">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5631">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5632">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5633">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5634">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5635">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5636">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5593">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5594">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5595">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5596">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5597">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5598">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5599">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5676">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5677">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5678">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5679">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5680">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5681">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5682">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5698">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5699">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5700">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5701">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5702">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5703">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5704">
+        <title>OpenRouter</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="2274">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <bookmark href="https://shell.cloud.google.com/" id="2273">
+      <title>Cloud Shell</title>
+    </bookmark>
+  </folder>
+  <folder id="6417">
+    <title>Remote CPU</title>
+    <folder id="6624">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="6788">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="6789">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="6790">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="6791">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="6792">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="6793">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="6794">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="6795">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="6796">
+        <title>Modelbit</title>
+      </bookmark>
+    </folder>
+    <folder id="6625">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="6797">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="6798">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="6799">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="6800">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="6801">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="6802">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="6803">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="6804">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="6805">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="6626">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="6806">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="6807">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="6808">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="6809">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="6810">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="6627">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="6628">
+      <title>Stable Model</title>
+      <bookmark href="https://platform.openai.com/chat/edit" id="6811">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="6812">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="6813">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="6814">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="6815">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="6816">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="6817">
+        <title>OpenRouter</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="8542">
@@ -17357,6 +16994,93 @@
         <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="9312">
           <title>Create your online store today with Shopify</title>
         </bookmark>
+        <bookmark href="https://www.fiverr.com/?referral_campaign=RPCampaign1&amp;referral_invitee=social&amp;referral_inviter=95339841&amp;referral_key=86d6433dc042905c58da09b61c8d8b500d635ebc&amp;show_join=true&amp;utm_campaign=referral_program_show&amp;utm_content=&amp;utm_medium=shared&amp;utm_source=get_url&amp;utm_term=" id="1160">
+          <title>Fiverr - Freelance Services Marketplace for Businesses</title>
+        </bookmark>
+        <bookmark href="https://www.udemy.com/?utm_source=adwords-brand&amp;utm_medium=udemyads&amp;utm_campaign=Brand-Udemy_la.EN_cc.ROW&amp;utm_term=_._ag_80315195513_._ad_535757779892_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1028581_._pd__._&amp;utm_term=_._pd__._kw_udemy_._&amp;matchtype=e&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQV042GOhj6trbUyB2WwALzXMStI5TDcGoB-ptIwaQ4hVwMV8QPVG7hoCBaMQAvD_BwE" id="1161">
+          <title>Online Courses - Learn Anything, On Your Schedule | Udemy</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=PqUZCj2V5Os&amp;list=PLBtjLpqcpfOHYCgJougDCh-V_wP_UUE9Z" id="1162">
+          <title>Magnificent Century Episode 2 | English Subtitle - YouTube</title>
+        </bookmark>
+        <bookmark href="https://solutions.travelzoo.com/" id="1163">
+          <title>Travelzoo Solutions – Solutions for Travel</title>
+        </bookmark>
+        <bookmark href="https://www.travelzoo.com/" id="1164">
+          <title>Travelzoo: Deals on Hotels, Flights, Vacations, Cruises &amp; More</title>
+        </bookmark>
+        <bookmark href="https://www.groupon.com/" id="1165">
+          <title>Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off</title>
+        </bookmark>
+        <bookmark href="https://photodune.net/" id="1166">
+          <title>PhotoDune - Royalty Free Stock Photos &amp; Images</title>
+        </bookmark>
+        <bookmark href="https://audiojungle.net/collections/5842677-best-music-collection?utf8=%E2%9C%93&amp;sort_by=default&amp;type_id=5842677&amp;gclid=CjwKCAjwndCKBhAkEiwAgSDKQVy47rUSnNYlx9ipVm7a4f88Opzsqa91G6tl8EnJo37-uiwSLptvpxoCw9QQAvD_BwE" id="1167">
+          <title>BEST MUSIC COLLECTION on AudioJungle</title>
+        </bookmark>
+        <bookmark href="https://videohive.net/" id="1168">
+          <title>VideoHive - Stock Footage &amp; Video Effects</title>
+        </bookmark>
+        <bookmark href="https://www.freelancer.com/?gclid=CjwKCAjwndCKBhAkEiwAgSDKQUF6d3nKl35uJCJZs6--ux4jFUDKFqrl_VOn8fvaLzPLiX-F6akI7RoCxnkQAvD_BwE" id="1268">
+          <title>Hire Freelancers &amp; Find Freelance Jobs Online | Freelancer</title>
+        </bookmark>
+        <bookmark href="https://www.istockphoto.com/tr" id="1269">
+          <title>Stok fotoğraf, resim siteler, royalty-free görseller ve stok videolar - iStock</title>
+        </bookmark>
+        <bookmark href="https://www.shutterstock.com/tr/" id="1270">
+          <title>Stok Görseller, Fotoğraflar, Vektörler, Video ve Müzik | Shutterstock</title>
+        </bookmark>
+        <bookmark href="https://www.cash4offers.com/" id="1271">
+          <title>Cash4Offers® - Earn Cash Online for Reading Paid Email, Taking Surveys and More!</title>
+        </bookmark>
+        <bookmark href="https://www.paid-to-read-email.com/" id="1272">
+          <title>Paid To Read Email® - Earn Cash for Reading Paid Emails</title>
+        </bookmark>
+        <bookmark href="https://gumroad.com/" id="1273">
+          <title>Gumroad | Sell Digital Products &amp; Memberships</title>
+        </bookmark>
+        <bookmark href="https://toloka.yandex.com.tr/" id="1274">
+          <title>Toloka. Hiçbir ek yatırım yapmadan internette kazanç</title>
+        </bookmark>
+        <bookmark href="https://sellercentral.amazon.com/gp/help/external/201808410" id="1275">
+          <title>Drop Shipping Policy - Amazon Seller Central</title>
+        </bookmark>
+        <bookmark href="https://lorentlabs.com/" id="1276">
+          <title>LorentLabs - İnternet ve bilişim için güvenli yol</title>
+        </bookmark>
+        <bookmark href="https://tutors.com/pro/online-tutoring-jobs" id="1277">
+          <title>The 10 Best Online Tutoring Jobs (Earn $50+/hour) // Tutors.com</title>
+        </bookmark>
+        <bookmark href="https://www.shopify.com/blog/dropshipping-guide" id="1390">
+          <title>The Ultimate Guide to Dropshipping (2021)</title>
+        </bookmark>
+        <bookmark href="https://videohive.net/" id="1391">
+          <title>VideoHive - Stock Footage &amp; Video Effects</title>
+        </bookmark>
+        <bookmark href="https://blog.hubspot.com/sales/amazon-affiliate" id="1392">
+          <title>Amazon Affiliate Program: How to Become an Amazon Associate to Boost Income</title>
+        </bookmark>
+        <bookmark href="https://onlyfans.com/blondierosiie?gclid=CjwKCAjw49qKBhAoEiwAHQVTo0VoDRweouyByJUnDlrMooHfiTjczhUt00O3Rq1ovTKAfQPlp2mcQRoCU_0QAvD_BwE" id="1393">
+          <title>OnlyFans</title>
+        </bookmark>
+        <bookmark href="https://k2s.cc/premium" id="1394">
+          <title>Keep2Share</title>
+        </bookmark>
+        <bookmark href="https://teespring.com/" id="1395">
+          <title>Spring</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=i2uHn9dh0vM" id="1396">
+          <title>Yasaklar 1. Bölüm - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/results?search_query=how+to+be+a+mobile+app+developer" id="1397">
+          <title>how to be a mobile app developer - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.shopify.com/free-trial?gclid=CjwKCAjw49qKBhAoEiwAHQVTo5wSXiuynKu4xHJ6myJg3ncR8nD5M4sHtAz0LKu-JcuCwyVtZKp6BxoC2HEQAvD_BwE&amp;gclsrc=aw.ds" id="1398">
+          <title>Create your online store today with Shopify</title>
+        </bookmark>
+        <bookmark href="https://bionluk.com/" id="1159">
+          <title>Yetenekli Freelancer Topluluğu - Bir Freelancerla Çalışın | Bionluk</title>
+        </bookmark>
       </folder>
       <bookmark href="https://www.forbes.com/sites/laurabegleybloom/2020/03/25/make-money-online-right-now/?sh=25780ceb70a5" id="9266">
         <title>17 Ways You Can Make Money Online Right Now</title>
@@ -18173,6 +17897,12 @@
   <bookmark href="https://dodopayments.com/" id="9447">
     <title>Dodo Payments</title>
   </bookmark>
+  <folder id="2544">
+    <title>Other</title>
+  </folder>
+  <folder id="4441">
+    <title>Other</title>
+  </folder>
 </folder>
 <folder id="9444">
   <title>MAIN</title>
@@ -18226,6 +17956,18 @@
         </bookmark>
         <bookmark href="https://romhub.io/COURSE/server3" id="9558">
           <title>server3 | ROMhub</title>
+        </bookmark>
+        <bookmark href="https://romhub.io/COURSE/server1/FILM%20MAKING" id="1176">
+          <title>FILM MAKING | ROMhub</title>
+        </bookmark>
+        <bookmark href="https://romhub.io/COURSE/server1" id="1177">
+          <title>server1 | ROMhub</title>
+        </bookmark>
+        <bookmark href="https://romhub.io/COURSE/server3" id="1179">
+          <title>server3 | ROMhub</title>
+        </bookmark>
+        <bookmark href="https://romhub.io/COURSE/server1/KHO%CC%81A%20HO%CC%A3C%20POLYGON" id="1178">
+          <title>KHÓA HỌC POLYGON | ROMhub</title>
         </bookmark>
       </folder>
       <bookmark href="https://romhub.io/COURSE" id="9467">
@@ -18302,6 +18044,15 @@
         <bookmark href="https://en.aptoide.com/" id="9561">
           <title>Aptoide - The alternative Android app store</title>
         </bookmark>
+        <bookmark href="https://en.uptodown.com/windows" id="1181">
+          <title>Uptodown</title>
+        </bookmark>
+        <bookmark href="https://en.aptoide.com/" id="1182">
+          <title>Aptoide - The alternative Android app store</title>
+        </bookmark>
+        <bookmark href="https://apkpure.net/vn/" id="1180">
+          <title>APKPure</title>
+        </bookmark>
       </folder>
     </folder>
     <folder id="9459">
@@ -18361,6 +18112,33 @@
           <bookmark href="https://wallet.google.com/manage/" id="9648">
             <title>Google Wallet</title>
           </bookmark>
+          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="5095">
+            <title>Dashboard</title>
+          </bookmark>
+          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="5096">
+            <title>Google Apps Marketplace</title>
+          </bookmark>
+          <bookmark href="https://wallet.google.com/manage/" id="5097">
+            <title>Google Wallet</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="5705">
+            <title>Dashboard</title>
+          </bookmark>
+          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="5706">
+            <title>Google Apps Marketplace</title>
+          </bookmark>
+          <bookmark href="https://wallet.google.com/manage/" id="5707">
+            <title>Google Wallet</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/dashboard/b/0/?hl=en&amp;pli=1" id="4124">
+            <title>Dashboard</title>
+          </bookmark>
+          <bookmark href="http://www.google.com/enterprise/marketplace/?utm_campaign=setupmp&amp;utm_source=cpanel-en-setup-shop&amp;utm_medium=et" id="4125">
+            <title>Google Apps Marketplace</title>
+          </bookmark>
+          <bookmark href="https://wallet.google.com/manage/" id="4126">
+            <title>Google Wallet</title>
+          </bookmark>
         </folder>
         <bookmark href="https://admin.google.com/" id="9564">
           <title>Admin Console</title>
@@ -18395,6 +18173,33 @@
             <title>What&apos;s included in my edition of Gmail - Google Apps Help</title>
           </bookmark>
         </folder>
+        <bookmark href="https://takeout.google.com/settings/takeout" id="1279">
+          <title>Download your data</title>
+        </bookmark>
+        <bookmark href="https://pay.google.com/payments/home" id="1282">
+          <title>Google Pay</title>
+        </bookmark>
+        <bookmark href="https://drive.google.com/settings/storage" id="1283">
+          <title>Drive storage</title>
+        </bookmark>
+        <bookmark href="https://drive.google.com/drive/quota" id="1284">
+          <title>Google Drive</title>
+        </bookmark>
+        <bookmark href="https://myaccount.google.com/permissions?pli=1" id="1285">
+          <title>Apps with access to your account</title>
+        </bookmark>
+        <bookmark href="https://fonts.google.com/" id="1287">
+          <title>Google Fonts</title>
+        </bookmark>
+        <bookmark href="https://support.google.com/accounts/answer/27441?hl=en" id="1399">
+          <title>Create a Google Account - TELEFONSUZ İÇİN ALTTAKİ</title>
+        </bookmark>
+        <bookmark href="https://admin.google.com/ac/billing/catalog" id="1400">
+          <title>Get more services - Admin Console</title>
+        </bookmark>
+        <bookmark href="https://admin.google.com/" id="1278">
+          <title>Admin Console</title>
+        </bookmark>
       </folder>
       <folder id="9491">
         <title>Broadcast</title>
@@ -18691,6 +18496,18 @@
           <bookmark href="http://www.satellite-sightseer.com/" id="9659">
             <title>Sightseeing with Google Satellite Maps</title>
           </bookmark>
+          <bookmark href="https://za.gl/KeyPressOSD" id="1171">
+            <title>za.gl</title>
+          </bookmark>
+          <bookmark href="https://www.weebly.com/" id="1169">
+            <title>Free Website Builder: Build a Free Website or Online Store | Weebly</title>
+          </bookmark>
+          <bookmark href="https://www.joomla.org/" id="1170">
+            <title>Joomla Content Management System (CMS) - try it! It&apos;s free!</title>
+          </bookmark>
+          <bookmark href="https://wordpress.com/" id="1172">
+            <title>WordPress.com: Create a Free Website or Blog</title>
+          </bookmark>
         </folder>
         <bookmark href="https://www.google.com/intl/tr/earth/" id="9588">
           <title>Google Earth</title>
@@ -18767,6 +18584,81 @@
         <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="9612">
           <title>OpenStreetMap</title>
         </bookmark>
+        <bookmark href="https://www.google.com/maps/@37.0625,-95.677068,4z" id="1301">
+          <title>Google Maps</title>
+        </bookmark>
+        <bookmark href="https://www.instantstreetview.com/" id="1302">
+          <title>Instant Google Street View</title>
+        </bookmark>
+        <bookmark href="https://streetview-tr.com/" id="1303">
+          <title>Google Street View Turkey</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/d/?page=explore" id="1304">
+          <title>Google My Maps</title>
+        </bookmark>
+        <bookmark href="http://wikimapia.org/" id="1305">
+          <title>Wikimapia</title>
+        </bookmark>
+        <bookmark href="https://zoom.earth/" id="1306">
+          <title>Zoom Earth</title>
+        </bookmark>
+        <bookmark href="https://yandex.com.tr/harita/115707/fatih/" id="1307">
+          <title>Yandex.Haritalar</title>
+        </bookmark>
+        <bookmark href="https://www.mapquest.com/" id="1421">
+          <title>MapQuest</title>
+        </bookmark>
+        <bookmark href="https://www.bing.com/maps" id="1422">
+          <title>Bing Maps</title>
+        </bookmark>
+        <bookmark href="https://www.openstreetmap.org/#map=10/49.2423/20.5190" id="1423">
+          <title>OpenStreetMap</title>
+        </bookmark>
+        <bookmark href="https://www.terraserver.com/" id="1424">
+          <title>TerraServer</title>
+        </bookmark>
+        <bookmark href="http://earth3dmap.com/" id="1425">
+          <title>Earth 3D Map</title>
+        </bookmark>
+        <bookmark href="http://www.haritamap.com/" id="1426">
+          <title>HaritaMap.com</title>
+        </bookmark>
+        <bookmark href="http://www.e-sehir.com/turkiye-haritasi/" id="1427">
+          <title>E-Sehir.com</title>
+        </bookmark>
+        <bookmark href="https://www.nereyebagli.com/" id="1428">
+          <title>Nereye Bağlı</title>
+        </bookmark>
+        <bookmark href="http://www.haritamap.com/" id="1512">
+          <title>HaritaMap.com</title>
+        </bookmark>
+        <bookmark href="https://streetview-tr.com/" id="1513">
+          <title>Google Street View Turkey</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/d/?page=explore" id="1514">
+          <title>Google My Maps</title>
+        </bookmark>
+        <bookmark href="http://www.haritalar.web.tr/" id="1515">
+          <title>Tematik Haritaları</title>
+        </bookmark>
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="1516">
+          <title>Ankara Büyükşehir Belediyesi</title>
+        </bookmark>
+        <bookmark href="http://www.haritalar.web.tr/" id="1517">
+          <title>Tematik Haritaları</title>
+        </bookmark>
+        <bookmark href="http://gis.ankara.bel.tr/BaskentKentRehberi/" id="1518">
+          <title>Ankara Büyükşehir Belediyesi</title>
+        </bookmark>
+        <bookmark href="https://harita.istanbul/2d?@=28.95551,41.01431,16.06064&amp;p=45.00000&amp;b=0.00000&amp;suk=&amp;ruk=!&amp;ms=!b281!c&amp;o=!o2&amp;ct=0&amp;duk=&amp;dwk=" id="1519">
+          <title>Harita İstanbul</title>
+        </bookmark>
+        <bookmark href="https://www.openstreetmap.org/#map=5/16.11/105.81" id="1593">
+          <title>OpenStreetMap</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/intl/tr/earth/" id="1300">
+          <title>Google Earth</title>
+        </bookmark>
       </folder>
       <folder id="9493">
         <title>Shopping</title>
@@ -18775,6 +18667,12 @@
         </bookmark>
         <bookmark href="https://www.banggood.com/" id="9614">
           <title>Banggood</title>
+        </bookmark>
+        <bookmark href="https://www.banggood.com/" id="1309">
+          <title>Banggood</title>
+        </bookmark>
+        <bookmark href="https://www.aliexpress.com/" id="1308">
+          <title>AliExpress.com</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.endomondo.com/home" id="9494">
@@ -18824,6 +18722,30 @@
         <bookmark href="http://www.garanti.com.tr/tr/" id="9622">
           <title>Garanti Bankası</title>
         </bookmark>
+        <bookmark href="http://www.garanti.com.tr/" id="1429">
+          <title>Garanti Bankası</title>
+        </bookmark>
+        <bookmark href="https://www.isacombank.com.vn/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&amp;__START_TRAN_FLAG__=Y&amp;__FG_BUTTONS__=LOAD&amp;ACTION.LOAD=Y&amp;AuthenticationFG.LOGIN_FLAG=1&amp;BANK_ID=303&amp;AuthenticationFG.PREFERRED_LANGUAGE=001&amp;LANGUAGE_ID=001" id="1434">
+          <title>Sacombank</title>
+        </bookmark>
+        <bookmark href="http://www.yapikredi.com.tr/tr-TR/MainPage.aspx" id="1430">
+          <title>Yapı Kredi</title>
+        </bookmark>
+        <bookmark href="https://www.vietcombank.com.vn/en" id="1435">
+          <title>Vietcombank</title>
+        </bookmark>
+        <bookmark href="https://www.isbank.com.tr/Internet/" id="1431">
+          <title>Türkiye İş Bankası</title>
+        </bookmark>
+        <bookmark href="http://www.garanti.com.tr/tr/" id="1436">
+          <title>Garanti Bankası</title>
+        </bookmark>
+        <bookmark href="https://internet.hsbc.com.tr/UIApplication/CustomLogin/Retail.aspx?lang=TR" id="1432">
+          <title>HSBC TR</title>
+        </bookmark>
+        <bookmark href="https://www.hsbc.com.vn/" id="1433">
+          <title>HSBC VN</title>
+        </bookmark>
       </folder>
       <folder id="9502">
         <title>Cam&amp;GPS</title>
@@ -18868,6 +18790,84 @@
         </bookmark>
         <bookmark href="http://rotahome.no-ip.org:8081/" id="9636">
           <title>EV-1 (rotahome.no-ip.org:8081)</title>
+        </bookmark>
+        <bookmark href="https://www.endomondo.com/home" id="5173">
+          <title>Endomondo</title>
+        </bookmark>
+        <bookmark href="http://rotahome.no-ip.org:8081/" id="5174">
+          <title>EV-1 (rotahome.no-ip.org8081)</title>
+        </bookmark>
+        <bookmark href="http://www.muratvural.com/m/" id="5175">
+          <title>HOMECAM</title>
+        </bookmark>
+        <bookmark href="http://www.ustream.tv/channel/murvur" id="5176">
+          <title>MurVur on USTREAM: BBG. Blog</title>
+        </bookmark>
+        <bookmark href="http://www.ustream.tv/channel/murvur" id="5177">
+          <title>MurVur on USTREAM BBG. Blog</title>
+        </bookmark>
+        <bookmark href="http://androidforums.com/samsung-galaxy-s3/648275-battery-full-notification-driving-me-insane.html" id="5178">
+          <title>Battery full notification driving me insane - Android Forums</title>
+        </bookmark>
+        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotamuratvural&amp;guestpassword=mv" id="5179">
+          <title>Real Time GPS Tracker - Murat</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/home" id="5251">
+          <title>Life360 : Dashboard</title>
+        </bookmark>
+        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotanurayvural&amp;guestpassword=nv" id="5252">
+          <title>Real Time GPS Tracker - Nuray</title>
+        </bookmark>
+        <bookmark href="https://www.endomondo.com/home" id="5253">
+          <title>Endomondo</title>
+        </bookmark>
+        <bookmark href="http://rotahome.no-ip.org:8081/" id="5254">
+          <title>EV-1 (rotahome.no-ip.org:8081)</title>
+        </bookmark>
+        <bookmark href="https://www.endomondo.com/home" id="5708">
+          <title>Endomondo</title>
+        </bookmark>
+        <bookmark href="http://rotahome.no-ip.org:8081/" id="5709">
+          <title>EV-1 (rotahome.no-ip.org8081)</title>
+        </bookmark>
+        <bookmark href="http://www.muratvural.com/m/" id="5710">
+          <title>HOMECAM</title>
+        </bookmark>
+        <bookmark href="http://www.ustream.tv/channel/murvur" id="5711">
+          <title>MurVur on USTREAM: BBG. Blog</title>
+        </bookmark>
+        <bookmark href="http://www.ustream.tv/channel/murvur" id="5712">
+          <title>MurVur on USTREAM BBG. Blog</title>
+        </bookmark>
+        <bookmark href="http://androidforums.com/samsung-galaxy-s3/648275-battery-full-notification-driving-me-insane.html" id="5713">
+          <title>Battery full notification driving me insane - Android Forums</title>
+        </bookmark>
+        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotamuratvural&amp;guestpassword=mv" id="5714">
+          <title>Real Time GPS Tracker - Murat</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/home" id="5715">
+          <title>Life360 : Dashboard</title>
+        </bookmark>
+        <bookmark href="http://www.greenalp.com/RealtimeTracker/index.php?viewuser=rotanurayvural&amp;guestpassword=nv" id="5716">
+          <title>Real Time GPS Tracker - Nuray</title>
+        </bookmark>
+        <bookmark href="https://www.endomondo.com/home" id="5717">
+          <title>Endomondo</title>
+        </bookmark>
+        <bookmark href="http://rotahome.no-ip.org:8081/" id="5718">
+          <title>EV-1 (rotahome.no-ip.org:8081)</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/home" id="2432">
+          <title>Life360  Dashboard</title>
+        </bookmark>
+        <bookmark href="http://www.followmee.com/Map.aspx" id="1437">
+          <title>FollowMee</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/home" id="1439">
+          <title>Life360 : Dashboard</title>
+        </bookmark>
+        <bookmark href="https://www.life360.com/accounts/change_family" id="1438">
+          <title>Life360</title>
         </bookmark>
       </folder>
       <bookmark href="https://www.google.com/calendar/" id="9503">
