@@ -14757,7 +14757,76 @@
       <bookmark href="https://openrouter.ai/chat" id="6782">
         <title>OpenRouter</title>
       </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5698">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5699">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5700">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5701">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5702">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5703">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5704">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5676">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5677">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5678">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5679">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5680">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5681">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5682">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5630">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5631">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5632">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5633">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5634">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5635">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5636">
+        <title>OpenRouter</title>
+      </bookmark>
     </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="5568">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <bookmark href="https://shell.cloud.google.com/" id="2274">
+      <title>Cloud Shell</title>
+    </bookmark>
   </folder>
   <bookmark href="https://grok.com/" id="8574">
     <title>Grok</title>
@@ -15595,32 +15664,8 @@
         <title>Amazon EC2</title>
       </bookmark>
     </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="5568">
-      <title>Cloud Shell</title>
-    </bookmark>
     <folder id="5569">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5630">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5631">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5632">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5633">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5634">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5635">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5636">
-        <title>OpenRouter</title>
-      </bookmark>
       <bookmark href="https://platform.openai.com/chat/edit" id="5593">
         <title>OpenAI Platform</title>
       </bookmark>
@@ -15642,52 +15687,7 @@
       <bookmark href="https://openrouter.ai/chat" id="5599">
         <title>OpenRouter</title>
       </bookmark>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5676">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5677">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5678">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5679">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5680">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5681">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5682">
-        <title>OpenRouter</title>
-      </bookmark>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5698">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5699">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5700">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5701">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5702">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5703">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5704">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="2274">
-      <title>Cloud Shell</title>
-    </bookmark>
     <bookmark href="https://shell.cloud.google.com/" id="2273">
       <title>Cloud Shell</title>
     </bookmark>
@@ -18828,7 +18828,7 @@
           <title>Endomondo</title>
         </bookmark>
         <bookmark href="http://rotahome.no-ip.org:8081/" id="5709">
-          <title>EV-1 (rotahome.no-ip.org8081)</title>
+          <title>EV-1 (rotahome.no-ip.org:8081)</title>
         </bookmark>
         <bookmark href="http://www.muratvural.com/m/" id="5710">
           <title>HOMECAM</title>
@@ -18855,7 +18855,7 @@
           <title>Endomondo</title>
         </bookmark>
         <bookmark href="http://rotahome.no-ip.org:8081/" id="5718">
-          <title>EV-1 (rotahome.no-ip.org:8081)</title>
+          <title>EV-1 (rotahome.no-ip.org8081)</title>
         </bookmark>
         <bookmark href="https://www.life360.com/home" id="2432">
           <title>Life360  Dashboard</title>
