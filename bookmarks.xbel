@@ -10838,9 +10838,6 @@
   <bookmark href="https://www.krea.ai/" id="1723">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="1749">
-    <title>OpenArt</title>
-  </bookmark>
   <bookmark href="https://gemini.google.com/app" id="1750">
     <title>Google Gemini</title>
   </bookmark>
@@ -11015,11 +11012,14 @@
   <bookmark href="https://copilot.microsoft.com/chats/" id="1833">
     <title>Copilot:</title>
   </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="1834">
-    <title>Perplexity</title>
+  <bookmark href="https://openart.ai/" id="1749">
+    <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://cursor.com/agents" id="1835">
     <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="1834">
+    <title>Perplexity</title>
   </bookmark>
   <bookmark href="https://scribblediffusion.com/" id="1836">
     <title>Scribble Diffusion</title>
