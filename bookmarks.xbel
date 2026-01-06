@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :9914: for Floccus bookmark sync browser extension -->
+<!--- highestId :9924: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://jsonlint.com/" id="5815">
   <title>JSON Online Validator and Formatter - JSON Lint</title>
@@ -4721,114 +4721,6 @@
   <bookmark href="https://gemini.google.com/app" id="7413">
     <title>Google Gemini</title>
   </bookmark>
-  <folder id="7414">
-    <title>Remote CPU</title>
-    <bookmark href="https://shell.cloud.google.com/" id="7466">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="7467">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="7499">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="7500">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="7501">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="7502">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="7503">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="7504">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="7505">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="7506">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="7507">
-        <title>Modelbit</title>
-      </bookmark>
-    </folder>
-    <folder id="7468">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="7508">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="7509">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="7510">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="7511">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="7512">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="7513">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="7514">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="7515">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="7516">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="7469">
-      <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="7517">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="7518">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="7519">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="7520">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="7521">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="7522">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="7523">
-        <title>OpenRouter</title>
-      </bookmark>
-    </folder>
-    <folder id="7470">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="7524">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="7525">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="7526">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="7527">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="7528">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-  </folder>
   <bookmark href="https://pollo.ai/ai-image-generator" id="7415">
     <title>Pollo AI</title>
   </bookmark>
@@ -4953,27 +4845,6 @@
     </bookmark>
     <folder id="7485">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="7552">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="7553">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="7554">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="7555">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="7556">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="7557">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="7558">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://creator.nightcafe.studio/studio" id="7419">
@@ -14820,6 +14691,27 @@
       <bookmark href="https://openrouter.ai/chat" id="2340">
         <title>OpenRouter</title>
       </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="7552">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="7553">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="7554">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="7555">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="7556">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="7557">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="7558">
+        <title>OpenRouter</title>
+      </bookmark>
     </folder>
     <bookmark href="https://shell.cloud.google.com/" id="5568">
       <title>Cloud Shell</title>
@@ -15797,6 +15689,114 @@
       </bookmark>
       <bookmark href="https://openrouter.ai/chat" id="6817">
         <title>OpenRouter</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="7414">
+    <title>Remote CPU</title>
+    <bookmark href="https://shell.cloud.google.com/" id="7466">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="7467">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="7499">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="7500">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="7501">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="7502">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="7503">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="7504">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="7505">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="7506">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="7507">
+        <title>Modelbit</title>
+      </bookmark>
+    </folder>
+    <folder id="7468">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="7508">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="7509">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="7510">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="7511">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="7512">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="7513">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="7514">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="7515">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="7516">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="7469">
+      <title>Stable Model</title>
+      <bookmark href="https://platform.openai.com/chat/edit" id="7517">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="7518">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="7519">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="7520">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="7521">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="7522">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="7523">
+        <title>OpenRouter</title>
+      </bookmark>
+    </folder>
+    <folder id="7470">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="7524">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="7525">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="7526">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="7527">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="7528">
+        <title>Amazon EC2</title>
       </bookmark>
     </folder>
   </folder>
@@ -29616,4 +29616,34 @@
 <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="9914">
   <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
 </bookmark>
+<bookmark href="https://jsonlint.com/" id="9915">
+  <title>JSON Online Validator and Formatter - JSON Lint</title>
+</bookmark>
+<bookmark href="https://help.openai.com/en" id="9916">
+  <title>OpenAI Help Center</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnivda/warning_openai_charges_for_gpt5_but_secretly/" id="9917">
+  <title>⚠️ Warning: OpenAI charges for GPT-5 but secretly gives GPT-4 — zero human support, only a bot : r/OpenAI</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/OpenAI/comments/1nnj1ql/business_plan_downgraded_from_gpt5_to_gpt4_within/" id="9918">
+  <title>Business plan downgraded from GPT-5 to GPT-4 within a day, and no real support : r/OpenAI</title>
+</bookmark>
+<bookmark href="https://whatismyipaddress.com/ip-lookup" id="9919">
+  <title>Instant IP Address Lookup</title>
+</bookmark>
+<folder id="9920">
+  <title>€</title>
+</folder>
+<folder id="9921">
+  <title>Temp</title>
+</folder>
+<folder id="9922">
+  <title>G</title>
+</folder>
+<folder id="9923">
+  <title>Windsurf</title>
+</folder>
+<folder id="9924">
+  <title>ACCOUNTS</title>
+</folder>
 </xbel>
