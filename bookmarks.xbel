@@ -14616,6 +14616,27 @@
       <bookmark href="https://openrouter.ai/chat" id="7523">
         <title>OpenRouter</title>
       </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="5593">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="5594">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="5595">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="5596">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5597">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5598">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="5599">
+        <title>OpenRouter</title>
+      </bookmark>
     </folder>
     <bookmark href="https://shell.cloud.google.com/" id="5568">
       <title>Cloud Shell</title>
@@ -15579,27 +15600,6 @@
     </folder>
     <folder id="5569">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="5593">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="5594">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="5595">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="5596">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="5597">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="5598">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="5599">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
     <bookmark href="https://shell.cloud.google.com/" id="2273">
       <title>Cloud Shell</title>
