@@ -4739,93 +4739,6 @@
   <bookmark href="https://www.midjourney.com/home" id="11480">
     <title>Midjourney</title>
   </bookmark>
-  <folder id="11481">
-    <title>Remote CPU</title>
-    <folder id="11525">
-      <title>Notebook</title>
-      <bookmark href="https://jupyter.org/" id="11543">
-        <title>Jupyter</title>
-      </bookmark>
-      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="11544">
-        <title>Colab</title>
-      </bookmark>
-      <bookmark href="https://www.kaggle.com/code" id="11545">
-        <title>Kaggle</title>
-      </bookmark>
-      <bookmark href="https://deepnote.com/" id="11546">
-        <title>Deepnote</title>
-      </bookmark>
-      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="11547">
-        <title>IBM Cloud Pak for Data as a Service</title>
-      </bookmark>
-      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="11548">
-        <title>Databricks on AWS</title>
-      </bookmark>
-      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="11549">
-        <title>Kubeflow</title>
-      </bookmark>
-      <bookmark href="https://www.modelbit.com/" id="11550">
-        <title>Modelbit</title>
-      </bookmark>
-      <bookmark href="https://huggingface.co/spaces" id="11551">
-        <title>Hugging Face Spaces</title>
-      </bookmark>
-    </folder>
-    <folder id="11526">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="11552">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="11553">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="11554">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="11555">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="11556">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="11557">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="11558">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="11559">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="11560">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
-    <folder id="11527">
-      <title>Rent CPU</title>
-      <bookmark href="https://lambda.ai/service/gpu-cloud" id="11561">
-        <title>Lambda</title>
-      </bookmark>
-      <bookmark href="https://vast.ai/" id="11562">
-        <title>Vast.ai</title>
-      </bookmark>
-      <bookmark href="https://console.paperspace.com/login" id="11563">
-        <title>Paperspace</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/" id="11564">
-        <title>Runpod</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/ec2/" id="11565">
-        <title>Amazon EC2</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://shell.cloud.google.com/" id="11528">
-      <title>Cloud Shell</title>
-    </bookmark>
-    <folder id="11529">
-      <title>Stable Model</title>
-    </folder>
-  </folder>
   <bookmark href="https://creator.nightcafe.studio/studio" id="11482">
     <title>NightCafe</title>
   </bookmark>
@@ -13503,27 +13416,6 @@
     </folder>
     <folder id="14522">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="14908">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="14909">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="14910">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="14911">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="14912">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="14913">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="14914">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
     <folder id="14523">
       <title>Rent CPU</title>
@@ -13668,27 +13560,6 @@
     </bookmark>
     <folder id="14538">
       <title>Stable Model</title>
-      <bookmark href="https://platform.openai.com/chat/edit" id="14943">
-        <title>OpenAI Platform</title>
-      </bookmark>
-      <bookmark href="https://www.anthropic.com/claude" id="14944">
-        <title>Claude \ Anthropic</title>
-      </bookmark>
-      <bookmark href="https://mistral.ai/" id="14945">
-        <title>Mistral AI</title>
-      </bookmark>
-      <bookmark href="https://cohere.com/" id="14946">
-        <title>Cohere</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="14947">
-        <title>Azure</title>
-      </bookmark>
-      <bookmark href="https://console.cloud.google.com/gemini/overview" id="14948">
-        <title>Gemini for Cloud Google console</title>
-      </bookmark>
-      <bookmark href="https://openrouter.ai/chat" id="14949">
-        <title>OpenRouter</title>
-      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://creator.nightcafe.studio/studio" id="14386">
@@ -25113,6 +24984,48 @@
       <bookmark href="https://cohere.com/" id="18421">
         <title>Cohere</title>
       </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="14943">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="14944">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="14945">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="14946">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="14947">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="14948">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="14949">
+        <title>OpenRouter</title>
+      </bookmark>
+      <bookmark href="https://platform.openai.com/chat/edit" id="14908">
+        <title>OpenAI Platform</title>
+      </bookmark>
+      <bookmark href="https://www.anthropic.com/claude" id="14909">
+        <title>Claude \ Anthropic</title>
+      </bookmark>
+      <bookmark href="https://mistral.ai/" id="14910">
+        <title>Mistral AI</title>
+      </bookmark>
+      <bookmark href="https://cohere.com/" id="14911">
+        <title>Cohere</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/" id="14912">
+        <title>Azure</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.google.com/gemini/overview" id="14913">
+        <title>Gemini for Cloud Google console</title>
+      </bookmark>
+      <bookmark href="https://openrouter.ai/chat" id="14914">
+        <title>OpenRouter</title>
+      </bookmark>
     </folder>
   </folder>
   <bookmark href="https://grok.com/" id="18196">
@@ -25493,6 +25406,93 @@
   <bookmark href="https://openart.ai/" id="18311">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
+  <folder id="11481">
+    <title>Remote CPU</title>
+    <folder id="11525">
+      <title>Notebook</title>
+      <bookmark href="https://jupyter.org/" id="11543">
+        <title>Jupyter</title>
+      </bookmark>
+      <bookmark href="https://colab.research.google.com/notebooks/intro.ipynb" id="11544">
+        <title>Colab</title>
+      </bookmark>
+      <bookmark href="https://www.kaggle.com/code" id="11545">
+        <title>Kaggle</title>
+      </bookmark>
+      <bookmark href="https://deepnote.com/" id="11546">
+        <title>Deepnote</title>
+      </bookmark>
+      <bookmark href="https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/get-started-build-notebook.html?context=cpdaas" id="11547">
+        <title>IBM Cloud Pak for Data as a Service</title>
+      </bookmark>
+      <bookmark href="https://docs.databricks.com/aws/en/machine-learning/model-serving/" id="11548">
+        <title>Databricks on AWS</title>
+      </bookmark>
+      <bookmark href="https://www.kubeflow.org/docs/components/notebooks/" id="11549">
+        <title>Kubeflow</title>
+      </bookmark>
+      <bookmark href="https://www.modelbit.com/" id="11550">
+        <title>Modelbit</title>
+      </bookmark>
+      <bookmark href="https://huggingface.co/spaces" id="11551">
+        <title>Hugging Face Spaces</title>
+      </bookmark>
+    </folder>
+    <folder id="11526">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="11552">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="11553">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="11554">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="11555">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="11556">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="11557">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="11558">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="11559">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="11560">
+        <title>Vertex AI Platform | Google Cloud</title>
+      </bookmark>
+    </folder>
+    <folder id="11527">
+      <title>Rent CPU</title>
+      <bookmark href="https://lambda.ai/service/gpu-cloud" id="11561">
+        <title>Lambda</title>
+      </bookmark>
+      <bookmark href="https://vast.ai/" id="11562">
+        <title>Vast.ai</title>
+      </bookmark>
+      <bookmark href="https://console.paperspace.com/login" id="11563">
+        <title>Paperspace</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/" id="11564">
+        <title>Runpod</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/ec2/" id="11565">
+        <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://shell.cloud.google.com/" id="11528">
+      <title>Cloud Shell</title>
+    </bookmark>
+    <folder id="11529">
+      <title>Stable Model</title>
+    </folder>
+  </folder>
 </folder>
 <folder id="18422">
   <title>Google</title>
