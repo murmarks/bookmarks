@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :36209: for Floccus bookmark sync browser extension -->
+<!--- highestId :36210: for Floccus bookmark sync browser extension -->
 
 <folder id="32806">
   <title>No-Cache</title>
@@ -10290,4 +10290,7 @@
 <bookmark href="https://doctorvural.com/?LSCWP_CTRL=before_optm&amp;nocache=1753517513811" id="36209">
   <title>Doctor Vural | Online Private Lessons for University Entrance Exams: Success and Personal Growth</title>
 </bookmark>
+<folder id="36210">
+  <title>€</title>
+</folder>
 </xbel>
