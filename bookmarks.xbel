@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :36346: for Floccus bookmark sync browser extension -->
+<!--- highestId :36348: for Floccus bookmark sync browser extension -->
 
 <folder id="32806">
   <title>No-Cache</title>
@@ -842,6 +842,9 @@
   <bookmark href="https://www.speechtexter.com/" id="36312">
     <title>SpeechTexter | Type with your voice!</title>
   </bookmark>
+  <bookmark href="https://www.speechtexter.com/" id="36347">
+    <title>SpeechTexter | Type with your voice!</title>
+  </bookmark>
 </folder>
 <folder id="32928">
   <title>ACCOUNTS</title>
@@ -860,11 +863,17 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="32953">
     <title>NightCafe</title>
   </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33112">
+    <title>Microsoft Designer</title>
+  </bookmark>
   <bookmark href="https://simplechat.app/chat" id="32955">
     <title>SimpleChat</title>
   </bookmark>
   <bookmark href="chrome://settings/content/microphone" id="32956">
     <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="32985">
+    <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://manus.im/app" id="32958">
     <title>Manus</title>
@@ -881,7 +890,16 @@
   <bookmark href="https://www.krea.ai/" id="32980">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://openart.ai/" id="32985">
+  <bookmark href="https://replit.com/" id="33462">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="33463">
+    <title>ImagineArt</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="33464">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="33465">
     <title>OpenArt</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="32986">
@@ -895,6 +913,18 @@
   </bookmark>
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="33043">
     <title>Nomi</title>
+  </bookmark>
+  <bookmark href="https://codeassist.google/" id="33118">
+    <title>Gemini Code Assist</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/cody" id="33119">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://ampcode.com/" id="33120">
+    <title>Amp</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="33121">
+    <title>Sourcegraph</title>
   </bookmark>
   <bookmark href="chrome://extensions/" id="33048">
     <title>Settings - Extensions</title>
@@ -911,7 +941,7 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="33052">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33112">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33228">
     <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="33113">
@@ -929,16 +959,16 @@
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="33117">
     <title>Nomi</title>
   </bookmark>
-  <bookmark href="https://codeassist.google/" id="33118">
+  <bookmark href="https://codeassist.google/" id="33361">
     <title>Gemini Code Assist</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="33119">
+  <bookmark href="https://sourcegraph.com/cody" id="33362">
     <title>Cody</title>
   </bookmark>
-  <bookmark href="https://ampcode.com/" id="33120">
+  <bookmark href="https://ampcode.com/" id="33363">
     <title>Amp</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="33121">
+  <bookmark href="https://sourcegraph.com/" id="33364">
     <title>Sourcegraph</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="33224">
@@ -953,7 +983,7 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="33227">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33228">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33368">
     <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="33229">
@@ -971,16 +1001,16 @@
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="33233">
     <title>Nomi</title>
   </bookmark>
-  <bookmark href="https://codeassist.google/" id="33361">
+  <bookmark href="https://codeassist.google/" id="33626">
     <title>Gemini Code Assist</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="33362">
+  <bookmark href="https://sourcegraph.com/cody" id="33676">
     <title>Cody</title>
   </bookmark>
-  <bookmark href="https://ampcode.com/" id="33363">
+  <bookmark href="https://ampcode.com/" id="33546">
     <title>Amp</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="33364">
+  <bookmark href="https://sourcegraph.com/" id="33678">
     <title>Sourcegraph</title>
   </bookmark>
   <bookmark href="https://pollo.ai/ai-image-generator" id="33365">
@@ -992,7 +1022,7 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="33367">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33368">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33764">
     <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="https://gemini.google.com/app" id="33369">
@@ -1016,18 +1046,6 @@
   <bookmark href="https://www.krea.ai/" id="33460">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="33462">
-    <title>Replit</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="33463">
-    <title>ImagineArt</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="33464">
-    <title>SeaArt</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="33465">
-    <title>OpenArt</title>
-  </bookmark>
   <bookmark href="https://gemini.google.com/app" id="33542">
     <title>Google Gemini</title>
   </bookmark>
@@ -1040,12 +1058,9 @@
   <bookmark href="chrome://extensions/" id="33545">
     <title>Settings - Extensions</title>
   </bookmark>
-  <bookmark href="https://ampcode.com/" id="33546">
+  <bookmark href="https://ampcode.com/" id="33677">
     <title>Amp</title>
   </bookmark>
-  <folder id="33549">
-    <title>Text-to-Speech</title>
-  </folder>
   <bookmark href="https://chatgpt.com/" id="33550">
     <title>ChatGPT</title>
   </bookmark>
@@ -1076,16 +1091,16 @@
   <bookmark href="https://chat.mistral.ai/chat?q=" id="33625">
     <title>Mistral</title>
   </bookmark>
-  <bookmark href="https://codeassist.google/" id="33626">
+  <bookmark href="https://codeassist.google/" id="33768">
     <title>Gemini Code Assist</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="33676">
+  <bookmark href="https://sourcegraph.com/cody" id="33770">
     <title>Cody</title>
   </bookmark>
-  <bookmark href="https://ampcode.com/" id="33677">
+  <bookmark href="https://ampcode.com/" id="33951">
     <title>Amp</title>
   </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="33678">
+  <bookmark href="https://sourcegraph.com/" id="33772">
     <title>Sourcegraph</title>
   </bookmark>
   <bookmark href="https://copilot.microsoft.com/chats/" id="33679">
@@ -1139,7 +1154,7 @@
   <bookmark href="https://creator.nightcafe.studio/studio" id="33734">
     <title>NightCafe</title>
   </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33764">
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33861">
     <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="https://grok.com/" id="33765">
@@ -1151,56 +1166,8 @@
   <bookmark href="https://beta.nomi.ai/nomis/1911566117" id="33767">
     <title>Nomi</title>
   </bookmark>
-  <bookmark href="https://codeassist.google/" id="33768">
+  <bookmark href="https://codeassist.google/" id="33917">
     <title>Gemini Code Assist</title>
-  </bookmark>
-  <folder id="33769">
-    <title>Speech-to-Text</title>
-    <bookmark href="https://www.speechtexter.com/" id="33804">
-      <title>SpeechTexter</title>
-    </bookmark>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="33798">
-      <title>Chrome Speak Test</title>
-    </bookmark>
-    <bookmark href="https://speakscribe.com/" id="33799">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="33800">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="33801">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="33802">
-      <title>Google Docs</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="33803">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.naturalreaders.com/" id="33805">
-      <title>AI Voices - NaturalReader Home</title>
-    </bookmark>
-    <bookmark href="https://speechify.com/" id="33806">
-      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
-    </bookmark>
-    <bookmark href="https://dictation.io/" id="33807">
-      <title>Voice Dictation - Online Speech Recognition</title>
-    </bookmark>
-    <bookmark href="https://otter.ai/" id="33853">
-      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
-    </bookmark>
-    <bookmark href="https://www.nuance.com/index.html" id="33854">
-      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://sourcegraph.com/cody" id="33770">
-    <title>Cody</title>
-  </bookmark>
-  <folder id="33771">
-    <title>Text-to-Speech</title>
-  </folder>
-  <bookmark href="https://sourcegraph.com/" id="33772">
-    <title>Sourcegraph</title>
   </bookmark>
   <folder id="33773">
     <title>Speech-to-Text</title>
@@ -1211,6 +1178,12 @@
       <title>AI Speech Technology | Speech-To-Text API | Speechmatics | Home</title>
     </bookmark>
   </folder>
+  <bookmark href="https://sourcegraph.com/cody" id="33948">
+    <title>Cody</title>
+  </bookmark>
+  <bookmark href="https://sourcegraph.com/" id="33972">
+    <title>Sourcegraph</title>
+  </bookmark>
   <bookmark href="https://gemini.google.com/app" id="33811">
     <title>Google Gemini</title>
   </bookmark>
@@ -1292,12 +1265,96 @@
   <bookmark href="https://pollo.ai/ai-image-generator" id="33814">
     <title>Pollo AI</title>
   </bookmark>
-  <folder id="33815">
+  <folder id="33549">
     <title>Text-to-Speech</title>
   </folder>
   <bookmark href="https://www.midjourney.com/home" id="33816">
     <title>Midjourney</title>
   </bookmark>
+  <bookmark href="https://creator.nightcafe.studio/studio" id="33818">
+    <title>NightCafe</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33862">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="chrome://extensions/" id="33894">
+    <title>Settings - Extensions</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/microphone" id="33895">
+    <title>Settings - Microphone</title>
+  </bookmark>
+  <bookmark href="https://manus.im/app" id="33947">
+    <title>Manus</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/" id="33952">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://copilot.microsoft.com/chats/" id="33986">
+    <title>Copilot:</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="33988">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://cursor.com/agents" id="33989">
+    <title>Cursor</title>
+  </bookmark>
+  <bookmark href="https://scribblediffusion.com/" id="33990">
+    <title>Scribble Diffusion</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app" id="34007">
+    <title>Google Gemini</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/" id="34008">
+    <title>Krea</title>
+  </bookmark>
+  <bookmark href="https://platform.openai.com/" id="34009">
+    <title>OpenAI API</title>
+  </bookmark>
+  <bookmark href="https://console.mistral.ai/" id="34033">
+    <title>Mistral La Plateforme</title>
+  </bookmark>
+  <folder id="33769">
+    <title>Speech-to-Text</title>
+    <bookmark href="https://www.speechtexter.com/" id="33804">
+      <title>SpeechTexter</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="33798">
+      <title>Chrome Speak Test</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="33799">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="33800">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="33801">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="33802">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="33803">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.naturalreaders.com/" id="33805">
+      <title>AI Voices - NaturalReader Home</title>
+    </bookmark>
+    <bookmark href="https://speechify.com/" id="33806">
+      <title>Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews</title>
+    </bookmark>
+    <bookmark href="https://dictation.io/" id="33807">
+      <title>Voice Dictation - Online Speech Recognition</title>
+    </bookmark>
+    <bookmark href="https://otter.ai/" id="33853">
+      <title>Otter Meeting Agent - AI Notetaker, Transcription, Insights</title>
+    </bookmark>
+    <bookmark href="https://www.nuance.com/index.html" id="33854">
+      <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+  </folder>
+  <folder id="33771">
+    <title>Text-to-Speech</title>
+  </folder>
   <folder id="33817">
     <title>Remote CPU</title>
     <folder id="33855">
@@ -1382,63 +1439,9 @@
       <title>Custom Model</title>
     </folder>
   </folder>
-  <bookmark href="https://creator.nightcafe.studio/studio" id="33818">
-    <title>NightCafe</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33861">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33862">
-    <title>Microsoft Designer</title>
-  </bookmark>
-  <bookmark href="chrome://extensions/" id="33894">
-    <title>Settings - Extensions</title>
-  </bookmark>
-  <bookmark href="chrome://settings/content/microphone" id="33895">
-    <title>Settings - Microphone</title>
-  </bookmark>
-  <bookmark href="https://codeassist.google/" id="33917">
-    <title>Gemini Code Assist</title>
-  </bookmark>
-  <bookmark href="https://manus.im/app" id="33947">
-    <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/cody" id="33948">
-    <title>Cody</title>
-  </bookmark>
-  <bookmark href="https://ampcode.com/" id="33951">
-    <title>Amp</title>
-  </bookmark>
-  <bookmark href="https://claude.ai/" id="33952">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://sourcegraph.com/" id="33972">
-    <title>Sourcegraph</title>
-  </bookmark>
-  <bookmark href="https://copilot.microsoft.com/chats/" id="33986">
-    <title>Copilot:</title>
-  </bookmark>
-  <bookmark href="https://www.perplexity.ai/" id="33988">
-    <title>Perplexity</title>
-  </bookmark>
-  <bookmark href="https://cursor.com/agents" id="33989">
-    <title>Cursor</title>
-  </bookmark>
-  <bookmark href="https://scribblediffusion.com/" id="33990">
-    <title>Scribble Diffusion</title>
-  </bookmark>
-  <bookmark href="https://gemini.google.com/app" id="34007">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://www.krea.ai/" id="34008">
-    <title>Krea</title>
-  </bookmark>
-  <bookmark href="https://platform.openai.com/" id="34009">
-    <title>OpenAI API</title>
-  </bookmark>
-  <bookmark href="https://console.mistral.ai/" id="34033">
-    <title>Mistral La Plateforme</title>
-  </bookmark>
+  <folder id="33815">
+    <title>Text-to-Speech</title>
+  </folder>
 </folder>
 <folder id="32961">
   <title>Google</title>
@@ -3880,6 +3883,9 @@
     <bookmark href="https://www.nuance.com/index.html" id="34026">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
     </bookmark>
+    <bookmark href="https://www.speechtexter.com/" id="36348">
+      <title>SpeechTexter</title>
+    </bookmark>
   </folder>
   <folder id="33961">
     <title>Speech-to-Text</title>
@@ -3925,36 +3931,6 @@
         <title>Modelbit</title>
       </bookmark>
     </folder>
-    <folder id="34012">
-      <title>Custom Model</title>
-      <bookmark href="https://huggingface.co/spaces" id="34045">
-        <title>Hugging Face</title>
-      </bookmark>
-      <bookmark href="https://replicate.com/playground" id="34046">
-        <title>Replicate</title>
-      </bookmark>
-      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="34047">
-        <title>runpod</title>
-      </bookmark>
-      <bookmark href="https://modal.com/playground/get_started" id="34048">
-        <title>Modal</title>
-      </bookmark>
-      <bookmark href="https://fireworks.ai/models?filter=Featured" id="34049">
-        <title>ireworks</title>
-      </bookmark>
-      <bookmark href="https://www.together.ai/" id="34050">
-        <title>Together AI</title>
-      </bookmark>
-      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="34051">
-        <title>Amazon Bedrock Custom Model Import</title>
-      </bookmark>
-      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="34052">
-        <title>Azure Machine Learning</title>
-      </bookmark>
-      <bookmark href="https://cloud.google.com/vertex-ai" id="34053">
-        <title>Vertex AI Platform | Google Cloud</title>
-      </bookmark>
-    </folder>
     <folder id="34013">
       <title>Stable Model</title>
       <bookmark href="https://platform.openai.com/chat/edit" id="34054">
@@ -3995,6 +3971,36 @@
       </bookmark>
       <bookmark href="https://aws.amazon.com/ec2/" id="34065">
         <title>Amazon EC2</title>
+      </bookmark>
+    </folder>
+    <folder id="34012">
+      <title>Custom Model</title>
+      <bookmark href="https://huggingface.co/spaces" id="34045">
+        <title>Hugging Face</title>
+      </bookmark>
+      <bookmark href="https://replicate.com/playground" id="34046">
+        <title>Replicate</title>
+      </bookmark>
+      <bookmark href="https://www.runpod.io/product/cloud-gpus" id="34047">
+        <title>runpod</title>
+      </bookmark>
+      <bookmark href="https://modal.com/playground/get_started" id="34048">
+        <title>Modal</title>
+      </bookmark>
+      <bookmark href="https://fireworks.ai/models?filter=Featured" id="34049">
+        <title>ireworks</title>
+      </bookmark>
+      <bookmark href="https://www.together.ai/" id="34050">
+        <title>Together AI</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/bedrock/custom-model-import/" id="34051">
+        <title>Amazon Bedrock Custom Model Import</title>
+      </bookmark>
+      <bookmark href="https://azure.microsoft.com/en-us/products/machine-learning/" id="34052">
+        <title>Azure Machine Learning</title>
+      </bookmark>
+      <bookmark href="https://cloud.google.com/vertex-ai" id="34053">
+        <title>Vertex AI Platform | Google Cloud</title>
       </bookmark>
     </folder>
   </folder>
