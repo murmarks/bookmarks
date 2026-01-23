@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :36364: for Floccus bookmark sync browser extension -->
+<!--- highestId :36374: for Floccus bookmark sync browser extension -->
 
 <folder id="32806">
   <title>No-Cache</title>
@@ -4766,9 +4766,6 @@
   <bookmark href="https://www.krea.ai/" id="35220">
     <title>Krea</title>
   </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="35221">
-    <title>Canva</title>
-  </bookmark>
   <bookmark href="https://replit.com/" id="35222">
     <title>Replit</title>
   </bookmark>
@@ -4930,9 +4927,6 @@
   </bookmark>
   <bookmark href="https://manus.im/app" id="35275">
     <title>Manus</title>
-  </bookmark>
-  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="35276">
-    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
   </bookmark>
   <bookmark href="https://ampcode.com/" id="35277">
     <title>Amp</title>
@@ -5390,9 +5384,6 @@
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="36332">
     <title>ImagineArt Image Studio</title>
   </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="36333">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
-  </bookmark>
   <bookmark href="https://openart.ai/" id="36334">
     <title>Create Art or Modify Images with AI</title>
   </bookmark>
@@ -5402,14 +5393,8 @@
   <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="36336">
     <title>Canva</title>
   </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="36337">
-    <title>SeaArt</title>
-  </bookmark>
   <bookmark href="https://openart.ai/" id="36338">
     <title>OpenArt</title>
-  </bookmark>
-  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="36339">
-    <title>Microsoft Designer</title>
   </bookmark>
   <bookmark href="https://codeassist.google/" id="36340">
     <title>Gemini Code Assist</title>
@@ -5426,26 +5411,11 @@
   <bookmark href="https://sourcegraph.com/" id="36344">
     <title>Sourcegraph</title>
   </bookmark>
-  <bookmark href="https://replit.com/" id="36345">
-    <title>Replit</title>
-  </bookmark>
   <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="36346">
     <title>ImagineArt</title>
   </bookmark>
   <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="33112">
     <title>Microsoft Designer - Stunning designs in a flash</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/" id="32985">
-    <title>Create Art or Modify Images with AI</title>
-  </bookmark>
-  <bookmark href="https://replit.com/" id="33462">
-    <title>Replit – Build apps and sites with AI</title>
-  </bookmark>
-  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="33463">
-    <title>ImagineArt Image Studio</title>
-  </bookmark>
-  <bookmark href="https://www.seaart.ai/create/image" id="33464">
-    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
   </bookmark>
   <folder id="33747">
     <title>Text-to-Speech</title>
@@ -5867,6 +5837,30 @@
       <title>Chrome Speak Test</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.seaart.ai/create/image" id="36367">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="36368">
+    <title>SeaArt</title>
+  </bookmark>
+  <bookmark href="https://designer.microsoft.com/image-creator?scenario=texttoimage" id="36369">
+    <title>Microsoft Designer</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="36370">
+    <title>Replit</title>
+  </bookmark>
+  <bookmark href="https://openart.ai/" id="36371">
+    <title>Create Art or Modify Images with AI</title>
+  </bookmark>
+  <bookmark href="https://replit.com/" id="36372">
+    <title>Replit – Build apps and sites with AI</title>
+  </bookmark>
+  <bookmark href="https://www.imagine.art/dashboard/image/tool/text-to-image" id="36373">
+    <title>ImagineArt Image Studio</title>
+  </bookmark>
+  <bookmark href="https://www.seaart.ai/create/image" id="36374">
+    <title>AI Creativity Community for Art, Video, Chat &amp; Tools - SeaArt AI</title>
+  </bookmark>
 </folder>
 <folder id="33092">
   <title>Google</title>
@@ -7157,6 +7151,12 @@
       <title>Thim Elementor Kit - ThimPress Docs</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="36365">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
+  <bookmark href="https://www.canva.com/tr_tr/sihirli-yazi/" id="36366">
+    <title>Sihirli Yazı: Yapay Zeka Metin Oluşturma Aracı | Canva</title>
+  </bookmark>
 </folder>
 <folder id="32968">
   <title>ACCOUNTS</title>
