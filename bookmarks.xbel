@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :36358: for Floccus bookmark sync browser extension -->
+<!--- highestId :36364: for Floccus bookmark sync browser extension -->
 
 <folder id="32806">
   <title>No-Cache</title>
@@ -5827,26 +5827,8 @@
   </folder>
   <folder id="36237">
     <title>Speed-to-Text</title>
-    <bookmark href="https://speakscribe.com/" id="36251">
-      <title>SpeakScribe</title>
-    </bookmark>
-    <bookmark href="https://dictanote.co/voicein/" id="36252">
-      <title>Voice In</title>
-    </bookmark>
-    <bookmark href="https://speechnotes.co/" id="36253">
-      <title>speechnotes.co</title>
-    </bookmark>
-    <bookmark href="https://docs.google.com/" id="36254">
-      <title>Google Docs</title>
-    </bookmark>
     <bookmark href="https://www.speechtexter.com/" id="33030">
       <title>SpeechTexter</title>
-    </bookmark>
-    <bookmark href="https://www.onenote.com/notebooks" id="36255">
-      <title>Notebooks</title>
-    </bookmark>
-    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="36256">
-      <title>Chrome Speak Test</title>
     </bookmark>
     <bookmark href="https://www.naturalreaders.com/" id="36257">
       <title>AI Voices - NaturalReader Home</title>
@@ -5865,6 +5847,24 @@
     </bookmark>
     <bookmark href="https://www.nuance.com/index.html" id="36262">
       <title>Nuance - Achieve even more. Nuance is now Microsoft. | Nuance</title>
+    </bookmark>
+    <bookmark href="https://speakscribe.com/" id="36359">
+      <title>SpeakScribe</title>
+    </bookmark>
+    <bookmark href="https://dictanote.co/voicein/" id="36360">
+      <title>Voice In</title>
+    </bookmark>
+    <bookmark href="https://speechnotes.co/" id="36361">
+      <title>speechnotes.co</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/" id="36362">
+      <title>Google Docs</title>
+    </bookmark>
+    <bookmark href="https://www.onenote.com/notebooks" id="36363">
+      <title>Notebooks</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/intl/tr/chrome/demos/speech.html" id="36364">
+      <title>Chrome Speak Test</title>
     </bookmark>
   </folder>
 </folder>
@@ -7135,9 +7135,6 @@
     <bookmark href="http://localhost/site/" id="36302">
       <title>Deneme</title>
     </bookmark>
-    <bookmark href="https://docs.thimpress.com/thim-elementor-kit/" id="36303">
-      <title>Thim Elementor Kit - ThimPress Docs</title>
-    </bookmark>
     <bookmark href="https://doktorvural.com/tr/wp-admin/plugins.php" id="36304">
       <title>Eklentiler ‹ Dr.Murat Vural Online Eğitim — WordPress</title>
     </bookmark>
@@ -7155,6 +7152,9 @@
     </bookmark>
     <bookmark href="http://localhost/site/wp-admin/index.php" id="36309">
       <title>Dashboard ‹ Deneme — WordPress</title>
+    </bookmark>
+    <bookmark href="https://docs.thimpress.com/thim-elementor-kit/" id="36303">
+      <title>Thim Elementor Kit - ThimPress Docs</title>
     </bookmark>
   </folder>
 </folder>
